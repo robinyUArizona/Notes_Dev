@@ -1,0 +1,83 @@
+ 
+
+========================================== ENVIRONMENT SETUP ==================================================
+
+
+
+
+
+To set environment as Base:
+
+
+
+================= To create conda virtual environment ============
+Step 1: Check if conda is installed in your path.
+conda -V
+
+Step 2: Update the conda environment
+conda update conda
+
+Step 3: Create the virtual environment
+conda create --name envname python=x.x
+conda create -p envname python=3.9 -y
+
+
+Step 4: Activating the virtual environment
+conda activate envname
+conda activate .\envname
+conda activate ./envname
+
+Step 5: Installation of required packages to the virtual environment
+conda install -n yourenvname package
+
+Step 6: Deactivating the virtual environment
+conda deactivate
+
+Step 7: Deletion of virtual environment
+conda remove -n name envname --all
+
+--> conda env list
+--> conda list -e > requirements.txt
+
+
+
+
+======== To create Python environment ==================
+1. Install virtualenv using
+pip install virtualenv
+
+2. Now in which ever directory you are, this line below will create a virtualenv there
+python -m venv virtualenviromentName
+python3.8 -m venv virtualenviromentName
+
+3. Now if you are same directory then type,
+virtualenviromentName\Scripts\activate
+
+4. you can deactivate it like
+deactivate
+
+--> ls virtualenv
+--> pip freeze > requirements.txt
+--> pip list
+
+
+
+================ Setting up Environment in "jupyter lab" ===============
+## To list existing Jupyter virtual environments
+jupyter kernelspec list
+
+
+## Make sure that ipykernel is installed
+pip install --user ipykernel
+
+## Add the new virtual environment to Jupyter
+python -m ipykernel install --user --name='environment_name'
+
+
+## To remove the environment from Jupyter
+jupyter kernelspec uninstall 'environment_name'
+
+!pip install ipywidgets --upgrade
+!pip install jupyter --upgrade
+!jupyter nbextension enable --py widgetsnbextension --sys-prefix
+!jupyter nbextension install --py widgetsnbextension --sys-prefix

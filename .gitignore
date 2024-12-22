@@ -136,6 +136,13 @@ ENV/
 env.bak/
 venv.bak/
 
+# Files and Folders
+API Keys Notes
+AWS Notes.txt
+GitHub_credentials.txt
+Notes from Work.txt
+
+
 # Spyder project settings
 .spyderproject
 .spyproject

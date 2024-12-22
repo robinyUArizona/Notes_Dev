@@ -1,0 +1,83 @@
+
+
+Edit the environment variable with:
+By adding following 2 path in Path variable
+C:\ProgramData\Miniconda3\Scripts\conda.exe
+C:\ProgramData\Miniconda3\Library\bin
+
+=================================================================================
+=> Add conda in powershell and make powershell path shortened
+Edit .ps1 file
+C:\Users\yrobi\Documents\WindowsPowerShell\profile.ps1
+
+#region conda initialize
+# !! Contents within this block are managed by 'conda init' !!
+(& "C:\Users\yrobi\anaconda3\Scripts\conda.exe" "shell.powershell" "hook") | Out-String | Invoke-Expression
+#endregion
+
+# Custom prompt to show Conda or Python virtual environment and shortened path
+function Prompt {
+    # Get the current Conda environment (only the name, without the path)
+    $condaEnv = if ($env:CONDA_DEFAULT_ENV) {
+        $env:CONDA_DEFAULT_ENV -replace ".+[/\\]"  # Remove the long path, keep the environment name
+    }
+
+    # Get the current Python virtual environment (only the name, without the path)
+    $pythonEnv = if ($env:VIRTUAL_ENV) {
+        [System.IO.Path]::GetFileName($env:VIRTUAL_ENV)  # Extract the folder name of the virtualenv
+    }
+
+    # Get only the current folder name
+    $currentPath = Split-Path -Leaf (Get-Location)
+
+    # Construct the prompt based on which environment is active
+    if ($condaEnv) {
+        # Show Conda environment name and current folder
+        "$condaEnv ($currentPath)> "
+    } elseif ($pythonEnv) {
+        # Show Python virtual environment name and current folder
+        "$pythonEnv ($currentPath)> "
+    } else {
+        # Show only the current folder if no environment is active
+        "$currentPath> "
+    }
+}
+
+
+===========================================================================================
+
+
+
+
+
+
+
+
+
+
+
+1. From Anaconda Powershell Prompt
+conda init powershell
+
+2. From windows powershell
+conda config --set auto_activate_base false
+
+change false to true to open by default
+conda config --set auto_activate_base true
+
+Note: 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+Get-ExecutionPolicy -List
+
+Scope ExecutionPolicy
+        ----- ---------------
+MachinePolicy       Undefined
+   UserPolicy       Undefined
+      Process       Undefined
+  CurrentUser    RemoteSigned
+ LocalMachine    RemoteSigned
+
+===================================================================================

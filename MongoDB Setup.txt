@@ -1,0 +1,27 @@
+MongoDB:
+
+robinsy1996@gmail.com
+Cluster: 
+	username: robinsy1996
+	password: learn_mongodb_connect
+
+Click on create database user
+
+
+connection_string = "mongodb+srv://robinsy1996:ODpAzKBX1yJyMCAj@cluster-aml-fraud-detec.ykgls.mongodb.net/?retryWrites=true&w=majority&appName=cluster-aml-fraud-detector"
+
+
+from pymongo.mongo_client import MongoClient
+
+uri = "mongodb+srv://robinsy1996:ODpAzKBX1yJyMCAj@cluster-aml-fraud-detec.ykgls.mongodb.net/?retryWrites=true&w=majority&appName=cluster-aml-fraud-detector"
+
+# Create a new client and connect to the server
+client = MongoClient(uri)
+
+# Send a ping to confirm a successful connection
+try:
+    client.admin.command('ping')
+    print("Pinged your deployment. You successfully connected to MongoDB!")
+except Exception as e:
+    print(e)
+

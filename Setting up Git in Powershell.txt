@@ -1,0 +1,15 @@
+
+
+
+
+================ Setting up Git in Powershell ========================
+> cd C:\
+
+> Set-ExecutionPolicy -Scope Localmachine -ExecutionPolicy RemoteSigned -Force
+> Install-Module posh-git -Scope CurrentUser -Force
+> Install-Module posh-git -Scope CurrentUser -AllowPrerelease -Force
+> git --version
+
+=======================================================================
+
+
