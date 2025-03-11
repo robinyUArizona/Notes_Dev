@@ -20,6 +20,7 @@ conda update conda
 Step 3: Create the virtual environment
 conda create --name envname python=x.x
 conda create -p envname python=3.9 -y
+conda env create -p ./envname -f genai.yml 
 
 
 Step 4: Activating the virtual environment
@@ -34,7 +35,7 @@ Step 6: Deactivating the virtual environment
 conda deactivate
 
 Step 7: Deletion of virtual environment
-conda remove -n name envname --all
+conda remove -n envname --all
 
 --> conda env list
 --> conda list -e > requirements.txt
