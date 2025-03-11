@@ -1,0 +1,1501 @@
+id,gender,age,height_weight,family_history,high_calorie_food,vegetable_meals,meals,binge_eating,smoke,water_consumption,monitor_calories,num_physical_activity,digital_tracker,alcohol,transportation_mode,outcome
+0,Female,38,1.548178;62,yes,yes,2.956671,2.965494,Sometimes,no,2.868132,no,0.0,0.54925,Sometimes,Automobile,0
+1,Male,twenty-one,1.607082;sixty-seven,yes,yes,2.0,3.691226,no,no,3.0,no,1.228136,0.3352,Sometimes,Public_Transportation,0
+2,Female,twenty-six,"1.639524,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.739351,no,0.0,0.064769,Sometimes,Public_Transportation,1
+3,Male,18,1.859056_one hundred and eleven,yes,yes,2.0,1.706551,Sometimes,no,2.039514,no,1.0,2.0,Sometimes,Public_Transportation,1
+4,Female,18,"1.6,58",yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,0.0,no,Public_Transportation,0
+5,Female,twenty-six,1.61739_one hundred and five,yes,yes,3.0,3.0,Sometimes,no,1.292479,no,0.0,0.541309,Sometimes,Public_Transportation,1
+6,Male,nineteen,1.767335;55,yes,yes,2.0,4.0,Sometimes,no,2.157395,no,2.0,1.679149,no,Automobile,0
+7,Female,twenty-five,1.674515;112,yes,yes,3.0,3.0,Sometimes,no,2.989389,no,0.36009,0.169016,Sometimes,Public_Transportation,1
+8,Female,fifty-two,1.69;87,yes,yes,3.0,1.0,Sometimes,yes,2.0,no,0.0,0.0,no,Automobile,1
+9,Female,nineteen,1.623377;82,yes,yes,1.276858,2.918124,Sometimes,no,1.403784,no,0.552511,1.560402,Sometimes,Public_Transportation,1
+10,Male,seventeen,1.80671_59,yes,yes,2.424977,4.0,Sometimes,no,2.0,no,2.0,0.03921,no,Automobile,0
+11,Female,23,"1.742901,one hundred and thirty-two",yes,yes,3.0,3.0,Sometimes,no,2.856795,no,1.046463,0.586163,Sometimes,Public_Transportation,1
+12,Male,twenty-one,"1.8,75",yes,yes,3.0,3.0,Frequently,no,1.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+13,Male,twenty-four,"1.606066,99",yes,yes,3.0,1.418833,Sometimes,no,1.0,no,1.19102,1.384186,no,Public_Transportation,1
+14,Female,20,"-3.0,forty-five",no,yes,3.0,3.0,Frequently,no,1.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+15,Male,twenty-four,"1.86741,one hundred and twenty-one",yes,yes,2.954417,2.65772,Sometimes,no,2.104696,no,0.870056,0.0,Sometimes,Public_Transportation,1
+16,Female,twenty-four,1.6_forty-eight,no,yes,3.0,3.0,Sometimes,no,2.0,no,2.0,0.0,no,Public_Transportation,0
+17,Male,twenty-three,"1.761008,ninety-seven",yes,yes,2.0,3.0,Sometimes,no,2.988771,no,2.429923,1.978043,no,Public_Transportation,1
+18,Male,thirty,1.906821_128,yes,yes,2.633855,3.0,Sometimes,no,1.619305,no,1.847802,0.424612,Sometimes,Public_Transportation,1
+19,Female,eighteen,1.602129_82,yes,yes,2.319648,3.0,Sometimes,no,1.107164,no,0.692123,0.30402,no,Public_Transportation,1
+20,Male,eighteen,1.7;fifty-five,yes,yes,3.0,3.0,Sometimes,no,2.0,no,3.0,0.0,Sometimes,Public_Transportation,0
+21,Female,29,1.53;78,no,yes,2.0,1.0,Sometimes,no,2.0,no,0.0,0.0,no,Automobile,1
+22,Male,twenty-seven,1.673767_89,yes,yes,1.961069,3.0,Sometimes,no,2.652327,no,0.56931,0.319008,Sometimes,Automobile,1
+23,Male,twenty-one,"1.605314,66",yes,yes,2.357496,3.376717,Sometimes,no,2.184843,no,1.358185,0.014885,Sometimes,Public_Transportation,0
+24,Male,29,-2.0;109,yes,yes,2.407817,2.070033,Sometimes,no,1.796257,no,1.234483,0.178708,Sometimes,Automobile,1
+25,Male,twenty-seven,"1.82559,120",yes,yes,3.0,3.0,Sometimes,no,3.0,no,0.691369,1.415536,Sometimes,Public_Transportation,1
+26,Male,twenty,"1.83,sixty-six",no,no,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+27,Male,seventeen,1.67_60,no,no,2.0,4.0,Always,no,2.0,no,0.0,2.0,no,Public_Transportation,0
+28,Male,twenty-nine,1.76003_one hundred and twelve,yes,yes,2.262292,3.0,Sometimes,no,2.115354,no,0.0,0.847587,Sometimes,Automobile,1
+29,Female,twenty-six,"1.656504,111",yes,yes,3.0,3.0,Sometimes,no,2.893117,no,0.0,0.01931,Sometimes,Public_Transportation,1
+30,Female,39,1.532643;seventy-seven,yes,yes,2.0,3.0,Sometimes,no,1.186996,no,0.0,0.0,Sometimes,Automobile,1
+31,Female,twenty-one,1.666203;49,yes,yes,3.0,3.0,Frequently,no,2.593459,no,2.0,1.0,no,Public_Transportation,0
+32,Female,20,1.738717_128,yes,yes,3.0,3.0,Sometimes,no,1.797041,no,1.427413,0.966181,Sometimes,Public_Transportation,1
+33,Male,thirty,1.781139_120,yes,yes,2.111887,3.0,Sometimes,no,2.357373,no,0.425621,1.416353,Sometimes,Automobile,1
+34,Female,eighteen,"1.746416,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,2.858389,no,1.444382,0.713823,Sometimes,Public_Transportation,1
+35,Male,28,1.816547;one hundred and twenty,yes,yes,2.997951,3.0,Sometimes,no,2.715856,no,0.739881,0.972054,Sometimes,Automobile,1
+36,Male,thirty-seven,1.785957;99,yes,yes,2.04516,1.874532,Sometimes,no,2.856521,no,2.005286,0.105408,Sometimes,Automobile,1
+37,Female,19,1.662017_forty-nine,no,yes,1.4925,3.0,Sometimes,no,1.049134,no,2.0,1.0,Sometimes,Public_Transportation,0
+38,Female,18,1.819728_151,yes,yes,3.0,3.0,Sometimes,no,2.155926,no,1.999836,0.94603,Sometimes,Public_Transportation,1
+39,Male,twenty-four,1.613491_98,yes,yes,3.0,2.120936,Sometimes,no,1.0,no,1.543386,0.890213,no,Public_Transportation,1
+40,Female,18,1.609321;eighty-four,yes,yes,2.0,3.0,Sometimes,no,1.051735,no,1.0,0.0,no,Public_Transportation,1
+41,Male,25,"1.814696,107",yes,yes,2.921225,3.0,Sometimes,no,2.869439,no,0.181753,0.133523,Sometimes,Public_Transportation,1
+42,Male,18,"-8.0,sixty",yes,yes,3.0,4.0,Sometimes,no,2.0,no,2.0,0.0,no,Automobile,0
+43,Male,twenty-one,"1.87199,one hundred and fifteen",yes,yes,2.0,2.358455,Sometimes,no,2.515765,no,0.98232,1.157466,Sometimes,Public_Transportation,1
+44,Male,twenty-nine,1.773656;eighty-seven,no,yes,1.595746,3.618722,Sometimes,no,1.274389,no,1.504003,0.370067,no,Automobile,0
+45,Female,19,1.653209_49,no,no,2.530066,3.0,Sometimes,no,1.965237,no,2.0,1.0,Sometimes,Public_Transportation,0
+46,Male,23,1.74_one hundred and five,yes,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,1
+47,Male,twenty-three,"1.754218,117",yes,yes,1.617093,3.0,Sometimes,no,2.0,no,1.818052,0.631825,Sometimes,Public_Transportation,1
+48,Female,thirty-seven,1.560199;eighty,yes,yes,2.533605,1.271624,Sometimes,no,1.893691,no,1.296535,0.0,Sometimes,Automobile,1
+49,Male,eighteen,1.752123_80,yes,yes,2.0,2.794156,Sometimes,no,2.377362,no,0.101236,0.105895,no,Public_Transportation,0
+50,Male,eighteen,1.85_sixty,yes,yes,3.0,4.0,Sometimes,no,2.0,yes,2.0,0.0,Sometimes,Automobile,0
+51,Female,twenty-five,"-3.0,110",yes,yes,3.0,3.0,Sometimes,no,2.447306,no,0.000454,0.486558,Sometimes,Public_Transportation,1
+52,Male,eighteen,1.792687_108,yes,yes,2.0,2.478794,Sometimes,no,2.967064,no,1.0,0.4346,no,Public_Transportation,1
+53,Female,twenty-two,-7.0_fifty-one,yes,yes,2.984425,3.0,Frequently,no,2.044694,no,2.008256,1.250871,no,Public_Transportation,0
+54,Female,26,1.59_forty-seven,yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+55,Female,nineteen,1.631662_82,yes,yes,2.843456,2.937989,Sometimes,no,1.001995,no,0.0,1.554404,no,Public_Transportation,1
+56,Female,twenty-one,1.55_fifty-seven,no,yes,2.0,4.0,Frequently,no,2.0,yes,2.0,0.0,Sometimes,Automobile,0
+57,Male,24,1.653751_ninety-one,yes,yes,1.492834,3.0,Sometimes,no,1.005367,no,0.922739,0.733221,no,Automobile,1
+58,Female,eighteen,"1.62,fifty-five",yes,yes,2.0,3.0,Frequently,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+59,Male,eighteen,1.797523_108,yes,yes,2.0,1.941307,Sometimes,no,2.708168,no,1.0,1.425852,no,Public_Transportation,1
+60,Male,30,"1.92,one hundred and thirty",yes,no,2.0,3.0,Sometimes,yes,1.0,no,1.0,0.0,Sometimes,Public_Transportation,1
+61,Male,thirty,"1.758355,one hundred and twelve",yes,yes,1.750809,3.0,Sometimes,no,2.002871,no,0.0,0.114457,Sometimes,Automobile,1
+62,Female,21,1.6;66,yes,yes,2.108711,3.0,Sometimes,no,2.746197,no,1.910432,0.0,Sometimes,Public_Transportation,0
+63,Male,20,"1.78,sixty-eight",no,no,2.0,1.0,Frequently,no,3.0,yes,2.0,1.0,no,Public_Transportation,0
+64,Female,18,"1.82773,one hundred and fifty-two",yes,yes,3.0,3.0,Sometimes,no,2.154949,no,1.999897,0.957463,Sometimes,Public_Transportation,1
+65,Male,26,"1.7,seventy-two",no,yes,2.0,3.0,Always,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+66,Female,25,"1.63073,104",yes,yes,3.0,3.0,Sometimes,no,2.436097,no,0.129178,0.683736,Sometimes,Public_Transportation,1
+67,Female,twenty,1.782453;one hundred and thirty-seven,yes,yes,3.0,3.0,Sometimes,no,2.748909,no,1.989171,0.832515,Sometimes,Public_Transportation,1
+68,Female,thirty-seven,-6.0;seventy-five,yes,yes,2.0,2.582591,Sometimes,no,1.535134,no,1.88452,0.0,Sometimes,Automobile,1
+69,Male,18,1.753389;fifty-four,yes,yes,2.0,3.16645,Sometimes,no,2.278578,no,1.838881,2.0,Sometimes,Public_Transportation,0
+70,Female,26,1.634894_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.737353,no,0.0,0.076094,Sometimes,Public_Transportation,1
+71,Female,twenty-three,1.6_83,yes,yes,3.0,3.0,Frequently,no,3.0,no,3.0,0.0,no,Public_Transportation,1
+72,Male,25,1.71_seventy-one,yes,yes,2.0,3.0,Frequently,no,2.0,no,0.0,0.0,Sometimes,Motorbike,0
+73,Female,twenty-six,-10.0;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,2.57721,no,0.0,0.402075,Sometimes,Public_Transportation,1
+74,Male,24,"1.779547,118",yes,yes,2.736298,2.992903,Sometimes,no,2.045561,no,0.854957,0.428452,Sometimes,Public_Transportation,1
+75,Female,twenty-one,1.751067;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.748569,no,1.427037,0.902825,Sometimes,Public_Transportation,1
+76,Male,23,1.71_50,yes,yes,2.0,3.0,Always,no,3.0,no,0.0,2.0,no,Public_Transportation,0
+77,Female,22,"1.620938,eighty-two",yes,yes,1.967061,1.0,Sometimes,no,2.548651,no,0.249264,1.516731,Sometimes,Public_Transportation,1
+78,Male,eighteen,"1.7108,fifty",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,1.593704,Sometimes,Public_Transportation,0
+79,Female,forty,"1.52906,seventy-nine",yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,1
+80,Male,twenty-two,1.717288;75,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+81,Female,forty,"1.55,62",yes,no,3.0,3.0,Sometimes,no,3.0,no,0.0,0.0,Sometimes,Automobile,0
+82,Female,eighteen,1.801983_138,yes,yes,3.0,3.0,Sometimes,no,2.691591,no,1.168368,0.735372,Sometimes,Public_Transportation,1
+83,Female,20,"1.524926,forty-two",no,yes,2.866383,1.226342,Frequently,no,1.0,no,0.14495,0.0,Sometimes,Public_Transportation,0
+84,Male,17,-8.0;58,yes,yes,2.559571,3.047959,Sometimes,no,2.0,no,2.011646,0.588994,no,Automobile,0
+85,Female,twenty,1.61_sixty-four,yes,no,3.0,3.0,Always,no,2.0,yes,0.0,1.0,Frequently,Public_Transportation,0
+86,Male,twenty-one,"1.62,70",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+87,Male,21,"1.62,70",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+88,Male,17,1.896734;fifty-nine,yes,yes,2.842102,3.34175,Sometimes,no,2.0,no,2.511157,0.560351,no,Automobile,0
+89,Male,nineteen,1.879144;one hundred and twelve,yes,yes,2.0,2.152733,Sometimes,no,2.53369,no,0.917563,1.285838,Sometimes,Public_Transportation,1
+90,Male,twenty-five,1.762461;one hundred and fifteen,yes,yes,2.178308,3.0,Sometimes,no,2.165804,no,1.420675,1.875683,Sometimes,Public_Transportation,1
+91,Male,thirty-two,1.783901;103,yes,yes,2.902469,1.734762,Sometimes,no,2.600238,no,2.113992,0.584755,Sometimes,Automobile,1
+92,Female,20,1.777971;one hundred and thirty-seven,yes,yes,3.0,3.0,Sometimes,no,2.702789,no,1.606109,0.731213,Sometimes,Public_Transportation,1
+93,Male,twenty-two,1.717262;ninety-eight,yes,yes,2.0,2.984523,Sometimes,no,2.263551,no,2.819661,2.0,no,Public_Transportation,1
+94,Female,twenty,"1.741193,one hundred and twenty-eight",yes,yes,3.0,3.0,Sometimes,no,1.768111,no,0.616503,0.968151,Sometimes,Public_Transportation,1
+95,Female,twenty-four,1.62;58,no,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+96,Female,twenty-two,1.67_50,yes,no,3.0,3.0,no,no,3.0,yes,2.0,1.0,Sometimes,Public_Transportation,0
+97,Male,24,1.603226_ninety-nine,yes,yes,3.0,1.262831,Sometimes,no,1.0,no,0.883171,1.382995,no,Public_Transportation,1
+98,Male,twenty-two,"1.754711,one hundred and five",yes,yes,2.871137,3.0,Sometimes,no,2.627569,no,1.0,0.0,Sometimes,Public_Transportation,1
+99,Male,twenty,1.792646;105,yes,yes,2.0,3.0,Sometimes,no,1.025275,no,0.00203,0.175587,Sometimes,Public_Transportation,1
+100,Male,30,"1.76,one hundred and twelve",yes,yes,1.0,3.0,no,yes,2.0,yes,0.0,0.0,Frequently,Automobile,1
+101,Male,twenty-three,"1.74,fifty-three",no,yes,2.0,3.0,Frequently,no,1.0,no,3.0,2.0,no,Public_Transportation,0
+102,Male,23,"1.82,one hundred and seven",no,yes,2.0,3.0,Sometimes,no,3.0,no,0.0,1.0,Sometimes,Public_Transportation,1
+103,Male,twenty-one,1.698049_seventy-five,yes,yes,2.0,3.0,Sometimes,no,2.763573,no,1.502711,0.127879,Sometimes,Public_Transportation,0
+104,Male,21,1.855353;eighty-six,yes,yes,2.0,3.0,Sometimes,no,1.345298,no,1.097905,1.0,Sometimes,Public_Transportation,0
+105,Female,21,"-2.0,152",yes,yes,3.0,3.0,Sometimes,no,2.374958,no,0.750111,0.671458,Sometimes,Public_Transportation,1
+106,Male,twenty-five,1.763215;one hundred and fifteen,yes,yes,2.21965,3.0,Sometimes,no,2.165408,no,1.315045,0.688985,Sometimes,Public_Transportation,1
+107,Male,nineteen,"1.814255,85",yes,yes,2.971351,3.390143,Sometimes,no,2.133767,no,2.318492,0.678618,Sometimes,Public_Transportation,0
+108,Male,twenty-three,"1.8,sixty",yes,no,2.0,3.0,no,no,3.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+109,Female,twenty-two,"1.752206,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,2.054193,no,1.414209,0.646288,Sometimes,Public_Transportation,1
+110,Female,twenty-one,1.8002_one hundred and fifty-five,yes,yes,3.0,3.0,Sometimes,no,2.351193,no,1.051889,0.686491,Sometimes,Public_Transportation,1
+111,Male,twenty-two,1.67;sixty-two,no,yes,2.0,1.0,no,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+112,Female,18,1.725233_75,yes,yes,2.927409,3.0,Sometimes,no,2.209991,no,1.0,0.797215,Frequently,Public_Transportation,0
+113,Male,nineteen,"1.785062,104",yes,yes,2.0,3.0,Sometimes,no,2.15157,no,1.605983,0.0,no,Public_Transportation,1
+114,Female,38,"1.501993,seventy-six",yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,1
+115,Male,eighteen,1.753349_51,no,yes,2.823179,3.0,Sometimes,no,1.773236,no,1.252472,1.0,Sometimes,Public_Transportation,0
+116,Male,17,1.854162;59,yes,yes,2.966126,3.96981,Sometimes,no,2.0,no,2.000088,0.378619,no,Automobile,0
+117,Male,18,1.76;70,yes,yes,2.0,4.0,Frequently,no,2.0,no,2.0,1.0,Sometimes,Automobile,0
+118,Male,twenty-five,1.787052;one hundred and fifteen,yes,yes,1.992889,3.0,Sometimes,no,2.141271,no,1.121038,0.0,Sometimes,Public_Transportation,1
+119,Female,20,1.694439_122,yes,yes,3.0,3.0,Sometimes,no,1.409444,no,0.933595,0.840393,Sometimes,Public_Transportation,1
+120,Male,24,"1.796415,one hundred and twenty",yes,yes,2.475892,3.0,Sometimes,no,2.949356,no,1.866839,0.100048,Sometimes,Public_Transportation,1
+121,Male,19,1.82;eighty-seven,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,no,Public_Transportation,0
+122,Female,thirty-one,"1.680858,71",yes,yes,2.048216,3.0,Sometimes,no,1.305816,no,0.170452,0.276806,Sometimes,Automobile,0
+123,Male,twenty-one,1.71266;fifty-one,yes,yes,3.0,3.156153,Frequently,no,1.253803,no,0.544784,0.256382,no,Public_Transportation,0
+124,Male,thirty-one,1.87407;one hundred and twenty-eight,yes,yes,2.956297,3.0,Sometimes,yes,1.2751,no,0.901924,1.875023,Sometimes,Automobile,1
+125,Male,18,1.82093;one hundred and eight,yes,yes,2.0,1.25535,Sometimes,no,2.497065,no,1.0,1.441605,no,Public_Transportation,1
+126,Female,19,1.817917;one hundred and forty-two,yes,yes,3.0,3.0,Sometimes,no,2.562002,no,1.976427,0.740331,Sometimes,Public_Transportation,1
+127,Male,twenty-one,"1.75,fifty",yes,no,3.0,4.0,Frequently,no,1.0,no,1.0,0.0,no,Walking,0
+128,Male,22,1.762515;105,yes,yes,2.282803,3.0,Sometimes,no,2.104264,no,1.0,0.0,Sometimes,Public_Transportation,1
+129,Male,21,-8.0_seventy-five,yes,yes,2.0,3.0,Sometimes,no,1.081597,no,1.0,0.0,Sometimes,Public_Transportation,0
+130,Female,twenty-five,1.662978;one hundred and ten,yes,yes,3.0,3.0,Sometimes,no,1.679489,no,0.017804,0.21523,Sometimes,Public_Transportation,1
+131,Female,twenty-three,"1.717601,51",yes,yes,2.0,3.0,Frequently,no,1.426874,no,2.20208,2.0,no,Public_Transportation,0
+132,Female,31,-7.0;71,yes,yes,2.615788,3.0,Sometimes,no,1.771781,no,0.759422,0.686529,Sometimes,Automobile,0
+133,Male,forty-one,"1.75,118",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Bike,1
+134,Male,18,1.755823;52,no,yes,2.596364,3.0,Sometimes,no,2.0,no,0.281734,1.488372,Sometimes,Public_Transportation,0
+135,Female,eighteen,"1.64,fifty-nine",yes,yes,2.0,3.0,Sometimes,no,1.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+136,Female,thirty-six,1.55_62,yes,yes,2.392665,3.0,Sometimes,no,2.951056,no,0.0,0.369134,Sometimes,Automobile,0
+137,Female,nineteen,1.65;sixty-one,no,yes,3.0,1.0,Sometimes,no,3.0,yes,1.0,0.0,Sometimes,Public_Transportation,0
+138,Female,forty-one,"1.721854,82",no,yes,2.81646,3.36313,Sometimes,no,2.722063,no,3.0,0.26579,Sometimes,Automobile,0
+139,Male,twenty-four,1.774775;one hundred and seventeen,yes,yes,2.23372,2.993634,Sometimes,no,2.028368,no,0.863158,0.449886,Sometimes,Public_Transportation,1
+140,Male,twenty-six,"1.72,65",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Walking,0
+141,Female,forty-two,1.768231_75,yes,yes,3.0,2.951837,Sometimes,no,2.112032,no,0.378683,0.0,Sometimes,Automobile,0
+142,Male,22,1.627396_70,no,yes,2.0,1.0,no,no,2.976177,no,0.780117,0.0,Sometimes,Public_Transportation,0
+143,Male,twenty-two,-10.0_sixty-three,yes,yes,3.0,3.691226,Sometimes,no,2.650989,no,1.228136,0.8324,Sometimes,Automobile,0
+144,Female,thirty-seven,"1.549812,76",yes,yes,2.0,2.765213,Sometimes,no,1.551266,no,1.350001,0.0,Sometimes,Automobile,1
+145,Male,eighteen,-10.0_67,yes,yes,3.0,3.0,Frequently,no,3.0,yes,1.0,1.0,Sometimes,Automobile,0
+146,Male,twenty-seven,1.805445_one hundred and nineteen,yes,yes,2.911312,3.0,Sometimes,no,2.501808,no,0.94676,0.785701,Sometimes,Automobile,1
+147,Male,eighteen,1.85478_one hundred and fourteen,yes,yes,2.0,1.854536,Sometimes,no,2.160169,no,1.0,2.0,Sometimes,Public_Transportation,1
+148,Female,21,1.616467;sixty-eight,yes,yes,1.452524,3.950553,no,no,2.109858,no,0.508847,1.194633,Sometimes,Public_Transportation,0
+149,Male,seventeen,-8.0_fifty-five,yes,yes,2.0,4.0,Sometimes,no,2.369627,no,2.0,1.612466,no,Automobile,0
+150,Female,22,"1.65563,121",yes,yes,3.0,3.0,Sometimes,no,1.347559,no,0.462951,0.31794,Sometimes,Public_Transportation,1
+151,Female,19,1.817271;one hundred and forty-one,yes,yes,3.0,3.0,Sometimes,no,2.699675,no,1.520818,0.76399,Sometimes,Public_Transportation,1
+152,Female,twenty-six,"1.642572,111",yes,yes,3.0,3.0,Sometimes,no,2.623489,no,0.0,0.138563,Sometimes,Public_Transportation,1
+153,Male,17,"1.844749,fifty-nine",yes,yes,2.432886,3.0,Sometimes,no,2.0,no,2.697949,1.0,no,Automobile,0
+154,Female,seventeen,1.6;sixty-five,yes,yes,3.0,2.401341,Sometimes,no,2.0,yes,0.663896,1.753745,Sometimes,Public_Transportation,0
+155,Male,twenty-five,1.828391_120,yes,yes,3.0,3.0,Sometimes,no,3.0,no,1.685369,0.264969,Sometimes,Public_Transportation,1
+156,Male,31,"1.753327,118",yes,yes,2.232836,3.0,Sometimes,no,2.146398,no,0.886817,0.47787,Sometimes,Automobile,1
+157,Male,twenty-one,1.636592;seventy,no,yes,2.0,1.0,no,no,2.881677,no,0.915699,0.0,Sometimes,Public_Transportation,0
+158,Female,26,"1.643332,one hundred and ten",yes,yes,3.0,3.0,Sometimes,no,2.709654,no,0.0,0.25115,Sometimes,Public_Transportation,1
+159,Male,21,"-1.0,seventy",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+160,Female,twenty-seven,"1.55,62",no,yes,3.0,1.0,Sometimes,no,1.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+161,Male,twenty-seven,"1.704028,one hundred and one",yes,yes,2.630401,1.0,Sometimes,no,1.0,no,0.245354,0.315261,Sometimes,Automobile,1
+162,Female,twenty-five,"1.607128,one hundred and three",yes,yes,3.0,3.0,Sometimes,no,1.077253,no,0.162083,0.824607,Sometimes,Public_Transportation,1
+163,Male,20,1.56_forty-five,no,no,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+164,Female,twenty-one,1.675562;one hundred and twenty-one,yes,yes,3.0,3.0,Sometimes,no,1.484938,no,0.74225,0.604692,Sometimes,Public_Transportation,1
+165,Female,twenty-five,1.686306;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,1.152736,no,0.319156,1.0,Sometimes,Public_Transportation,1
+166,Male,26,1.74595;80,yes,yes,1.993101,3.171082,Sometimes,no,2.364498,no,1.224743,0.022245,Sometimes,Public_Transportation,0
+167,Male,twenty-one,-3.0;one hundred and five,yes,yes,2.252653,3.0,Sometimes,no,2.962371,no,1.0,0.0,Sometimes,Public_Transportation,1
+168,Male,21,1.75_seventy-five,yes,yes,3.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+169,Male,eighteen,"1.78,108",yes,no,2.0,3.0,Sometimes,no,3.0,no,1.0,0.0,no,Public_Transportation,1
+170,Female,twenty-five,-7.0;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,1.295436,no,0.282063,0.929356,Sometimes,Public_Transportation,1
+171,Female,20,1.71073;131,yes,yes,3.0,3.0,Sometimes,no,1.728139,no,1.676269,0.906247,Sometimes,Public_Transportation,1
+172,Male,nineteen,1.809101;85,yes,yes,3.0,3.0,Sometimes,no,2.229171,no,1.607953,0.628059,Sometimes,Public_Transportation,0
+173,Female,19,-9.0;forty-four,no,no,3.0,2.975362,Frequently,no,1.246822,yes,0.979701,0.0,Sometimes,Public_Transportation,0
+174,Male,33,1.76;sixty-six,no,no,2.0,3.0,Sometimes,no,2.0,no,3.0,1.0,Sometimes,Automobile,0
+175,Male,twenty-three,1.783609_120,yes,yes,2.591292,2.956422,Sometimes,no,2.31083,no,1.48524,0.281815,Sometimes,Public_Transportation,1
+176,Female,twenty-six,1.648143;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.786417,no,0.0,0.079673,Sometimes,Public_Transportation,1
+177,Female,twenty-one,"-9.0,78",yes,yes,2.577427,1.0,Sometimes,no,2.0,no,2.287423,0.0,Sometimes,Public_Transportation,0
+178,Male,twenty-six,1.816298;86,no,yes,2.341133,1.578521,Sometimes,no,2.0,no,2.0,0.554072,no,Automobile,0
+179,Male,21,"1.693628,75",yes,yes,2.0,3.0,Sometimes,no,1.833055,no,1.0,0.0,Sometimes,Public_Transportation,0
+180,Male,21,"1.790151,one hundred and six",yes,yes,2.490776,3.0,Sometimes,no,2.654517,no,0.112454,0.756339,Sometimes,Public_Transportation,1
+181,Female,nineteen,"1.690727,forty-nine",no,yes,1.212908,3.207071,Sometimes,no,1.029703,no,2.0,1.0,Sometimes,Public_Transportation,0
+182,Female,twenty-six,1.600905_110,yes,yes,3.0,3.0,Sometimes,no,2.555189,no,0.0,0.462973,Sometimes,Public_Transportation,1
+183,Female,25,1.630379;46,yes,yes,2.690754,3.03779,Frequently,no,2.212296,no,1.616882,0.0,no,Public_Transportation,0
+184,Female,twenty-four,1.56_51,no,no,3.0,3.0,Frequently,no,2.0,no,2.0,2.0,Frequently,Public_Transportation,0
+185,Male,twenty-one,1.700181_75,yes,yes,2.086093,3.546352,Sometimes,no,2.081121,no,1.993666,0.673835,Sometimes,Public_Transportation,0
+186,Female,sixteen,"1.66,fifty-eight",no,no,2.0,1.0,Sometimes,no,1.0,no,0.0,1.0,no,Walking,0
+187,Female,twenty,-9.0;125,yes,yes,3.0,3.0,Sometimes,no,1.54249,no,0.6277,0.450479,Sometimes,Public_Transportation,1
+188,Male,twenty-nine,"1.834842,105",yes,yes,2.805533,3.0,Sometimes,no,1.882847,no,2.0,0.70778,Sometimes,Automobile,1
+189,Female,twenty-four,"1.62093,81",yes,yes,2.260543,1.374791,Sometimes,no,1.947935,no,0.0,0.078607,no,Public_Transportation,1
+190,Female,19,"-2.0,forty-five",no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+191,Male,twenty-four,1.623278_97,yes,yes,2.973569,2.650088,Sometimes,no,1.003063,no,1.981154,0.157007,no,Public_Transportation,1
+192,Male,26,-3.0;105,yes,yes,3.0,3.0,Frequently,no,3.0,no,2.0,2.0,Sometimes,Public_Transportation,1
+193,Female,thirty-nine,1.562889_76,yes,yes,2.0,3.0,Sometimes,no,1.440526,no,0.0,0.0,Sometimes,Automobile,1
+194,Female,18,1.456346_fifty-five,no,yes,2.0,3.0,Sometimes,no,1.040342,yes,0.497373,1.783319,Sometimes,Public_Transportation,0
+195,Female,22,1.751691;fifty-five,yes,yes,2.478891,3.371832,Frequently,no,2.004126,no,2.0,0.327376,no,Public_Transportation,0
+196,Male,22,1.87034;121,yes,yes,2.836055,2.675411,Sometimes,no,1.711666,no,0.93732,0.0,Sometimes,Public_Transportation,1
+197,Male,20,"-7.0,104",yes,yes,2.0,3.0,Sometimes,no,1.234943,no,0.008368,0.0,Sometimes,Public_Transportation,1
+198,Female,24,"1.77,76",no,no,2.0,3.0,Sometimes,no,3.0,no,1.0,1.0,Sometimes,Walking,0
+199,Female,twenty-five,1.621231_104,yes,yes,3.0,3.0,Sometimes,no,1.653049,no,0.139159,0.711331,Sometimes,Public_Transportation,1
+200,Female,twenty-six,1.624576_110,yes,yes,3.0,3.0,Sometimes,no,2.704827,no,0.0,0.269577,Sometimes,Public_Transportation,1
+201,Male,sixteen,"1.691206,fifty",no,yes,2.0,1.630846,Sometimes,no,2.975528,no,0.548991,0.369134,Sometimes,Public_Transportation,0
+202,Female,eighteen,1.5;fifty,yes,yes,3.0,3.0,Frequently,no,2.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+203,Male,eighteen,"1.8,seventy-two",yes,yes,2.0,3.0,Sometimes,no,2.0,no,3.0,0.0,Sometimes,Automobile,0
+204,Female,33,1.557943_77,yes,yes,2.02091,2.093831,Sometimes,no,1.506518,no,0.0,0.0,Sometimes,Automobile,1
+205,Female,twenty-five,1.664463;102,yes,yes,3.0,3.0,Sometimes,no,1.068493,no,0.112122,1.0,Sometimes,Public_Transportation,1
+206,Female,thirty-five,1.673482;73,yes,no,3.0,2.809716,Sometimes,no,1.591425,no,0.178023,0.0,Sometimes,Automobile,0
+207,Female,eighteen,1.62_fifty,no,yes,3.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,0
+208,Male,sixteen,1.752755_50,no,yes,2.310423,3.558637,Sometimes,no,1.787843,no,1.926592,0.828549,Sometimes,Public_Transportation,0
+209,Female,43,1.584322_80,yes,yes,2.186322,2.900915,Sometimes,no,2.471033,no,0.256113,0.0,no,Automobile,1
+210,Female,twenty-six,"1.640535,111",yes,yes,3.0,3.0,Sometimes,no,2.634342,no,0.0,0.178301,Sometimes,Public_Transportation,1
+211,Female,twenty-one,1.6;68,yes,yes,2.0,3.0,Sometimes,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+212,Female,16,"1.603501,65",yes,yes,2.96008,1.0,Sometimes,no,2.0,yes,0.736032,1.344072,no,Public_Transportation,0
+213,Female,twenty-one,1.763847_133,yes,yes,3.0,3.0,Sometimes,no,2.836791,no,1.46782,0.890527,Sometimes,Public_Transportation,1
+214,Male,twenty-two,"1.68,55",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Automobile,0
+215,Male,21,"1.818641,one hundred and five",yes,yes,2.078082,3.0,Sometimes,no,2.895614,no,0.06275,0.261793,Sometimes,Public_Transportation,1
+216,Female,20,"-7.0,one hundred and fifty-one",yes,yes,3.0,3.0,Sometimes,no,2.226081,no,1.881761,0.933964,Sometimes,Public_Transportation,1
+217,Female,eighteen,-10.0;one hundred and forty-two,yes,yes,3.0,3.0,Sometimes,no,2.372058,no,1.324805,0.870795,Sometimes,Public_Transportation,1
+218,Male,twenty,"-7.0,sixty-three",yes,yes,3.0,3.699594,Sometimes,no,2.825629,no,1.699592,0.071028,Sometimes,Automobile,0
+219,Male,18,1.767058;fifty-one,yes,yes,2.708965,3.0,Sometimes,no,1.873004,no,1.21718,1.0,Sometimes,Public_Transportation,0
+220,Male,23,"1.654961,94",yes,yes,2.0,3.0,Sometimes,no,1.490613,no,0.654316,1.0,no,Public_Transportation,1
+221,Male,thirty-one,1.869323;127,yes,yes,2.939727,3.0,Sometimes,yes,1.344122,no,0.923428,1.432336,Sometimes,Public_Transportation,1
+222,Female,thirty-eight,1.549257_eighty,yes,yes,2.736628,1.130751,Sometimes,no,1.385175,no,1.666965,0.0,Sometimes,Automobile,1
+223,Female,eighteen,"1.6,sixty",yes,yes,3.0,1.0,Sometimes,no,1.0,yes,0.0,2.0,no,Walking,0
+224,Male,twenty-five,"1.786997,one hundred and fifteen",yes,yes,1.99953,3.0,Sometimes,no,2.111908,no,1.453042,0.849503,Sometimes,Public_Transportation,1
+225,Female,thirty,"1.652084,seventy-three",yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.018877,Sometimes,Automobile,0
+226,Male,18,1.72;53,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+227,Male,twenty-five,"1.803207,one hundred and eighteen",yes,yes,1.431346,3.0,Sometimes,no,2.098959,no,1.110868,0.196952,Sometimes,Public_Transportation,1
+228,Male,eighteen,"1.86,one hundred and ten",yes,yes,2.0,1.0,Sometimes,yes,2.0,no,1.0,2.0,Sometimes,Public_Transportation,1
+229,Male,27,"1.806227,120",yes,yes,2.974006,3.0,Sometimes,no,2.565828,no,0.690269,1.339691,Sometimes,Public_Transportation,1
+230,Female,twenty-one,1.52;forty-two,no,yes,3.0,1.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+231,Male,twenty-nine,1.680058;eighty-nine,yes,yes,2.104772,2.376374,Sometimes,no,2.218691,no,1.52184,0.0,Sometimes,Automobile,1
+232,Female,twenty-two,"1.740295,54",yes,yes,3.0,3.0,Frequently,no,2.025279,no,2.0,0.152985,no,Public_Transportation,0
+233,Female,thirty-nine,1.567131;80,yes,yes,2.025479,1.046144,Sometimes,no,1.941224,no,1.983265,0.0,Sometimes,Automobile,1
+234,Male,twenty-one,-6.0_ninety-five,yes,yes,2.0,2.973476,Sometimes,no,2.0,no,0.0,1.331527,no,Public_Transportation,1
+235,Male,twenty-one,1.67;60,yes,yes,2.0,3.0,Frequently,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+236,Male,twenty-six,"1.767806,82",yes,yes,1.947405,3.118013,Sometimes,no,2.136159,no,0.783963,0.88868,no,Public_Transportation,0
+237,Male,eighteen,1.721384;ninety-nine,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.579431,0.839862,no,Public_Transportation,1
+238,Female,twenty-one,1.708291;one hundred and thirty,yes,yes,3.0,3.0,Sometimes,no,1.205548,no,1.723934,0.952352,Sometimes,Public_Transportation,1
+239,Male,twenty-five,"1.78,seventy-eight",yes,yes,2.0,1.0,Sometimes,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+240,Female,thirty-five,1.53_forty-five,yes,no,3.0,3.0,Frequently,no,1.0,no,0.0,1.0,no,Automobile,0
+241,Female,twenty-six,-10.0;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.814517,no,0.0,0.101598,Sometimes,Public_Transportation,1
+242,Male,twenty,"1.705304,99",yes,yes,2.0,1.293342,Sometimes,no,2.0,no,0.0,1.917679,no,Public_Transportation,1
+243,Male,30,"1.644517,100",yes,yes,2.96405,2.123138,Sometimes,no,1.0,no,1.699181,0.620465,no,Public_Transportation,1
+244,Female,21,1.739457_one hundred and fifty,yes,yes,3.0,3.0,Sometimes,no,2.319912,no,1.582675,0.680746,Sometimes,Public_Transportation,1
+245,Male,19,"1.851123,61",yes,yes,3.0,3.994588,Sometimes,no,2.548527,no,1.285976,0.267076,Sometimes,Automobile,0
+246,Female,twenty-two,1.6;82,yes,yes,1.0,1.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,1
+247,Male,22,"1.765137,116",yes,yes,1.482722,3.0,Sometimes,no,2.0,no,1.112504,0.690353,Sometimes,Public_Transportation,1
+248,Male,21,1.621412_seventy,no,yes,2.0,1.0,no,no,2.795651,no,0.80873,0.0,Sometimes,Public_Transportation,0
+249,Male,21,"1.62,seventy",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+250,Female,19,1.507853;64,no,yes,2.568063,3.0,Sometimes,no,1.817983,yes,0.0,0.0,Sometimes,Public_Transportation,0
+251,Male,twenty-three,"1.84753,122",yes,yes,3.0,2.280545,Sometimes,no,1.591597,no,0.932783,0.0,Sometimes,Public_Transportation,1
+252,Male,twenty-three,1.799406;one hundred and six,yes,yes,2.123159,3.0,Sometimes,no,2.415343,no,0.295178,0.569852,Sometimes,Public_Transportation,1
+253,Female,21,"-2.0,sixty-eight",yes,yes,1.977298,3.554974,no,no,2.217957,no,0.97812,0.459759,Sometimes,Public_Transportation,0
+254,Female,twenty,1.67;60,no,yes,3.0,3.0,no,no,2.0,no,3.0,0.0,Sometimes,Public_Transportation,0
+255,Female,thirty-two,"1.672446,seventy-four",yes,yes,2.948425,1.198643,Sometimes,no,1.0,no,0.0,0.173796,Sometimes,Automobile,0
+256,Male,18,1.775626;eighty,yes,yes,1.687569,2.756405,Sometimes,no,2.079131,no,2.931527,0.68173,no,Public_Transportation,0
+257,Female,19,"1.66084,forty-nine",no,no,2.750715,3.0,Frequently,no,2.0,no,1.067817,1.0,Sometimes,Public_Transportation,0
+258,Female,19,"1.756865,forty-nine",no,yes,1.69427,3.266644,Sometimes,no,1.095417,no,2.0,1.0,Sometimes,Public_Transportation,0
+259,Male,twenty-one,"1.65,53",yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+260,Male,20,"1.831357,89",yes,yes,2.555401,3.292386,Sometimes,no,3.0,no,2.0,0.315918,Sometimes,Public_Transportation,0
+261,Male,twenty,-6.0_one hundred and five,yes,yes,2.724121,1.437959,Sometimes,no,1.590418,no,0.029603,1.122118,no,Public_Transportation,1
+262,Female,twenty-one,"-4.0,132",yes,yes,3.0,3.0,Sometimes,no,1.777805,no,1.584716,0.927341,Sometimes,Public_Transportation,1
+263,Female,nineteen,"1.600264,45",no,no,3.0,3.0,Frequently,no,2.949419,yes,1.295697,0.0,Sometimes,Public_Transportation,0
+264,Male,twenty-two,-3.0_one hundred and twenty-one,yes,yes,2.630137,2.806298,Sometimes,no,1.970508,no,1.304291,0.0,Sometimes,Public_Transportation,1
+265,Female,17,"1.6,sixty-five",no,yes,3.0,1.0,Sometimes,no,2.0,yes,1.0,2.0,Sometimes,Public_Transportation,0
+266,Male,23,-2.0;one hundred and twenty-one,yes,yes,3.0,2.695396,Sometimes,no,2.628816,no,0.975384,0.0,Sometimes,Public_Transportation,1
+267,Male,23,-7.0;67,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+268,Female,twenty-six,1.608283_105,yes,yes,3.0,3.0,Sometimes,no,2.476002,no,0.0,0.546345,Sometimes,Public_Transportation,1
+269,Male,22,1.853373_one hundred and twenty-one,yes,yes,2.922511,2.692889,Sometimes,no,1.809531,no,0.478595,0.0,Sometimes,Public_Transportation,1
+270,Female,22,1.56;49,no,yes,2.0,3.0,Sometimes,no,1.0,yes,2.0,0.0,no,Walking,0
+271,Male,twenty-five,1.765464_114,yes,yes,1.626369,3.0,Sometimes,no,2.109697,no,1.352973,0.076693,Sometimes,Public_Transportation,1
+272,Male,thirty-three,1.74_76,no,no,2.0,3.0,Sometimes,no,1.0,no,0.0,2.0,Sometimes,Walking,0
+273,Male,28,1.762887;113,yes,yes,2.323351,3.0,Sometimes,no,2.165048,no,0.0,1.493716,Sometimes,Automobile,1
+274,Female,18,"1.65,eighty-two",yes,yes,3.0,3.0,Sometimes,no,1.0,no,1.02975,1.350099,Sometimes,Public_Transportation,1
+275,Female,21,1.55_fifty,no,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+276,Female,seventeen,1.6_sixty-five,yes,yes,3.0,2.449723,Sometimes,no,2.0,yes,0.479592,1.720642,Sometimes,Public_Transportation,0
+277,Male,44,"1.6,80",yes,no,2.0,3.0,Sometimes,yes,3.0,no,0.0,0.0,no,Motorbike,1
+278,Male,thirty-eight,1.75_75,yes,no,3.0,3.0,Frequently,no,1.0,no,2.0,1.0,no,Automobile,0
+279,Male,19,1.75_seventy-six,yes,yes,3.0,3.0,Sometimes,no,2.0,yes,3.0,1.0,Sometimes,Public_Transportation,0
+280,Male,26,1.802871;85,yes,yes,2.872121,3.051804,Sometimes,no,2.111913,no,0.843709,0.153559,Sometimes,Automobile,0
+281,Female,15,1.65;86,yes,yes,3.0,3.0,Sometimes,no,1.0,no,3.0,2.0,no,Walking,1
+282,Male,21,"1.62,seventy",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+283,Male,thirty-three,1.85;eighty-five,no,yes,2.0,3.0,Frequently,no,2.0,no,1.0,0.0,Sometimes,Automobile,0
+284,Male,20,"1.780791,102",yes,yes,2.0,3.0,Sometimes,no,1.613829,no,1.251665,0.0,Sometimes,Public_Transportation,1
+285,Female,twenty-six,1.65;63,no,yes,3.0,3.0,Sometimes,no,1.0,no,1.0,0.0,no,Walking,0
+286,Male,thirty,1.86198_one hundred and twenty-six,yes,yes,2.927187,3.0,Sometimes,no,1.508796,no,0.902776,1.015467,Sometimes,Public_Transportation,1
+287,Female,twenty-six,1.635905;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.511399,no,0.0,0.258472,Sometimes,Public_Transportation,1
+288,Female,nineteen,1.768435;49,no,yes,3.0,3.725797,Sometimes,no,1.191401,no,2.0,1.0,Sometimes,Public_Transportation,0
+289,Male,seventeen,1.798645;59,yes,yes,2.336044,4.0,Sometimes,no,2.0,no,2.0,0.133005,no,Automobile,0
+290,Male,twenty-six,1.780089;113,yes,yes,2.219186,3.0,Sometimes,no,2.092326,no,0.545919,1.74288,Sometimes,Automobile,1
+291,Female,twenty,"1.680762,125",yes,yes,3.0,3.0,Sometimes,no,1.124366,no,0.877067,0.552006,Sometimes,Public_Transportation,1
+292,Female,eighteen,"1.642892,82",yes,yes,2.66889,3.0,Sometimes,no,1.172593,no,0.886448,1.252677,no,Public_Transportation,1
+293,Female,twenty-six,1.638836_110,yes,yes,3.0,3.0,Sometimes,no,2.644135,no,0.0,0.357581,Sometimes,Public_Transportation,1
+294,Female,17,1.618683;67,yes,yes,1.952987,1.0,Sometimes,no,1.334856,yes,0.732276,1.890214,no,Public_Transportation,0
+295,Female,nineteen,1.53161_42,no,yes,2.749268,1.394539,Frequently,no,1.322048,no,0.463949,0.800993,Sometimes,Public_Transportation,0
+296,Female,thirty-eight,1.598448_80,yes,yes,2.020785,1.169173,Sometimes,no,1.972551,no,1.903338,0.0,Sometimes,Automobile,1
+297,Female,twenty-two,"1.65,58",yes,yes,3.0,4.0,Frequently,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+298,Female,23,1.75_56,no,no,3.0,3.0,Frequently,no,2.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+299,Female,twenty-one,-7.0;63,no,yes,2.53915,1.590982,Sometimes,no,1.977801,no,1.264616,0.0,Sometimes,Public_Transportation,0
+300,Female,twenty,1.668642_one hundred and twenty-four,yes,yes,3.0,3.0,Sometimes,no,1.15635,no,0.786828,0.366385,Sometimes,Public_Transportation,1
+301,Male,41,1.75_one hundred and sixteen,yes,yes,2.0,2.831771,Sometimes,no,1.725226,no,0.356288,0.0,Sometimes,Automobile,1
+302,Male,twenty-three,"1.65,fifty-eight",yes,no,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,no,Public_Transportation,0
+303,Male,23,"1.842906,121",yes,yes,3.0,2.701689,Sometimes,no,2.738485,no,0.992253,0.0,Sometimes,Public_Transportation,1
+304,Female,19,"1.564199,42",no,yes,3.0,1.894384,Sometimes,no,2.456581,yes,1.596576,0.9974,no,Public_Transportation,0
+305,Male,eighteen,"1.755507,fifty-two",yes,yes,3.0,3.0,Frequently,no,2.0,no,0.658894,1.0,no,Public_Transportation,0
+306,Female,37,-6.0_80,yes,yes,2.036613,1.81698,Sometimes,no,1.93059,no,1.851404,0.0,Sometimes,Automobile,1
+307,Male,18,"1.74,70",no,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+308,Female,twenty-one,1.672007_49,yes,yes,2.979383,3.0,Frequently,no,2.975887,no,0.945093,1.241755,no,Public_Transportation,0
+309,Female,nineteen,1.5_fifty,no,yes,2.0,3.0,Frequently,no,1.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+310,Female,twenty-six,"1.618867,one hundred and ten",yes,yes,3.0,3.0,Sometimes,no,2.618198,no,0.0,0.380695,Sometimes,Public_Transportation,1
+311,Female,twenty-one,"1.586952,43",no,no,2.00876,1.73762,Frequently,no,1.792022,no,0.119643,0.0,no,Public_Transportation,0
+312,Female,eighteen,1.789143;138,yes,yes,3.0,3.0,Sometimes,no,2.83377,no,0.806422,0.672513,Sometimes,Public_Transportation,1
+313,Male,nineteen,1.75;58,no,yes,2.0,3.0,Sometimes,no,2.0,no,2.0,0.0,Sometimes,Bike,0
+314,Male,25,1.836592;one hundred and eighteen,yes,yes,1.84199,3.0,Sometimes,no,2.503244,no,1.226019,0.078207,Sometimes,Public_Transportation,1
+315,Female,nineteen,1.67_sixty-four,no,yes,3.0,3.0,Sometimes,no,2.0,no,2.0,1.0,Sometimes,Automobile,0
+316,Female,twenty-six,1.643355;111,yes,yes,3.0,3.0,Sometimes,no,2.652616,no,0.0,0.250502,Sometimes,Public_Transportation,1
+317,Female,twenty-three,1.738836;133,yes,yes,3.0,3.0,Sometimes,no,2.863513,no,1.026452,0.714137,Sometimes,Public_Transportation,1
+318,Female,twenty-six,1.623303_110,yes,yes,3.0,3.0,Sometimes,no,2.673754,no,0.0,0.33929,Sometimes,Public_Transportation,1
+319,Female,twenty-five,1.610488;102,yes,yes,3.0,3.0,Sometimes,no,1.032834,no,0.04525,0.922749,Sometimes,Public_Transportation,1
+320,Female,25,1.685482_113,yes,yes,3.0,3.0,Sometimes,no,2.987718,no,0.387074,0.283804,Sometimes,Public_Transportation,1
+321,Male,twenty-six,-3.0;103,yes,yes,2.649406,1.120102,Sometimes,no,1.153286,no,0.216908,0.619012,no,Public_Transportation,1
+322,Female,twenty-five,-3.0;107,yes,yes,3.0,3.0,Sometimes,no,2.506631,no,0.025787,0.484165,Sometimes,Public_Transportation,1
+323,Male,thirty-three,-7.0;87,no,yes,2.814453,2.608055,Sometimes,no,1.85916,no,2.0,0.516084,no,Automobile,0
+324,Female,23,"1.66,sixty",yes,yes,2.0,1.0,Sometimes,no,1.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+325,Male,twenty,1.7_65,no,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,1.0,no,Public_Transportation,0
+326,Male,twenty-nine,1.62_eighty-nine,yes,yes,1.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,1
+327,Male,twenty,1.882533;one hundred and seventeen,yes,yes,2.0,2.18162,Sometimes,no,2.325091,no,0.891444,1.223661,Sometimes,Public_Transportation,1
+328,Male,twenty-four,-7.0;100,yes,yes,3.0,1.02075,Sometimes,no,1.0,no,0.233056,1.707421,no,Public_Transportation,1
+329,Male,twenty-two,1.753081_ninety-five,yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,2.0,no,Public_Transportation,1
+330,Male,23,"1.62,fifty-three",yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+331,Female,22,1.71746_51,yes,yes,2.486189,3.0,Frequently,no,1.064378,no,2.206055,1.958089,no,Public_Transportation,0
+332,Male,twenty-three,"1.756772,117",yes,yes,1.537505,3.0,Sometimes,no,2.0,no,1.631912,0.631422,Sometimes,Public_Transportation,1
+333,Female,25,"1.655646,110",yes,yes,3.0,3.0,Sometimes,no,1.528258,no,0.01586,0.436068,Sometimes,Public_Transportation,1
+334,Female,twenty-three,1.6;52,no,yes,2.0,4.0,Frequently,no,2.0,no,2.0,1.0,Sometimes,Automobile,0
+335,Female,39,1.572791_eighty,yes,yes,2.071622,2.977909,Sometimes,no,1.468297,no,0.0,0.0,no,Automobile,1
+336,Female,18,1.746061_128,yes,yes,3.0,3.0,Sometimes,no,2.501638,no,1.546179,0.66488,Sometimes,Public_Transportation,1
+337,Female,twenty-one,1.57206_forty-three,no,no,3.0,1.600812,Frequently,no,2.651258,no,0.600817,0.0,no,Public_Transportation,0
+338,Female,18,1.683;90,yes,yes,2.387426,3.0,Sometimes,no,1.77962,no,0.743005,0.920162,Sometimes,Public_Transportation,1
+339,Male,eighteen,1.751029_80,yes,yes,2.0,2.805436,Sometimes,no,2.122884,no,0.045651,0.017225,Frequently,Public_Transportation,0
+340,Female,eighteen,1.746411_one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.864933,no,1.501647,0.786846,Sometimes,Public_Transportation,1
+341,Female,20,1.63_64,yes,yes,1.0,3.0,Always,no,2.0,no,0.0,2.0,no,Automobile,0
+342,Female,twenty-five,1.678201;one hundred and nine,yes,yes,3.0,3.0,Sometimes,no,1.471664,no,0.143955,0.444532,Sometimes,Public_Transportation,1
+343,Female,twenty-six,1.644141;111,yes,yes,3.0,3.0,Sometimes,no,2.763005,no,0.0,0.101867,Sometimes,Public_Transportation,1
+344,Female,21,1.592379_forty-four,no,no,3.0,1.612747,Frequently,no,2.566629,no,1.190465,0.0,no,Public_Transportation,0
+345,Male,eighteen,"1.738702,50",yes,yes,1.871213,3.0,Sometimes,no,1.283738,no,0.684879,1.487223,Sometimes,Public_Transportation,0
+346,Male,twenty-two,"1.64187,one hundred and four",yes,yes,2.869833,1.569176,Sometimes,no,1.533682,no,0.167943,1.368262,no,Public_Transportation,1
+347,Male,19,"1.83,82",yes,yes,3.0,3.0,Frequently,no,2.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+348,Female,18,1.741925;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.474518,no,1.560261,0.662489,Sometimes,Public_Transportation,1
+349,Male,20,1.9_91,yes,yes,3.0,4.0,Sometimes,no,3.0,no,2.0,0.0,Sometimes,Walking,0
+350,Female,17,"1.65,sixty-seven",yes,yes,3.0,1.0,Sometimes,no,2.0,no,1.0,1.0,no,Walking,0
+351,Female,19,1.566501_41,no,yes,2.967853,1.0,Frequently,no,1.131185,no,0.0,0.504176,Sometimes,Public_Transportation,0
+352,Female,twenty-two,1.661715_82,yes,yes,1.203754,1.355354,Sometimes,no,2.765593,no,0.128342,1.659476,Sometimes,Public_Transportation,1
+353,Female,nineteen,1.64;53,yes,yes,3.0,3.0,Sometimes,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+354,Female,22,1.603963_82,yes,yes,1.123672,1.014916,Sometimes,no,2.042078,no,1.846666,1.426103,no,Public_Transportation,1
+355,Female,23,1.65;fifty-nine,no,no,3.0,1.0,Sometimes,no,2.0,no,1.0,2.0,Sometimes,Public_Transportation,0
+356,Male,34,1.705682;one hundred and three,yes,yes,2.562687,2.100918,Sometimes,no,1.458545,no,1.167856,0.412329,no,Public_Transportation,1
+357,Male,twenty-one,1.88_84,yes,yes,3.0,3.0,Sometimes,no,3.0,no,2.0,1.0,Sometimes,Walking,0
+358,Male,twenty-four,1.872561;121,yes,yes,2.808027,2.683061,Sometimes,no,2.640483,no,1.280191,0.0,Sometimes,Public_Transportation,1
+359,Female,twenty-five,1.65757_109,yes,yes,3.0,3.0,Sometimes,no,1.610472,no,0.029728,0.472343,Sometimes,Public_Transportation,1
+360,Male,31,1.775416_121,yes,yes,2.758394,3.0,Sometimes,no,2.161303,no,0.428173,0.716327,Sometimes,Automobile,1
+361,Male,twenty,1.8;114,yes,yes,2.0,3.0,Frequently,no,2.0,no,0.0,1.0,no,Public_Transportation,1
+362,Male,seventeen,1.834637;59,yes,yes,2.943749,4.0,Sometimes,no,2.0,no,2.0,0.128895,no,Automobile,0
+363,Female,twenty-three,-10.0;84,yes,yes,2.058687,2.962004,Sometimes,no,2.010596,no,0.851059,0.630866,no,Public_Transportation,1
+364,Male,twenty-six,"1.755938,one hundred and twelve",yes,yes,1.428289,3.0,Sometimes,no,2.117733,no,0.485322,0.696948,Sometimes,Automobile,1
+365,Female,nineteen,"1.65,82",yes,yes,3.0,3.0,Sometimes,no,1.0,no,0.0,1.0,Sometimes,Public_Transportation,1
+366,Male,thirty,"1.766975,one hundred and eighteen",yes,yes,2.964319,3.0,Sometimes,no,2.377257,no,0.614959,1.875023,Sometimes,Automobile,1
+367,Male,eighteen,"1.75,eighty",yes,yes,2.0,3.0,Always,no,2.0,no,0.0,0.0,Frequently,Public_Transportation,0
+368,Male,26,"1.812259,118",yes,yes,2.239634,3.0,Sometimes,no,2.684264,no,0.979306,0.0,Sometimes,Public_Transportation,1
+369,Male,19,"1.822573,eighty-five",yes,yes,2.995599,3.095663,Sometimes,no,2.568157,no,2.7243,0.330457,Sometimes,Public_Transportation,0
+370,Female,twenty-three,1.6;seventy-eight,yes,yes,2.0,1.0,Sometimes,yes,2.0,no,1.0,0.0,Frequently,Public_Transportation,1
+371,Female,twenty-one,1.52_forty-two,no,no,3.0,1.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+372,Male,seventeen,-8.0;60,no,no,3.0,3.0,Sometimes,no,2.0,no,3.0,1.0,no,Walking,0
+373,Male,23,1.767121_one hundred and sixteen,yes,yes,1.655684,3.0,Sometimes,no,2.0,no,0.976425,0.690082,Sometimes,Public_Transportation,1
+374,Male,twenty-two,1.72;68,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+375,Male,31,"1.75,one hundred and eighteen",yes,yes,2.139196,3.0,Sometimes,no,2.04843,no,0.368026,0.360986,Sometimes,Automobile,1
+376,Male,24,1.622297_ninety-nine,yes,yes,2.941929,3.989492,Sometimes,no,1.014135,no,1.958694,0.687342,no,Public_Transportation,1
+377,Female,twenty-five,-3.0_one hundred and twelve,yes,yes,3.0,3.0,Sometimes,no,2.961899,no,0.259424,0.080128,Sometimes,Public_Transportation,1
+378,Male,seventeen,"1.883364,sixty",yes,yes,3.0,3.626815,Sometimes,no,2.0,no,2.011519,0.456462,no,Automobile,0
+379,Female,twenty-three,1.581527;seventy-eight,yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.057758,0.0,no,Public_Transportation,1
+380,Male,30,-1.0_ninety,yes,yes,2.180047,2.733077,Sometimes,no,2.77962,no,1.454129,0.0,Sometimes,Automobile,1
+381,Male,twenty-four,-3.0_ninety-one,yes,yes,1.036159,3.0,Sometimes,no,1.0,no,0.344013,0.329367,Sometimes,Automobile,1
+382,Male,seventeen,"1.62,sixty-nine",yes,yes,3.0,1.0,Always,no,2.0,yes,1.0,2.0,Sometimes,Public_Transportation,0
+383,Male,22,1.825718_121,yes,yes,2.397284,2.89292,Sometimes,no,1.983973,no,1.859667,0.0026,Sometimes,Public_Transportation,1
+384,Male,twenty-three,"1.754996,one hundred and nineteen",yes,yes,1.631144,3.0,Sometimes,no,2.0,no,1.593183,0.86374,Sometimes,Public_Transportation,1
+385,Female,40,"1.559005,77",yes,yes,2.0,3.0,Sometimes,no,1.572371,no,0.0,0.0,Sometimes,Automobile,1
+386,Male,23,1.690196;seventy-five,yes,yes,2.620963,3.0,Sometimes,no,2.824559,no,0.754599,2.0,Sometimes,Public_Transportation,0
+387,Male,30,"1.910672,129",yes,yes,2.497548,3.0,Sometimes,no,1.362583,no,1.144076,0.173232,Sometimes,Public_Transportation,1
+388,Male,twenty-two,1.716289_seventy-five,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.092344,1.466496,Sometimes,Public_Transportation,0
+389,Female,nineteen,-8.0_eighty-two,yes,yes,1.081585,2.870661,Sometimes,no,1.11756,no,0.0,1.616826,Sometimes,Public_Transportation,1
+390,Female,twenty-one,1.737453;50,yes,yes,3.0,3.489918,Frequently,no,1.326694,no,0.791929,0.128394,no,Public_Transportation,0
+391,Female,20,1.748313;133,yes,yes,3.0,3.0,Sometimes,no,2.874336,no,1.624981,0.825609,Sometimes,Public_Transportation,1
+392,Male,nineteen,1.812472;eighty-six,yes,yes,2.0,3.0,Sometimes,no,2.168651,no,0.977998,0.142638,Sometimes,Public_Transportation,0
+393,Female,22,1.59559;44,no,no,2.596579,1.10548,Frequently,no,1.490613,no,0.345684,0.0,no,Public_Transportation,0
+394,Female,32,1.57_57,yes,yes,3.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Automobile,0
+395,Male,twenty-six,1.817641;87,no,yes,2.971588,2.743277,Sometimes,no,1.394883,no,2.0,0.470243,no,Automobile,0
+396,Male,twenty-five,"1.66,68",no,yes,2.0,3.0,Sometimes,yes,1.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+397,Female,18,1.7_50,no,yes,1.003566,3.238258,Frequently,no,1.014634,no,0.783676,1.0,Sometimes,Public_Transportation,0
+398,Female,24,1.694726_112,yes,yes,3.0,3.0,Sometimes,no,2.724099,no,0.336795,0.153462,Sometimes,Public_Transportation,1
+399,Male,30,"-8.0,one hundred and twelve",yes,yes,1.572036,3.0,Sometimes,no,2.003563,no,0.0,0.340196,Sometimes,Automobile,1
+400,Female,thirty-two,"1.675979,seventy-four",yes,yes,2.291846,1.555557,Sometimes,no,1.0,no,0.0,0.388271,Sometimes,Automobile,0
+401,Male,thirty-one,"1.726279,110",yes,yes,1.794825,3.914454,Sometimes,no,1.972016,no,0.668963,0.0,no,Automobile,1
+402,Female,nineteen,"1.763343,133",yes,yes,3.0,3.0,Sometimes,no,2.835622,no,1.419473,0.816986,Sometimes,Public_Transportation,1
+403,Male,22,"1.750384,ninety-five",yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,2.0,no,Public_Transportation,1
+404,Male,21,1.676014_seventy-five,yes,yes,2.0,3.0,Sometimes,no,1.164062,no,1.0,0.0,Sometimes,Public_Transportation,0
+405,Female,26,1.66;one hundred and twelve,yes,no,3.0,3.0,Sometimes,no,3.0,no,0.0,0.0,no,Automobile,1
+406,Female,18,1.56_fifty-five,no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Frequently,Automobile,0
+407,Female,twenty-seven,"1.55,62",no,yes,2.244142,1.704828,Sometimes,no,1.0,no,0.792929,0.395468,Sometimes,Public_Transportation,0
+408,Male,21,"1.64,sixty-five",yes,no,2.0,3.0,Sometimes,no,1.0,no,0.0,1.0,no,Public_Transportation,0
+409,Male,twenty-one,1.7;sixty-five,yes,yes,2.0,3.0,Frequently,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+410,Female,twenty,1.6;fifty-seven,no,no,3.0,3.0,Always,no,2.0,no,1.0,0.0,no,Walking,0
+411,Male,thirty-one,"-6.0,90",yes,yes,2.467002,1.851088,Sometimes,no,2.104054,no,1.991565,0.0,Sometimes,Automobile,1
+412,Male,21,1.617469_68,no,yes,1.206276,3.0,no,no,2.406541,no,0.94984,0.479221,Sometimes,Public_Transportation,0
+413,Female,22,-2.0;sixty-five,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+414,Male,18,"1.788459,fifty-one",no,yes,2.897899,3.0,Sometimes,no,1.835545,no,1.162519,1.0,Sometimes,Public_Transportation,0
+415,Female,26,"1.641918,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.635454,no,0.0,0.088309,Sometimes,Public_Transportation,1
+416,Male,thirty-eight,"1.766888,one hundred and eighteen",yes,yes,2.240757,2.911568,Sometimes,no,1.895876,no,0.822186,0.0,Sometimes,Automobile,1
+417,Male,forty-one,"1.8,99",no,yes,2.0,3.0,Sometimes,no,2.0,no,2.0,1.0,Frequently,Automobile,1
+418,Male,twenty-one,1.62_seventy,no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+419,Male,nineteen,1.768493;fifty-seven,yes,yes,2.0,3.897078,Sometimes,no,2.622638,no,2.0,1.894105,no,Automobile,0
+420,Female,25,1.623938;one hundred and nine,yes,yes,3.0,3.0,Sometimes,no,2.471721,no,9.6e-05,0.433463,Sometimes,Public_Transportation,1
+421,Female,eighteen,1.62;55,yes,yes,2.0,3.0,Frequently,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+422,Male,nineteen,"1.8,85",yes,yes,2.188722,3.0,Sometimes,no,2.721356,no,1.528968,1.0,Sometimes,Public_Transportation,0
+423,Female,18,"1.756774,seventy-nine",yes,yes,2.0,2.658639,Sometimes,no,2.781628,no,1.955992,1.409198,Frequently,Public_Transportation,0
+424,Male,thirty-eight,1.752863_one hundred and nineteen,yes,yes,2.499388,2.989791,Sometimes,no,1.959777,no,0.6081,0.64676,Sometimes,Automobile,1
+425,Female,19,1.793824_160,yes,yes,3.0,3.0,Sometimes,no,2.069257,no,1.986646,0.947091,Sometimes,Public_Transportation,1
+426,Female,26,1.654784_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.770125,no,0.0,0.088236,Sometimes,Public_Transportation,1
+427,Male,twenty-two,"1.784994,113",yes,yes,1.760038,3.0,Sometimes,no,2.003531,no,1.089061,0.072264,Sometimes,Public_Transportation,1
+428,Male,twenty,"1.780503,one hundred and three",yes,yes,2.0,3.0,Sometimes,no,1.608128,no,0.478134,0.0,no,Public_Transportation,1
+429,Male,twenty-eight,"1.765874,eighty-two",yes,yes,1.064162,3.98955,Sometimes,no,2.028426,no,0.81517,0.894678,Sometimes,Public_Transportation,0
+430,Female,twenty-one,1.75_78,yes,no,2.0,3.0,Frequently,no,2.0,yes,0.0,2.0,Frequently,Public_Transportation,0
+431,Female,twenty-six,1.624099;109,yes,yes,3.0,3.0,Sometimes,no,2.523793,no,0.0,0.383953,Sometimes,Public_Transportation,1
+432,Female,twenty-six,"1.637725,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.70914,no,0.0,0.110518,Sometimes,Public_Transportation,1
+433,Female,thirty-eight,1.554728_sixty-three,yes,yes,2.869436,3.0,Sometimes,no,2.972426,no,2.16079,0.305954,Sometimes,Automobile,0
+434,Male,19,1.7;sixty-five,yes,no,2.0,3.0,Frequently,no,2.0,no,1.0,0.0,no,Public_Transportation,0
+435,Male,thirty-nine,1.78;96,yes,no,2.0,3.0,Sometimes,no,3.0,no,1.0,0.0,Frequently,Automobile,1
+436,Male,twenty-three,1.68_60,no,no,2.0,4.0,Frequently,no,2.0,no,0.0,0.0,no,Walking,0
+437,Male,25,1.765258_114,yes,yes,1.562804,3.0,Sometimes,no,2.075493,no,1.553734,0.000436,Sometimes,Public_Transportation,1
+438,Female,26,"1.618573,104",yes,yes,3.0,3.0,Sometimes,no,1.698767,no,0.0,0.54396,Sometimes,Public_Transportation,1
+439,Male,twenty-two,1.792533_one hundred and sixteen,yes,yes,1.996646,3.0,Sometimes,no,2.0,no,1.600536,0.739684,Sometimes,Public_Transportation,1
+440,Male,nineteen,1.8_eighty,no,yes,2.0,1.0,Sometimes,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+441,Female,30,"1.62,59",yes,yes,3.0,3.0,Sometimes,no,2.0,no,2.0,0.0,Sometimes,Automobile,0
+442,Female,19,1.65_56,yes,yes,3.0,3.0,Frequently,yes,3.0,yes,1.0,2.0,Frequently,Public_Transportation,0
+443,Male,24,"1.84,eighty-six",yes,yes,2.0,1.0,Always,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+444,Female,20,"-2.0,sixty",yes,no,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Walking,0
+445,Male,twenty-one,1.75;ninety-six,yes,yes,2.0,3.0,Sometimes,no,2.771469,no,2.359339,1.206251,no,Public_Transportation,1
+446,Male,twenty-three,"1.702516,75",yes,yes,2.162519,3.0,Sometimes,no,2.152666,no,1.078074,1.502839,Sometimes,Public_Transportation,0
+447,Female,forty-one,"1.544937,seventy-seven",yes,yes,2.0,3.0,Sometimes,no,2.090413,no,0.0,0.0,Sometimes,Automobile,1
+448,Female,twenty-three,"1.65,70",yes,no,2.0,1.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+449,Male,18,1.65;70,yes,no,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,no,Public_Transportation,0
+450,Female,30,1.65_71,yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+451,Male,twenty-one,"1.701413,96",yes,yes,2.0,2.961192,Sometimes,no,2.623344,no,0.981686,1.35537,no,Public_Transportation,1
+452,Male,twenty-one,"1.62,seventy",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+453,Male,twenty-four,1.77558;one hundred and twenty,yes,yes,2.113843,3.0,Sometimes,no,2.316069,no,1.804157,0.357314,Sometimes,Public_Transportation,1
+454,Male,twenty-eight,"1.793476,112",yes,yes,1.99124,3.0,Sometimes,no,2.0,no,0.0,0.292956,Sometimes,Public_Transportation,1
+455,Female,18,"1.57,fifty",no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+456,Female,22,"1.593847,44",no,no,3.0,2.99321,Frequently,no,2.702783,no,1.967234,0.0,no,Public_Transportation,0
+457,Female,18,-3.0_ninety-one,yes,yes,1.0,3.0,Frequently,no,1.0,no,0.0,1.0,Sometimes,Public_Transportation,1
+458,Female,seventeen,-8.0_50,no,yes,1.344854,4.0,Frequently,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+459,Female,23,"1.63,fifty-five",yes,no,3.0,3.0,no,no,2.0,yes,2.0,1.0,no,Public_Transportation,0
+460,Male,21,1.65;60,no,no,3.0,1.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Motorbike,0
+461,Female,nineteen,1.530884;39,no,yes,1.522001,3.0,Sometimes,no,1.98126,no,2.306844,0.720454,Sometimes,Public_Transportation,0
+462,Male,eighteen,1.792239_108,yes,yes,2.0,2.141839,Sometimes,no,2.939847,no,1.0,0.103056,Sometimes,Public_Transportation,1
+463,Female,18,1.821566_one hundred and forty-two,yes,yes,3.0,3.0,Sometimes,no,2.714949,no,1.999773,0.813784,Sometimes,Public_Transportation,1
+464,Female,twenty-two,"1.68,52",no,yes,3.0,3.0,Frequently,no,2.0,no,0.0,1.0,no,Public_Transportation,0
+465,Male,32,1.695347;one hundred and two,yes,yes,2.795086,2.129909,Sometimes,no,1.0,no,1.989316,0.0,no,Public_Transportation,1
+466,Female,twenty-one,"1.63,fifty-one",no,yes,2.0,1.0,Sometimes,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+467,Female,nineteen,"1.670552,forty-nine",no,yes,2.794197,3.409363,Sometimes,no,1.543021,no,2.0,1.0,Sometimes,Public_Transportation,0
+468,Female,twenty-two,1.613119_82,yes,yes,2.964419,1.0,Sometimes,no,2.977516,no,0.742113,2.0,Sometimes,Public_Transportation,1
+469,Female,twenty,"1.529724,forty",no,yes,2.703436,2.884479,Sometimes,no,1.439962,no,0.144627,0.322307,Sometimes,Public_Transportation,0
+470,Female,23,"1.7,56",no,no,3.0,4.0,Always,no,3.0,yes,3.0,0.0,no,Automobile,0
+471,Female,twenty-seven,1.55_63,no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,1.0,Sometimes,Automobile,0
+472,Male,30,"1.75853,one hundred and eleven",yes,yes,1.263216,3.219347,Sometimes,no,1.981782,no,0.482625,0.0,Sometimes,Automobile,1
+473,Female,eighteen,"1.753471,80",yes,yes,2.0,1.391778,Sometimes,no,2.64548,no,2.685087,0.97554,no,Public_Transportation,0
+474,Male,22,1.870931_89,yes,yes,2.0,2.799979,Sometimes,no,1.081333,no,0.444347,1.0,Sometimes,Public_Transportation,0
+475,Male,twenty-nine,1.910987;129,yes,yes,2.200588,3.0,Sometimes,no,1.295697,no,1.058378,0.0,Sometimes,Public_Transportation,1
+476,Female,twenty-three,1.611058;eighty-four,yes,yes,2.14128,2.989112,Sometimes,no,2.519841,no,2.11137,0.013483,no,Public_Transportation,1
+477,Female,twenty-one,"1.730167,78",yes,yes,2.138334,1.0,Sometimes,no,2.0,no,2.269058,0.0,Sometimes,Public_Transportation,0
+478,Male,twenty-six,-4.0_one hundred and eighteen,yes,yes,2.002076,3.0,Sometimes,no,2.338373,no,0.897562,0.081156,Sometimes,Public_Transportation,1
+479,Female,twenty-one,1.686936;fifty-one,yes,yes,3.0,3.179995,Frequently,no,1.910378,no,0.480614,0.625079,no,Public_Transportation,0
+480,Female,21,"1.704167,fifty",yes,yes,2.969205,3.21043,Frequently,no,2.765876,no,0.611037,1.300692,no,Public_Transportation,0
+481,Female,nineteen,"-3.0,forty-one",no,yes,2.070964,1.0,Sometimes,no,1.676975,no,0.0,1.718513,Sometimes,Public_Transportation,0
+482,Male,thirty-one,"1.889104,129",yes,yes,2.889485,3.0,Sometimes,yes,1.279771,no,0.941424,0.008343,Sometimes,Public_Transportation,1
+483,Female,20,"1.708581,one hundred and thirty-one",yes,yes,3.0,3.0,Sometimes,no,1.796956,no,1.684582,0.887388,Sometimes,Public_Transportation,1
+484,Male,twenty-one,1.931263;118,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.743593,1.0,Sometimes,Public_Transportation,1
+485,Female,seventeen,1.6;65,yes,yes,3.0,2.973504,Sometimes,no,2.0,yes,0.178976,0.166076,Sometimes,Public_Transportation,0
+486,Male,twenty,"1.849425,eighty-five",yes,yes,2.146598,3.0,Sometimes,no,2.100112,no,1.17116,0.833761,Sometimes,Public_Transportation,0
+487,Female,21,1.707508_one hundred and twenty-one,yes,yes,3.0,3.0,Sometimes,no,1.615548,no,1.376534,0.926052,Sometimes,Public_Transportation,1
+488,Female,nineteen,"-7.0,forty-two",no,yes,3.0,2.0846,Sometimes,no,2.13755,yes,0.196152,0.062488,no,Public_Transportation,0
+489,Female,20,1.68838_121,yes,yes,3.0,3.0,Sometimes,no,1.353167,no,1.093679,0.534553,Sometimes,Public_Transportation,1
+490,Male,twenty-two,1.947406_one hundred and sixteen,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.975187,1.0,Sometimes,Public_Transportation,1
+491,Female,23,1.630357_83,yes,yes,2.977585,1.630506,Sometimes,no,2.839319,no,1.091474,0.889517,no,Public_Transportation,1
+492,Male,thirty-three,1.75015;118,yes,yes,2.218599,3.0,Sometimes,no,2.104337,no,0.766007,0.262118,Sometimes,Automobile,1
+493,Female,37,1.559499_77,yes,yes,2.0,3.0,Sometimes,no,1.630528,no,0.0,0.0,Sometimes,Automobile,1
+494,Female,twenty-four,-8.0_one hundred and fourteen,yes,yes,3.0,3.0,Sometimes,no,2.909675,no,0.360908,0.573887,Sometimes,Public_Transportation,1
+495,Male,28,1.815347_120,yes,yes,2.9673,3.0,Sometimes,no,2.530035,no,1.045107,0.947866,Sometimes,Automobile,1
+496,Female,twenty-six,"1.613574,one hundred and seven",yes,yes,3.0,3.0,Sometimes,no,2.678779,no,0.0,0.508848,Sometimes,Public_Transportation,1
+497,Male,twenty,"-3.0,one hundred and six",yes,yes,2.869778,1.468948,Sometimes,no,1.656082,no,0.0,1.444033,no,Public_Transportation,1
+498,Female,17,-5.0;50,no,yes,2.784464,4.0,Sometimes,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+499,Female,21,1.753266_133,yes,yes,3.0,3.0,Sometimes,no,2.95311,no,1.445148,0.67321,Sometimes,Public_Transportation,1
+500,Female,twenty-six,1.622703_111,yes,yes,3.0,3.0,Sometimes,no,2.707201,no,0.0,0.167272,Sometimes,Public_Transportation,1
+501,Male,twenty-five,1.858265_one hundred and seventeen,yes,yes,2.028571,3.0,Sometimes,no,2.530428,no,1.31257,0.066805,Sometimes,Public_Transportation,1
+502,Male,twenty-one,1.679306_seventy-five,yes,yes,2.0,3.0,Sometimes,no,1.957871,no,0.994592,0.117303,Sometimes,Public_Transportation,0
+503,Female,19,-6.0;49,no,yes,2.562409,3.488342,Sometimes,no,1.67062,no,2.0,1.0,Sometimes,Public_Transportation,0
+504,Female,twenty-six,1.600762;105,yes,yes,3.0,3.0,Sometimes,no,1.031354,no,0.0,0.37465,Sometimes,Public_Transportation,1
+505,Female,18,1.637396;seventy,yes,yes,2.0,1.999014,Sometimes,no,2.326165,no,0.00705,0.0,no,Public_Transportation,0
+506,Female,18,1.7;fifty,no,yes,1.036414,3.205587,Sometimes,no,1.745959,no,0.115974,1.0,Sometimes,Public_Transportation,0
+507,Female,24,1.73945;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.852339,no,1.139107,0.586035,Sometimes,Public_Transportation,1
+508,Male,eighteen,1.811738;108,yes,yes,2.0,1.202179,Sometimes,no,2.36293,no,1.0,1.47574,no,Public_Transportation,1
+509,Male,seventeen,1.854706;59,yes,yes,2.707666,3.737914,Sometimes,no,2.026547,no,2.009397,0.613971,no,Automobile,0
+510,Male,seventeen,1.710564_fifty-one,no,yes,2.0,2.057935,Sometimes,no,2.371015,no,0.288032,0.714627,Sometimes,Public_Transportation,0
+511,Female,16,"-7.0,sixty-seven",yes,yes,2.851664,1.0,Sometimes,no,2.0,no,0.977929,1.765321,no,Public_Transportation,0
+512,Female,twenty-one,"1.55,49",yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,1.0,Sometimes,Public_Transportation,0
+513,Female,eighteen,"1.622999,82",yes,yes,2.340405,3.0,Sometimes,no,1.655245,no,1.006884,0.548539,no,Public_Transportation,1
+514,Male,40,"1.749405,one hundred and nine",yes,yes,2.176317,2.986637,Sometimes,no,1.015672,no,0.94141,0.0,no,Automobile,1
+515,Female,twenty-one,1.675054;49,yes,yes,2.929889,3.0,Frequently,no,2.792074,no,0.630944,1.366355,no,Public_Transportation,0
+516,Male,29,1.779049;one hundred and twelve,yes,yes,2.065752,3.0,Sometimes,no,2.078297,no,0.0,0.677354,Sometimes,Automobile,1
+517,Male,eighteen,1.717826_fifty-one,yes,yes,1.133844,3.0,Sometimes,no,1.325326,no,0.227985,1.708309,Sometimes,Public_Transportation,0
+518,Male,23,1.677573_seventy-five,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.334579,1.905826,Sometimes,Public_Transportation,0
+519,Male,seventeen,1.771915;55,yes,yes,2.0,4.0,Sometimes,no,2.884033,no,2.0,1.340107,Sometimes,Public_Transportation,0
+520,Female,eighteen,1.62;sixty-nine,yes,yes,2.22399,1.0,Sometimes,no,2.20312,no,0.104451,1.899073,no,Public_Transportation,0
+521,Female,twenty-five,1.580968_102,yes,yes,3.0,3.0,Sometimes,no,1.003563,no,0.008127,1.0,Sometimes,Public_Transportation,1
+522,Female,nineteen,1.632605_82,yes,yes,2.805512,2.880817,Sometimes,no,1.001307,no,0.0,1.376597,Sometimes,Public_Transportation,1
+523,Male,twenty-seven,1.828276;one hundred and twenty,yes,yes,2.637202,3.0,Sometimes,no,2.966647,no,1.159598,0.758897,Sometimes,Public_Transportation,1
+524,Female,25,1.663632;105,yes,yes,3.0,3.0,Sometimes,no,1.626467,no,0.010183,0.412806,Sometimes,Public_Transportation,1
+525,Male,twenty-one,1.849998_one hundred and twenty-two,yes,yes,3.0,2.014671,Sometimes,no,1.292786,no,0.145687,0.0,Sometimes,Public_Transportation,1
+526,Male,twenty-one,1.702002;ninety-seven,yes,yes,2.0,1.66338,Sometimes,no,2.0,no,0.0,1.865851,no,Public_Transportation,1
+527,Female,twenty-five,1.609401;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,2.613504,no,0.067985,0.778632,Sometimes,Public_Transportation,1
+528,Female,nineteen,1.51_forty-five,no,yes,2.0,4.0,Sometimes,no,1.0,no,3.0,0.0,Sometimes,Public_Transportation,0
+529,Male,31,"1.886109,129",yes,yes,2.499626,3.0,Sometimes,yes,1.125338,no,0.94522,1.022505,Sometimes,Public_Transportation,1
+530,Male,37,1.762921;118,yes,yes,2.13683,2.993084,Sometimes,no,1.885926,no,0.615298,0.0,Sometimes,Automobile,1
+531,Male,twenty-six,1.885119_121,yes,yes,2.423291,3.0,Sometimes,no,2.902682,no,1.243567,0.555591,Sometimes,Public_Transportation,1
+532,Male,22,"1.741353,96",yes,yes,2.0,3.0,Sometimes,no,2.697661,no,2.614909,1.229474,no,Public_Transportation,1
+533,Female,nineteen,1.817231;152,yes,yes,3.0,3.0,Sometimes,no,2.305521,no,1.956278,0.92376,Sometimes,Public_Transportation,1
+534,Male,eighteen,1.855433;one hundred and twelve,yes,yes,2.0,2.427137,Sometimes,no,2.574073,no,1.0,2.0,Sometimes,Public_Transportation,1
+535,Female,19,1.76_79,yes,yes,2.0,1.146794,Sometimes,no,3.0,no,1.809745,1.690102,Frequently,Public_Transportation,0
+536,Female,twenty-one,"1.748524,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,2.868167,no,1.48372,0.83509,Sometimes,Public_Transportation,1
+537,Female,fifty-one,1.59;fifty,yes,no,3.0,3.0,Sometimes,yes,3.0,yes,2.0,0.0,no,Public_Transportation,0
+538,Male,26,1.74_80,no,no,2.0,3.0,Sometimes,no,2.0,no,2.0,0.0,no,Automobile,0
+539,Male,twenty-five,-1.0;113,yes,yes,1.517912,3.0,Sometimes,no,2.038958,no,1.590255,0.00164,Sometimes,Public_Transportation,1
+540,Female,twenty-two,1.604893_eighty-two,yes,yes,1.00876,1.0,Sometimes,no,2.0,no,0.0,0.585912,Sometimes,Public_Transportation,1
+541,Male,twenty-one,"1.62,70",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+542,Female,26,"1.643892,111",yes,yes,3.0,3.0,Sometimes,no,2.768141,no,0.0,0.094213,Sometimes,Public_Transportation,1
+543,Female,21,-6.0;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,1.610768,no,1.510398,0.931455,Sometimes,Public_Transportation,1
+544,Female,sixteen,1.65;eighty-five,yes,yes,2.954996,3.0,Sometimes,no,1.0,no,2.091862,1.06053,no,Public_Transportation,1
+545,Female,25,"1.603404,105",yes,yes,3.0,3.0,Sometimes,no,1.919473,no,0.027101,0.546137,Sometimes,Public_Transportation,1
+546,Female,twenty,1.75655;seventy-eight,yes,yes,2.0,3.0,Sometimes,no,2.813234,no,0.228753,2.0,Frequently,Public_Transportation,0
+547,Female,26,1.584782;one hundred and five,yes,yes,3.0,3.0,Sometimes,no,1.197667,no,0.0,0.534769,Sometimes,Public_Transportation,1
+548,Male,twenty-one,1.8_seventy-two,no,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+549,Male,twenty-one,1.696201;seventy-five,yes,yes,2.109162,3.245148,Sometimes,no,1.971774,no,0.989335,0.0,Sometimes,Public_Transportation,0
+550,Male,38,1.765836_118,yes,yes,2.177896,2.987652,Sometimes,no,1.745095,no,0.656548,0.0,Sometimes,Automobile,1
+551,Male,19,1.78;64,no,yes,2.0,3.0,Sometimes,no,1.0,no,1.0,0.0,no,Public_Transportation,0
+552,Female,twenty,"1.58,53",yes,yes,2.0,4.0,Frequently,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+553,Male,eighteen,1.856633_fifty-nine,yes,yes,2.592247,3.304123,Sometimes,no,2.036764,no,2.038653,1.119877,no,Automobile,0
+554,Male,twenty-two,1.785718_105,yes,yes,2.253707,3.0,Sometimes,no,2.524432,no,0.58216,0.175694,Sometimes,Public_Transportation,1
+555,Female,twenty-one,"1.803677,one hundred and sixty",yes,yes,3.0,3.0,Sometimes,no,2.404049,no,0.427905,0.639894,Sometimes,Public_Transportation,1
+556,Female,seventeen,1.600184;65,yes,yes,2.749629,2.298612,Sometimes,no,2.0,yes,0.547515,1.619473,Sometimes,Public_Transportation,0
+557,Male,twenty-one,1.84998;122,yes,yes,3.0,1.971659,Sometimes,no,1.179254,no,0.178856,0.0,Sometimes,Public_Transportation,1
+558,Male,22,1.839699_120,yes,yes,2.382705,2.938902,Sometimes,no,1.999278,no,1.686229,0.630866,Sometimes,Public_Transportation,1
+559,Male,29,1.773181_one hundred and twelve,yes,yes,1.947495,3.0,Sometimes,no,2.042073,no,0.0,0.618087,Sometimes,Automobile,1
+560,Male,55,1.78;eighty-four,yes,no,3.0,4.0,Frequently,no,3.0,yes,3.0,0.0,Frequently,Walking,0
+561,Male,thirty,1.650189;one hundred and one,yes,yes,2.913452,2.269799,Sometimes,no,1.0,no,1.889937,0.378818,no,Public_Transportation,1
+562,Male,twenty-six,"1.773115,one hundred and fifteen",yes,yes,2.392179,3.0,Sometimes,no,2.16467,no,1.079934,1.073026,Sometimes,Public_Transportation,1
+563,Male,eighteen,"1.856406,fifty-eight",yes,yes,2.34222,3.937099,Sometimes,no,2.311791,no,2.013377,1.128355,no,Automobile,0
+564,Female,21,-2.0;forty-two,no,yes,3.0,1.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+565,Female,twenty-one,1.770612_one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.825629,no,1.399183,0.928972,Sometimes,Public_Transportation,1
+566,Male,nineteen,"1.815409,85",yes,yes,2.987148,3.483449,Sometimes,no,2.359246,no,2.060415,0.598999,Sometimes,Public_Transportation,0
+567,Female,25,"1.628019,108",yes,yes,3.0,3.0,Sometimes,no,1.6213,no,0.090917,0.438216,Sometimes,Public_Transportation,1
+568,Male,19,"-3.0,86",yes,yes,2.643183,3.821461,Sometimes,no,2.397124,no,2.044165,0.471663,Sometimes,Public_Transportation,0
+569,Male,twenty-two,1.65_fifty-six,no,no,3.0,3.0,Sometimes,no,3.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+570,Female,forty-three,-5.0;77,yes,yes,2.0,3.0,Sometimes,no,2.117346,no,0.0,0.0,no,Automobile,1
+571,Female,thirty,"1.533364,78",yes,yes,2.028225,1.923607,Sometimes,no,1.798917,no,0.0,0.0,no,Public_Transportation,1
+572,Male,17,"1.66,56",yes,yes,1.0,3.0,Always,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+573,Female,twenty,"1.56948,forty-one",no,yes,2.392665,1.0,Frequently,no,1.0,no,0.0,0.738269,Sometimes,Public_Transportation,0
+574,Male,26,"1.647807,ninety-nine",yes,yes,2.935157,1.845858,Sometimes,no,1.0,no,1.089891,0.715993,no,Public_Transportation,1
+575,Female,twenty-one,-6.0;49,yes,no,2.0,1.0,Sometimes,no,2.0,yes,2.0,0.0,Sometimes,Public_Transportation,0
+576,Female,seventeen,"1.535618,fifty-seven",no,yes,1.972545,2.339614,Sometimes,no,1.711074,yes,0.095517,1.191053,Sometimes,Public_Transportation,0
+577,Male,21,"1.694633,75",yes,yes,2.178889,3.563744,Sometimes,no,1.853991,no,0.997731,0.0,Sometimes,Public_Transportation,0
+578,Male,nineteen,1.8_60,yes,yes,3.0,1.0,Always,no,1.0,yes,0.0,0.0,no,Motorbike,0
+579,Male,twenty-one,1.752391;79,yes,yes,3.0,1.0,Sometimes,no,2.0,no,2.57223,0.0,Sometimes,Automobile,0
+580,Male,eighteen,-6.0_58,yes,yes,2.0,3.0,Frequently,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+581,Male,25,-1.0;sixty-eight,no,yes,2.0,3.0,Frequently,no,2.0,no,0.0,1.0,no,Public_Transportation,0
+582,Male,24,"1.757069,one hundred and seventeen",yes,yes,1.392665,3.0,Sometimes,no,2.0,no,1.097983,0.630866,Sometimes,Public_Transportation,1
+583,Female,twenty-four,1.65;sixty,yes,no,2.0,3.0,Sometimes,no,3.0,yes,1.0,0.0,no,Public_Transportation,0
+584,Male,25,1.757154;112,yes,yes,1.264234,3.0,Sometimes,no,2.0,no,1.333435,0.002168,Sometimes,Public_Transportation,1
+585,Female,26,"1.631856,110",yes,yes,3.0,3.0,Sometimes,no,2.70485,no,0.0,0.243338,Sometimes,Public_Transportation,1
+586,Male,31,-3.0_one hundred and two,yes,yes,2.826036,2.371658,Sometimes,no,1.0,no,1.996487,0.0,no,Public_Transportation,1
+587,Male,nineteen,1.71_71,no,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+588,Female,twenty-one,1.733383;one hundred and thirty-five,yes,yes,3.0,3.0,Sometimes,no,1.485736,no,1.950374,0.869238,Sometimes,Public_Transportation,1
+589,Male,25,1.788239;one hundred and fifteen,yes,yes,1.735664,3.0,Sometimes,no,2.041536,no,1.392406,0.39174,Sometimes,Public_Transportation,1
+590,Male,twenty-one,1.896073_90,yes,yes,2.427689,3.715306,Sometimes,no,2.876096,no,1.815768,0.426465,Sometimes,Public_Transportation,0
+591,Female,thirty-three,"1.679725,seventy-four",yes,yes,3.0,1.13715,Sometimes,no,1.000695,no,0.261274,0.0,Sometimes,Automobile,0
+592,Male,forty,1.786318;98,yes,yes,2.0,3.0,Sometimes,no,2.680292,no,1.549693,0.522259,Sometimes,Automobile,1
+593,Male,30,"1.779136,one hundred and twenty",yes,yes,2.671238,3.0,Sometimes,no,2.145368,no,0.882709,0.593917,Sometimes,Automobile,1
+594,Male,thirty-six,"1.670667,90",yes,yes,2.903545,1.508685,Sometimes,no,2.450069,no,1.45473,0.0,Sometimes,Automobile,1
+595,Male,thirty-three,1.6811;one hundred and two,yes,yes,2.813775,2.372705,Sometimes,no,1.0,no,1.979355,0.0,no,Public_Transportation,1
+596,Female,twenty-six,1.62439;110,yes,yes,3.0,3.0,Sometimes,no,2.507461,no,0.0,0.368472,Sometimes,Public_Transportation,1
+597,Male,41,1.75_one hundred and fifteen,yes,yes,2.0,2.701521,Sometimes,no,1.142644,no,0.514225,0.0,no,Automobile,1
+598,Male,seventeen,"1.793926,fifty-nine",yes,yes,2.568063,4.0,Sometimes,no,2.0,no,2.0,0.220029,no,Automobile,0
+599,Male,30,"1.757132,one hundred and eighteen",yes,yes,2.918113,3.0,Sometimes,no,2.240463,no,1.076248,1.480875,Sometimes,Automobile,1
+600,Male,twenty-two,"1.660324,94",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.105936,no,Public_Transportation,1
+601,Female,nineteen,1.742062;133,yes,yes,3.0,3.0,Sometimes,no,2.70196,no,1.465909,0.813235,Sometimes,Public_Transportation,1
+602,Male,21,1.82;sixty-seven,no,yes,2.0,4.0,Always,yes,3.0,no,3.0,2.0,Sometimes,Walking,0
+603,Female,thirty-six,-4.0_80,yes,no,3.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,1
+604,Female,nineteen,1.53535;42,no,yes,3.0,1.0,Frequently,no,1.49681,no,0.0,0.513427,Sometimes,Public_Transportation,0
+605,Male,twenty-two,"1.702825,ninety-three",yes,yes,2.0,3.0,Sometimes,no,1.746197,no,0.455216,0.335158,no,Public_Transportation,1
+606,Male,21,1.66_sixty-two,yes,yes,2.0,3.0,Sometimes,yes,2.0,no,1.0,1.0,Frequently,Public_Transportation,0
+607,Male,29,1.66671;eighty-nine,yes,yes,1.897796,3.0,Sometimes,no,1.193039,no,0.011519,0.0,Sometimes,Automobile,1
+608,Male,twenty-two,1.708071;75,yes,yes,2.714447,3.0,Sometimes,no,3.0,no,1.096818,1.89388,Sometimes,Public_Transportation,0
+609,Male,twenty-five,"1.761519,112",yes,yes,1.289315,3.0,Sometimes,no,2.007348,no,1.376217,0.001518,Sometimes,Public_Transportation,1
+610,Female,26,"1.60937,105",yes,yes,3.0,3.0,Sometimes,no,2.609052,no,0.0,0.54859,Sometimes,Public_Transportation,1
+611,Female,26,"1.622468,one hundred and ten",yes,yes,3.0,3.0,Sometimes,no,2.695094,no,0.0,0.413474,Sometimes,Public_Transportation,1
+612,Male,twenty-five,1.830596_118,yes,yes,1.455602,3.0,Sometimes,no,2.363307,no,1.144683,0.101026,Sometimes,Public_Transportation,1
+613,Female,19,1.69_70,yes,no,2.0,1.0,no,no,2.0,no,2.0,0.0,no,Public_Transportation,0
+614,Male,30,1.75_seventy-three,yes,no,2.0,3.0,no,no,2.0,yes,1.0,0.0,Sometimes,Walking,0
+615,Female,34,1.689141;50,yes,yes,2.652779,3.804944,Frequently,no,1.60114,no,0.174692,0.096982,no,Public_Transportation,0
+616,Male,17,1.710616;99,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.067491,0.894105,no,Public_Transportation,1
+617,Male,29,"1.641784,eighty-nine",yes,yes,1.3307,3.0,Sometimes,no,1.880967,no,0.322013,0.0,Sometimes,Automobile,1
+618,Female,26,"1.65,60",no,no,3.0,4.0,Always,no,2.0,no,2.0,0.0,no,Walking,0
+619,Male,18,1.707259;50,yes,yes,1.786841,3.0,Sometimes,no,1.546856,no,0.512094,1.608265,Sometimes,Public_Transportation,0
+620,Male,23,1.657995;ninety,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.603638,0.969085,no,Public_Transportation,1
+621,Male,twenty-six,1.777251_one hundred and six,yes,yes,3.0,3.0,Sometimes,no,1.911379,no,1.911096,1.032392,Sometimes,Public_Transportation,1
+622,Male,twenty-five,1.673491_103,yes,yes,2.668949,1.134321,Sometimes,no,1.279443,no,0.11243,1.135503,no,Public_Transportation,1
+623,Male,24,1.607939_100,yes,yes,2.877743,1.311797,Sometimes,no,1.000463,no,0.182249,1.4312,no,Public_Transportation,1
+624,Male,thirty-one,"1.877732,127",yes,yes,2.731368,3.0,Sometimes,yes,1.486824,no,1.485978,1.150439,Sometimes,Public_Transportation,1
+625,Female,seventeen,1.640824_forty-three,no,yes,2.815157,3.0,Sometimes,no,2.911187,no,2.595128,1.380204,Sometimes,Public_Transportation,0
+626,Female,eighteen,"1.649553,82",yes,yes,2.864776,3.0,Sometimes,no,1.876915,no,0.631565,0.186414,no,Public_Transportation,1
+627,Male,18,"1.8,80",yes,yes,2.0,3.0,Frequently,no,1.0,no,0.0,1.0,Frequently,Public_Transportation,0
+628,Female,twenty-three,"-3.0,44",no,no,2.204914,2.127797,Frequently,no,2.120292,no,0.995735,0.0,no,Public_Transportation,0
+629,Male,21,1.712061_seventy-five,yes,yes,2.0,3.0,Sometimes,no,1.333707,no,1.0,0.0,Sometimes,Public_Transportation,0
+630,Female,twenty-three,-6.0_52,no,yes,3.0,1.0,Sometimes,no,2.0,no,2.0,2.0,no,Public_Transportation,0
+631,Female,21,"-6.0,forty-two",no,no,2.318355,1.082304,Frequently,no,1.220365,no,0.033328,0.0,no,Public_Transportation,0
+632,Male,twenty-four,1.796332_one hundred and twenty,yes,yes,2.195964,3.0,Sometimes,no,2.514872,no,1.664722,0.127673,Sometimes,Public_Transportation,1
+633,Female,nineteen,1.80835_one hundred and fifty,yes,yes,3.0,3.0,Sometimes,no,2.305574,no,1.734424,0.863043,Sometimes,Public_Transportation,1
+634,Male,twenty-three,1.728183;ninety-seven,yes,yes,2.0,2.986172,Sometimes,no,2.364208,no,2.492402,1.632506,no,Public_Transportation,1
+635,Female,18,1.55;fifty-six,no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,no,Automobile,0
+636,Female,nineteen,-8.0;forty-nine,no,yes,1.204855,3.531038,Sometimes,no,1.134658,no,2.0,1.0,Sometimes,Public_Transportation,0
+637,Male,thirty,"1.703202,one hundred and three",yes,yes,2.754645,2.175432,Sometimes,no,1.541733,no,0.358709,1.0739,no,Public_Transportation,1
+638,Female,eighteen,1.63;fifty-one,yes,yes,1.0,3.0,Frequently,no,1.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+639,Female,17,"1.584951,forty-four",no,yes,2.737762,3.0,Sometimes,no,2.310921,no,2.240714,1.59257,Sometimes,Public_Transportation,0
+640,Female,eighteen,"1.579561,41",no,yes,2.027574,1.0,Sometimes,no,1.636326,no,0.0,1.906141,Sometimes,Public_Transportation,0
+641,Female,twenty-two,1.757442;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.84837,no,1.206059,0.766668,Sometimes,Public_Transportation,1
+642,Female,twenty,1.528011;forty-two,no,yes,3.0,1.0,Frequently,no,1.322669,no,0.0,0.478676,Sometimes,Public_Transportation,0
+643,Female,21,-8.0;68,yes,yes,1.834155,3.995957,Sometimes,no,2.632871,no,1.236114,1.980875,Sometimes,Public_Transportation,0
+644,Female,eighteen,"1.763465,fifty",no,yes,1.567101,3.0,Sometimes,no,1.994139,no,0.107981,1.0,Sometimes,Public_Transportation,0
+645,Male,eighteen,1.698914_51,yes,yes,2.824559,3.0,Sometimes,no,2.0,no,0.533309,1.099764,Sometimes,Public_Transportation,0
+646,Male,25,1.83;121,yes,no,3.0,3.0,Sometimes,no,3.0,no,2.0,0.0,Sometimes,Walking,1
+647,Female,40,"1.561109,62",yes,yes,2.948248,3.0,Sometimes,no,2.429911,no,0.11964,0.360193,Sometimes,Automobile,0
+648,Female,twenty-three,"1.589616,sixty-five",no,yes,2.286146,2.961113,Sometimes,no,2.657303,no,1.91108,1.618227,Sometimes,Public_Transportation,0
+649,Female,20,"1.725548,forty-nine",yes,no,2.890535,3.90779,Frequently,no,1.109115,no,1.548953,0.555468,no,Public_Transportation,0
+650,Male,26,1.83;82,no,yes,2.0,3.0,Always,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+651,Male,23,1.882779_64,yes,yes,3.0,3.0,Sometimes,no,2.843777,no,1.488843,0.009254,Sometimes,Automobile,0
+652,Male,twenty-one,1.72_75,no,yes,2.0,3.0,Sometimes,no,1.0,no,1.0,0.0,no,Public_Transportation,0
+653,Female,26,"1.631547,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.554007,no,0.0,0.252635,Sometimes,Public_Transportation,1
+654,Male,eighteen,"1.78,sixty-four",yes,yes,3.0,3.0,Frequently,no,2.0,no,3.0,2.0,no,Walking,0
+655,Male,23,"1.670227,75",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.129163,1.983678,Sometimes,Public_Transportation,0
+656,Female,20,"1.534223,41",no,yes,2.673638,2.779379,Frequently,no,1.249074,no,0.043412,0.403694,Sometimes,Public_Transportation,0
+657,Male,25,1.766547;one hundred and fifteen,yes,yes,2.203962,3.0,Sometimes,no,2.15687,no,1.289421,1.220767,Sometimes,Public_Transportation,1
+658,Male,seventeen,1.836669_58,yes,yes,2.767731,3.821168,Sometimes,no,2.0,no,2.0,0.556245,no,Automobile,0
+659,Male,20,1.781251;102,yes,yes,2.0,3.0,Sometimes,no,1.618189,no,0.571648,0.0,no,Public_Transportation,1
+660,Female,twenty-six,"1.64599,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.78678,no,0.0,0.09776,Sometimes,Public_Transportation,1
+661,Female,forty-two,"1.571417,81",yes,yes,2.522183,1.326982,Sometimes,no,1.872673,no,1.048507,0.0,no,Automobile,1
+662,Female,thirty-seven,"1.65,seventy-three",yes,no,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Automobile,0
+663,Male,twenty-three,"1.652971,ninety-three",yes,yes,1.368978,3.0,Sometimes,no,1.953152,no,0.104707,0.22183,no,Automobile,1
+664,Male,twenty-six,1.7;seventy,no,yes,2.0,3.0,Sometimes,yes,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+665,Male,twenty-three,"1.77,60",yes,yes,3.0,1.0,Sometimes,no,1.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+666,Female,21,"1.72692,131",yes,yes,3.0,3.0,Sometimes,no,1.796267,no,1.728332,0.897924,Sometimes,Public_Transportation,1
+667,Male,17,"1.72,sixty-two",no,yes,2.0,3.0,Always,no,2.0,no,3.0,1.0,no,Public_Transportation,0
+668,Female,twenty-three,"1.588597,sixty-two",no,yes,2.39728,2.656588,Sometimes,no,2.061062,no,1.912981,1.887386,Sometimes,Public_Transportation,0
+669,Male,26,1.75_eighty,yes,yes,3.0,1.0,Frequently,yes,2.0,yes,2.0,0.0,Sometimes,Public_Transportation,0
+670,Male,twenty-three,"1.7,sixty-nine",no,yes,3.0,1.0,Frequently,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+671,Female,twenty,1.62;fifty-three,no,yes,3.0,1.0,Sometimes,no,3.0,no,1.0,1.0,no,Public_Transportation,0
+672,Male,twenty-seven,1.8;87,no,no,3.0,3.0,Sometimes,no,2.0,no,2.0,0.0,Frequently,Walking,0
+673,Male,18,1.76_68,no,no,2.0,4.0,Frequently,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+674,Male,thirty-eight,"1.789109,one hundred",yes,yes,2.014194,2.050121,Sometimes,no,2.184707,no,2.000561,0.853891,Frequently,Automobile,1
+675,Male,twenty-three,"1.68,seventy",no,yes,2.0,3.0,Sometimes,no,2.0,no,2.0,2.0,Frequently,Walking,0
+676,Male,twenty-seven,1.764138;one hundred and twelve,yes,yes,1.924632,3.0,Sometimes,no,2.006595,no,0.1768,0.511694,Sometimes,Automobile,1
+677,Male,eighteen,1.739344;fifty,yes,yes,1.889883,3.0,Sometimes,no,1.959531,no,0.520407,1.151166,Sometimes,Public_Transportation,0
+678,Male,30,"1.860292,123",yes,yes,2.002784,3.0,Sometimes,no,2.292906,no,1.034031,0.0,Sometimes,Automobile,1
+679,Male,nineteen,1.857231;eighty-eight,yes,yes,2.061952,4.0,Sometimes,no,2.426465,no,2.0,0.160138,Sometimes,Public_Transportation,0
+680,Male,seventeen,1.69_60,no,no,2.0,3.0,Sometimes,no,3.0,no,2.0,1.0,Sometimes,Walking,0
+681,Female,twenty-four,"-10.0,51",yes,yes,1.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Automobile,0
+682,Female,twenty-three,"1.739991,133",yes,yes,3.0,3.0,Sometimes,no,2.837797,no,1.343875,0.803156,Sometimes,Public_Transportation,1
+683,Female,twenty-six,1.630927_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.444125,no,0.0,0.26579,Sometimes,Public_Transportation,1
+684,Male,thirty-six,"-4.0,one hundred and six",yes,yes,2.541785,2.902639,Sometimes,no,1.0,no,1.668961,0.0,no,Automobile,1
+685,Male,eighteen,1.799779_one hundred and eight,yes,yes,2.0,1.194815,Sometimes,no,2.434832,no,1.0,1.541455,no,Public_Transportation,1
+686,Female,thirty-eight,"-6.0,75",yes,yes,2.0,3.0,Sometimes,no,1.084442,no,0.0,0.0,Sometimes,Automobile,1
+687,Male,20,"1.8,seventy-five",no,yes,3.0,4.0,Always,no,3.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+688,Female,40,1.548403;eighty,yes,yes,2.0,3.0,Sometimes,no,1.326165,no,0.0,0.0,Sometimes,Automobile,1
+689,Female,twenty,"1.690614,one hundred and twenty-nine",yes,yes,3.0,3.0,Sometimes,no,1.154698,no,1.71836,0.959218,Sometimes,Public_Transportation,1
+690,Female,23,1.665199;83,yes,yes,2.928234,1.458507,Sometimes,no,2.777379,no,0.354541,1.707018,no,Public_Transportation,1
+691,Male,twenty-three,"1.75,120",yes,yes,2.0,3.0,Sometimes,yes,2.0,no,2.0,1.0,Sometimes,Public_Transportation,1
+692,Female,19,1.52337_42,no,yes,2.913486,1.060796,Frequently,no,1.596212,no,0.108948,0.773087,Sometimes,Public_Transportation,0
+693,Male,nineteen,1.816783;eighty-six,yes,yes,2.0,3.0,Sometimes,no,2.177386,no,0.336814,0.004813,Sometimes,Public_Transportation,0
+694,Male,20,1.72;70,yes,yes,3.0,3.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+695,Female,twenty-two,1.724983_132,yes,yes,3.0,3.0,Sometimes,no,2.085553,no,1.271651,0.587932,Sometimes,Public_Transportation,1
+696,Female,18,"1.681719,ninety",yes,yes,1.524428,3.0,Sometimes,no,1.383831,no,0.130417,1.0,Sometimes,Public_Transportation,1
+697,Female,twenty-three,1.553127_seventy-eight,yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.827502,0.0,no,Public_Transportation,1
+698,Female,18,1.64_56,yes,yes,3.0,3.0,Frequently,no,1.0,yes,1.0,1.0,no,Public_Transportation,0
+699,Male,21,"1.863685,89",yes,yes,2.0,3.0,Sometimes,no,1.005727,no,0.0,0.798219,Sometimes,Public_Transportation,0
+700,Female,twenty,"1.550648,44",no,yes,3.0,2.857787,Frequently,no,1.0,no,0.754646,0.0,Sometimes,Public_Transportation,0
+701,Male,twenty-six,1.660955_90,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.669278,0.505266,Sometimes,Automobile,1
+702,Female,21,-3.0;fifty-eight,no,yes,2.0,1.0,Sometimes,no,1.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+703,Female,twenty-nine,1.6;56,yes,no,2.0,3.0,Frequently,no,1.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+704,Female,eighteen,1.759117;eighty,yes,yes,2.0,1.411808,Sometimes,no,2.651194,no,2.878414,0.953841,no,Public_Transportation,0
+705,Female,twenty-two,1.632118_eighty-two,yes,yes,2.587789,1.482103,Sometimes,no,1.911664,no,0.0,0.128681,Sometimes,Public_Transportation,1
+706,Female,twenty-six,"1.626503,110",yes,yes,3.0,3.0,Sometimes,no,2.708927,no,0.0,0.278962,Sometimes,Public_Transportation,1
+707,Male,eighteen,"1.708107,fifty-one",yes,yes,1.303878,3.0,Sometimes,no,1.755497,no,0.062932,1.672532,Sometimes,Public_Transportation,0
+708,Female,19,"1.542328,sixty-three",no,yes,2.628791,2.762883,Sometimes,no,1.512035,yes,0.303722,0.003229,Sometimes,Public_Transportation,0
+709,Male,thirty-six,"1.780725,98",yes,yes,2.540949,1.116401,Sometimes,no,2.929123,no,2.787319,0.732881,Frequently,Automobile,1
+710,Female,twenty-six,"1.629191,one hundred and four",yes,yes,3.0,3.0,Sometimes,no,2.654702,no,0.0,0.555468,Sometimes,Public_Transportation,1
+711,Female,21,1.72064_50,yes,yes,2.919584,3.697831,Frequently,no,1.147121,no,0.993058,0.08922,no,Public_Transportation,0
+712,Female,sixteen,"1.830068,forty-three",no,yes,2.945967,3.0,Sometimes,no,2.953192,no,2.830911,1.466667,Sometimes,Public_Transportation,0
+713,Female,thirty-nine,1.507867_seventy-nine,yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,1
+714,Female,thirty-two,1.64602;seventy-four,yes,yes,2.885178,2.562895,Sometimes,no,1.017006,no,0.588673,0.916291,Sometimes,Automobile,0
+715,Female,27,1.660446_49,yes,yes,2.004146,3.443456,Frequently,no,2.020764,no,1.078719,1.26729,no,Public_Transportation,0
+716,Male,twenty-three,1.755142;one hundred and nineteen,yes,yes,2.007845,2.954446,Sometimes,no,1.968796,no,1.587406,0.838947,Sometimes,Public_Transportation,1
+717,Female,18,1.6_51,yes,yes,2.0,3.0,Frequently,no,1.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+718,Female,twenty-two,1.605495;eighty-two,yes,yes,2.049112,2.622055,Sometimes,no,2.280555,no,2.052896,0.896185,no,Public_Transportation,1
+719,Male,twenty-three,1.72_sixty-six,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Walking,0
+720,Female,23,1.69135;one hundred and fourteen,yes,yes,3.0,3.0,Sometimes,no,2.509535,no,0.334264,0.668172,Sometimes,Public_Transportation,1
+721,Female,22,1.616085;eighty-two,yes,yes,2.663866,1.416309,Sometimes,no,2.379275,no,0.256323,0.598244,no,Public_Transportation,1
+722,Female,twenty-one,"1.65,eighty-eight",yes,yes,2.482575,1.001542,Sometimes,no,3.0,no,1.751656,1.0,no,Public_Transportation,1
+723,Male,fourteen,-3.0_72,yes,yes,3.0,3.0,Sometimes,no,3.0,no,2.0,1.0,no,Walking,0
+724,Female,24,"1.663341,113",yes,yes,3.0,3.0,Sometimes,no,2.632224,no,0.300964,0.26956,Sometimes,Public_Transportation,1
+725,Male,25,"1.84842,117",yes,yes,2.128574,3.0,Sometimes,no,2.531984,no,1.003294,0.026575,Sometimes,Public_Transportation,1
+726,Female,nineteen,1.76_80,yes,yes,2.0,1.0,Sometimes,no,3.0,no,3.0,1.0,no,Public_Transportation,0
+727,Male,thirty-one,1.76569;one hundred and twenty,yes,yes,2.821727,3.0,Sometimes,no,2.173279,no,1.096556,0.232858,Sometimes,Automobile,1
+728,Female,twenty-five,1.592529;one hundred and two,yes,yes,3.0,3.0,Sometimes,no,1.074412,no,0.006265,0.845633,Sometimes,Public_Transportation,1
+729,Female,nineteen,1.508267;61,no,yes,2.778079,3.0,Sometimes,no,1.696691,yes,0.94224,0.879925,Sometimes,Public_Transportation,0
+730,Female,twenty-one,1.730199_seventy-eight,yes,yes,2.277077,1.0,Sometimes,no,2.0,no,1.061743,0.0,Sometimes,Public_Transportation,0
+731,Male,thirty,1.76714;120,yes,yes,2.117121,3.0,Sometimes,no,2.193008,no,0.992829,1.556052,Sometimes,Automobile,1
+732,Female,21,"1.580964,65",no,yes,2.021446,3.0,Sometimes,no,1.077917,no,0.523847,0.808599,Sometimes,Public_Transportation,0
+733,Female,26,1.602025_one hundred and four,yes,yes,3.0,3.0,Sometimes,no,2.613928,no,0.0,0.553093,Sometimes,Public_Transportation,1
+734,Male,22,1.64_fifty-three,no,no,2.0,3.0,Sometimes,no,2.0,no,3.0,0.0,Sometimes,Public_Transportation,0
+735,Female,25,1.629225_104,yes,yes,3.0,3.0,Sometimes,no,2.556068,no,0.01682,0.58284,Sometimes,Public_Transportation,1
+736,Female,eighteen,1.704193_fifty,no,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,1.525597,Sometimes,Public_Transportation,0
+737,Female,23,1.637524_113,yes,yes,3.0,3.0,Sometimes,no,2.495961,no,0.189831,0.652289,Sometimes,Public_Transportation,1
+738,Male,21,-9.0_96,yes,yes,2.0,2.95833,Sometimes,no,2.0,no,0.0,1.595306,no,Public_Transportation,1
+739,Male,nineteen,1.80733_85,yes,yes,2.801514,3.0,Sometimes,no,2.734782,no,2.207881,0.143675,Sometimes,Public_Transportation,0
+740,Male,twenty-one,"1.85,68",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+741,Male,thirty-six,1.75;one hundred and nineteen,yes,yes,2.72989,3.0,Sometimes,no,2.030084,no,0.592607,0.754417,Sometimes,Automobile,1
+742,Male,thirty,"1.759772,one hundred and eighteen",yes,yes,2.312528,3.0,Sometimes,no,2.208068,no,1.07672,1.035711,Sometimes,Automobile,1
+743,Male,sixteen,1.691007;fifty-two,no,yes,2.0,2.000986,Sometimes,no,2.673835,no,0.99295,0.474836,Sometimes,Public_Transportation,0
+744,Male,twenty-seven,1.84342_120,yes,yes,2.765063,3.0,Sometimes,no,2.867206,no,0.706777,0.677909,Sometimes,Public_Transportation,1
+745,Female,seventeen,-1.0;59,no,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,2.0,no,Public_Transportation,0
+746,Female,twenty-one,1.753578;seventy-seven,yes,yes,2.273548,2.39007,Sometimes,no,1.648404,no,0.874643,1.102696,Sometimes,Public_Transportation,0
+747,Male,25,"1.811602,106",yes,yes,3.0,3.0,Sometimes,no,2.858171,no,1.813318,0.680215,Sometimes,Public_Transportation,1
+748,Male,27,1.785277;one hundred and twelve,yes,yes,2.155182,3.0,Sometimes,no,2.049079,no,0.0,1.74992,Sometimes,Automobile,1
+749,Female,22,"-9.0,fifty-four",yes,yes,3.0,3.0,Frequently,no,2.009796,no,2.0,0.071317,no,Public_Transportation,0
+750,Male,17,"1.821514,fifty-nine",yes,yes,2.613249,3.712183,Sometimes,no,2.0,no,2.002997,0.174848,no,Automobile,0
+751,Male,twenty-nine,"-2.0,90",yes,no,2.0,3.0,Sometimes,no,3.0,no,1.0,0.0,Sometimes,Automobile,1
+752,Male,17,1.824414;59,yes,yes,2.432302,3.0,Sometimes,no,2.0,no,2.349495,1.0,no,Automobile,0
+753,Male,18,1.719827_52,yes,yes,1.202075,3.0,Sometimes,no,1.927976,no,0.023574,1.747256,Sometimes,Public_Transportation,0
+754,Male,17,"1.841879,sixty",yes,yes,3.0,3.732126,Sometimes,no,2.0,no,2.000934,0.384662,no,Automobile,0
+755,Female,19,1.751038_133,yes,yes,3.0,3.0,Sometimes,no,2.955075,no,1.46046,0.655558,Sometimes,Public_Transportation,1
+756,Female,twenty-two,1.650012;eighty-seven,yes,yes,2.983851,1.068443,Sometimes,no,2.854161,no,1.103209,1.0,no,Public_Transportation,1
+757,Female,25,1.623812;one hundred and nine,yes,yes,3.0,3.0,Sometimes,no,2.395387,no,0.000272,0.461532,Sometimes,Public_Transportation,1
+758,Male,21,1.62;70,no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+759,Female,twenty-six,1.640745_one hundred and ten,yes,yes,3.0,3.0,Sometimes,no,2.666178,no,0.0,0.276907,Sometimes,Public_Transportation,1
+760,Female,26,"1.656465,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.784303,no,0.0,0.127775,Sometimes,Public_Transportation,1
+761,Male,twenty,1.861358_one hundred and fifteen,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.987591,1.914531,Sometimes,Public_Transportation,1
+762,Male,31,1.75;one hundred and twenty,yes,yes,2.941627,3.0,Sometimes,no,2.318134,no,0.582686,1.588046,Sometimes,Automobile,1
+763,Male,eighteen,1.721854;52,yes,yes,2.33998,3.0,Sometimes,no,2.0,no,0.027433,1.884138,Sometimes,Public_Transportation,0
+764,Female,twenty-one,1.69_63,no,yes,3.0,1.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+765,Female,16,1.818268;47,no,yes,3.0,3.286431,Sometimes,no,2.148146,no,2.458237,1.273333,Sometimes,Public_Transportation,0
+766,Male,20,"1.619128,104",yes,yes,2.870895,1.627555,Sometimes,no,1.375728,no,0.210181,1.163117,no,Public_Transportation,1
+767,Male,twenty-one,1.62_70,no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+768,Male,thirty,1.841908;124,yes,yes,2.467548,3.0,Sometimes,no,2.66029,no,0.994422,0.310394,Sometimes,Public_Transportation,1
+769,Male,32,"1.695735,102",yes,yes,2.736647,2.015675,Sometimes,no,1.0,no,1.977918,0.056351,no,Public_Transportation,1
+770,Female,twenty-four,-9.0;sixty-four,no,yes,2.903545,3.0,Sometimes,no,1.549931,no,0.0,0.273882,Sometimes,Public_Transportation,0
+771,Female,twenty-one,1.598019;forty-four,no,no,3.0,1.72626,Frequently,no,2.444125,no,1.31817,0.0,no,Public_Transportation,0
+772,Male,thirty-six,"-1.0,101",yes,yes,2.222282,1.578751,Sometimes,no,2.791604,no,2.352091,0.317846,Sometimes,Automobile,1
+773,Female,thirty-eight,1.556028;seventy-seven,yes,yes,2.0,3.0,Sometimes,no,1.440629,no,0.0,0.0,Sometimes,Automobile,1
+774,Male,eighteen,1.806827;one hundred and eight,yes,yes,2.0,1.24884,Sometimes,no,2.416213,no,1.0,1.546738,no,Public_Transportation,1
+775,Male,26,"1.9,80",yes,yes,2.0,3.0,Frequently,no,1.0,yes,1.0,0.0,Sometimes,Automobile,0
+776,Male,thirty,1.914186;129,yes,yes,2.197261,3.0,Sometimes,no,1.11184,no,0.906843,0.976473,Sometimes,Public_Transportation,1
+777,Female,18,"1.60074,82",yes,yes,2.501236,3.0,Sometimes,no,1.220331,no,0.245003,0.537202,no,Public_Transportation,1
+778,Female,eighteen,"1.65,82",yes,yes,3.0,3.0,Sometimes,no,1.0,no,0.215187,1.195929,no,Public_Transportation,1
+779,Male,twenty-two,1.752115;79,yes,yes,3.0,1.0,Sometimes,no,2.0,no,2.315983,0.0,Sometimes,Public_Transportation,0
+780,Female,19,1.537739_39,no,yes,1.118436,3.0,Sometimes,no,1.997744,no,2.432443,1.626194,Sometimes,Public_Transportation,0
+781,Male,twenty,1.6;56,no,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+782,Male,twenty-two,"1.841989,one hundred and twenty-two",yes,yes,3.0,2.52751,Sometimes,no,1.645338,no,1.025438,0.0,Sometimes,Public_Transportation,1
+783,Female,twenty-six,1.632983_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.638896,no,0.0,0.224559,Sometimes,Public_Transportation,1
+784,Male,23,"1.67,eighty-five",yes,yes,2.0,3.0,Always,no,2.0,no,0.0,1.0,no,Public_Transportation,1
+785,Female,20,1.738397;ninety-three,yes,yes,1.996638,3.0,Sometimes,no,1.033199,no,0.584793,0.518297,Sometimes,Public_Transportation,1
+786,Female,twenty,"1.787195,one hundred and fifty-one",yes,yes,3.0,3.0,Sometimes,no,2.304716,no,0.82666,0.914492,Sometimes,Public_Transportation,1
+787,Male,twenty-one,"1.625891,seventy",no,yes,2.0,1.0,no,no,2.00876,no,0.63119,0.0,Sometimes,Public_Transportation,0
+788,Female,nineteen,1.59;49,yes,yes,2.0,1.0,no,no,2.0,no,2.0,0.0,no,Public_Transportation,0
+789,Female,twenty-five,-8.0_112,yes,yes,3.0,3.0,Sometimes,no,2.868679,no,0.115369,0.028583,Sometimes,Public_Transportation,1
+790,Female,seventeen,1.75_fifty-seven,yes,yes,3.0,3.0,Frequently,no,2.0,no,0.0,1.0,no,Public_Transportation,0
+791,Male,25,1.771817;one hundred and fourteen,yes,yes,1.528331,3.0,Sometimes,no,2.079353,no,1.522429,0.228598,Sometimes,Public_Transportation,1
+792,Female,18,1.685633_ninety,yes,yes,2.496455,3.0,Sometimes,no,1.850344,no,1.066101,0.732265,Sometimes,Public_Transportation,1
+793,Female,twenty-five,1.56_forty-five,no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+794,Female,thirty-one,"1.657496,73",yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,1.112489,Sometimes,Automobile,0
+795,Female,26,"1.627532,106",yes,yes,3.0,3.0,Sometimes,no,2.569713,no,0.0,0.396972,Sometimes,Public_Transportation,1
+796,Male,24,-9.0;82,yes,yes,1.989905,3.054899,Sometimes,no,2.080968,no,1.107543,0.939726,no,Public_Transportation,0
+797,Male,twenty-one,"1.85,125",yes,yes,3.0,1.0,Always,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,1
+798,Female,21,1.716497;130,yes,yes,3.0,3.0,Sometimes,no,1.301657,no,1.718543,0.947884,Sometimes,Public_Transportation,1
+799,Female,twenty,1.64_forty-nine,no,no,3.0,3.0,Sometimes,yes,2.0,no,2.0,1.0,Sometimes,Automobile,0
+800,Female,40,-3.0;63,no,yes,2.0,3.0,Frequently,no,2.0,no,3.0,1.0,Sometimes,Public_Transportation,0
+801,Female,37,-9.0;80,yes,yes,2.450784,2.952821,Sometimes,no,1.335192,no,0.180276,0.0,Sometimes,Automobile,1
+802,Male,forty,1.748015_one hundred and nine,yes,yes,2.310751,3.220181,Sometimes,no,1.006643,no,1.15804,0.0,no,Automobile,1
+803,Female,eighteen,"1.746652,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,2.869234,no,1.465931,0.627886,Sometimes,Public_Transportation,1
+804,Male,twenty-seven,1.85_seventy-five,yes,yes,2.0,1.0,Sometimes,no,2.0,no,1.0,0.0,no,Walking,0
+805,Female,25,1.686033_104,yes,yes,3.0,3.0,Sometimes,no,1.299194,no,0.234303,0.946888,Sometimes,Public_Transportation,1
+806,Male,24,1.82559_one hundred and twenty,yes,yes,2.403421,3.0,Sometimes,no,2.490613,no,2.0,0.707768,Sometimes,Public_Transportation,1
+807,Male,twenty-three,-10.0;120,yes,yes,2.996717,2.791366,Sometimes,no,2.626309,no,1.194898,0.034897,Sometimes,Public_Transportation,1
+808,Female,twenty-five,1.610086_102,yes,yes,3.0,3.0,Sometimes,no,1.050564,no,0.026033,0.539074,Sometimes,Public_Transportation,1
+809,Male,twenty-two,"1.7,sixty-six",yes,no,2.0,3.0,Frequently,no,2.0,no,0.0,0.0,no,Public_Transportation,0
+810,Female,21,"1.5,forty-two",yes,no,1.0,1.0,Sometimes,no,2.0,no,3.0,0.0,no,Public_Transportation,0
+811,Female,seventeen,"1.8,fifty",no,yes,3.0,4.0,Frequently,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+812,Female,25,1.621671;one hundred and five,yes,yes,3.0,3.0,Sometimes,no,1.042989,no,0.097114,0.42954,Sometimes,Public_Transportation,1
+813,Female,eighteen,"1.686904,90",yes,yes,2.737149,3.0,Sometimes,no,1.997195,no,1.352663,0.468483,Sometimes,Public_Transportation,1
+814,Female,eighteen,1.743589_one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.684819,no,1.46525,0.804491,Sometimes,Public_Transportation,1
+815,Female,38,"-2.0,80",yes,yes,2.667676,1.135278,Sometimes,no,1.399629,no,1.648883,0.0,Sometimes,Automobile,1
+816,Male,twenty-two,1.61_67,yes,no,2.0,4.0,Sometimes,no,3.0,yes,2.0,2.0,Sometimes,Public_Transportation,0
+817,Female,eighteen,"1.574017,41",no,yes,1.649974,1.513835,Sometimes,no,1.549974,no,0.227802,1.972926,Sometimes,Public_Transportation,0
+818,Male,twenty-one,1.75;62,no,yes,3.0,4.0,Frequently,yes,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+819,Male,24,1.733439_97,yes,yes,2.0,3.0,Sometimes,no,2.843675,no,1.309304,1.338655,no,Public_Transportation,1
+820,Female,forty-one,1.567973;81,yes,yes,2.152264,2.977999,Sometimes,no,1.513199,no,0.0,0.0,Sometimes,Automobile,1
+821,Male,20,"1.644751,101",yes,yes,2.801992,1.343117,Sometimes,no,1.128942,no,0.233987,0.81998,no,Public_Transportation,1
+822,Male,30,1.909639;one hundred and twenty-nine,yes,yes,2.22259,3.0,Sometimes,yes,1.591909,no,1.392026,0.917727,Sometimes,Public_Transportation,1
+823,Female,eighteen,"1.6,fifty-five",no,yes,2.0,4.0,Frequently,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+824,Male,31,1.676595_eighty-nine,yes,yes,2.934671,2.119682,Sometimes,no,2.041462,no,0.578074,0.0,Sometimes,Automobile,1
+825,Female,twenty-four,"1.635062,one hundred and thirteen",yes,yes,3.0,3.0,Sometimes,no,2.578038,no,0.165422,0.463196,Sometimes,Public_Transportation,1
+826,Female,seventeen,"1.53,55",yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,1.0,no,Public_Transportation,0
+827,Male,19,"1.75,100",yes,yes,2.0,3.0,Frequently,no,2.0,no,2.0,0.0,no,Public_Transportation,1
+828,Male,twenty-nine,"1.62,53",no,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Automobile,0
+829,Male,twenty-three,"1.754439,one hundred and nineteen",yes,yes,1.893428,3.0,Sometimes,no,2.0,no,1.917383,0.93648,Sometimes,Public_Transportation,1
+830,Female,twenty,1.559186_41,no,yes,2.619835,1.0,Frequently,no,1.198883,no,0.0,0.751212,Sometimes,Public_Transportation,0
+831,Female,29,1.610863_49,yes,yes,2.059138,3.904858,Frequently,no,2.0,no,0.821977,0.0,no,Public_Transportation,0
+832,Female,16,"-7.0,65",yes,yes,2.388168,1.0,Sometimes,no,1.438018,yes,0.110887,1.165817,no,Public_Transportation,0
+833,Male,thirty-one,1.764166_119,yes,yes,2.970983,3.0,Sometimes,no,2.828861,no,0.454944,1.915818,Sometimes,Automobile,1
+834,Male,thirty,1.783953_one hundred and twenty,yes,yes,2.341999,3.0,Sometimes,no,2.299878,no,0.565242,0.921991,Sometimes,Automobile,1
+835,Female,17,1.518067;fifty-five,no,yes,1.773265,2.118153,Sometimes,no,1.075239,yes,0.085388,1.915191,Sometimes,Public_Transportation,0
+836,Female,eighteen,"1.56,fifty-one",yes,yes,2.0,4.0,Frequently,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+837,Female,twenty-three,1.63;eighty-two,yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.0,0.0,no,Public_Transportation,1
+838,Female,thirty-six,1.58;60,yes,no,3.0,3.0,Sometimes,no,1.0,no,2.0,0.0,Sometimes,Automobile,0
+839,Male,twenty-three,"1.712556,75",yes,yes,3.0,3.654061,Sometimes,no,1.229915,no,0.793489,1.597608,Sometimes,Public_Transportation,0
+840,Female,twenty,"1.755978,53",yes,yes,2.0,3.891994,Frequently,no,1.86393,no,2.870127,2.0,no,Public_Transportation,0
+841,Female,twenty-six,"1.650125,111",yes,yes,3.0,3.0,Sometimes,no,2.770732,no,0.0,0.125235,Sometimes,Public_Transportation,1
+842,Male,27,"1.694642,99",yes,yes,2.772027,2.454432,Sometimes,no,1.0,no,0.858554,0.051268,no,Public_Transportation,1
+843,Male,19,1.8;60,no,yes,2.0,3.0,Sometimes,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+844,Female,23,1.68;sixty-seven,yes,yes,2.0,3.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+845,Male,twenty-two,1.849507_121,yes,yes,3.0,2.272801,Sometimes,no,1.560064,no,0.79677,0.0,Sometimes,Public_Transportation,1
+846,Male,twenty-five,1.660761;104,yes,yes,2.748971,1.213431,Sometimes,no,1.448875,no,0.128548,1.239038,no,Public_Transportation,1
+847,Male,21,"1.819875,one hundred and six",yes,yes,2.0,3.0,Sometimes,no,2.745242,no,0.0,0.80898,Sometimes,Public_Transportation,1
+848,Male,twenty-three,-2.0_ninety-five,yes,yes,2.0,3.0,Always,no,2.0,no,0.0,1.0,Frequently,Automobile,1
+849,Male,thirty-two,-1.0;one hundred and two,yes,yes,2.723953,1.924168,Sometimes,no,1.0,no,1.622055,0.069367,no,Public_Transportation,1
+850,Male,26,"1.773664,one hundred and sixteen",yes,yes,2.442536,3.0,Sometimes,no,2.174371,no,0.0,1.928972,Sometimes,Public_Transportation,1
+851,Male,seventeen,1.738465_97,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.233314,no,Public_Transportation,1
+852,Female,twenty-one,"1.758959,one hundred and thirty-seven",yes,yes,3.0,3.0,Sometimes,no,2.640539,no,1.879818,0.885993,Sometimes,Public_Transportation,1
+853,Female,22,1.675446_51,yes,yes,3.0,3.0,Frequently,no,2.815293,no,1.978631,1.0,no,Public_Transportation,0
+854,Female,twenty,"1.71582,129",yes,yes,3.0,3.0,Sometimes,no,1.755907,no,1.48809,0.857718,Sometimes,Public_Transportation,1
+855,Male,22,1.74_94,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,1
+856,Male,24,1.756509;one hundred and seventeen,yes,yes,1.451337,3.0,Sometimes,no,2.0,no,1.384607,0.631217,Sometimes,Public_Transportation,1
+857,Female,26,1.632193;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.617988,no,0.0,0.156187,Sometimes,Public_Transportation,1
+858,Male,thirty,1.75_one hundred and twenty,yes,yes,2.758394,3.0,Sometimes,yes,2.174248,no,1.079524,1.358163,Sometimes,Automobile,1
+859,Female,19,-10.0_49,no,yes,2.919751,3.576103,Sometimes,no,1.949308,no,1.940182,1.0,Sometimes,Public_Transportation,0
+860,Female,twenty-five,"1.66877,one hundred and four",yes,yes,3.0,3.0,Sometimes,no,1.526416,no,0.180158,0.747909,Sometimes,Public_Transportation,1
+861,Female,twenty-five,1.606474_one hundred and four,yes,yes,3.0,3.0,Sometimes,no,2.331123,no,0.063383,0.561661,Sometimes,Public_Transportation,1
+862,Female,25,"1.627839,one hundred and eight",yes,yes,3.0,3.0,Sometimes,no,2.320068,no,0.045246,0.413106,Sometimes,Public_Transportation,1
+863,Female,18,1.498561_55,no,yes,2.0,3.0,Sometimes,no,1.274718,yes,0.129902,0.978574,Sometimes,Public_Transportation,0
+864,Male,nineteen,"1.793315,fifty-eight",yes,yes,2.508835,3.435905,Sometimes,no,2.076933,no,2.026668,1.443328,no,Automobile,0
+865,Female,33,1.55;55,yes,yes,3.0,1.0,Sometimes,no,3.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+866,Female,thirty-seven,1.567915_76,yes,yes,2.0,3.0,Sometimes,no,2.102976,no,0.0,0.0,Sometimes,Automobile,1
+867,Female,21,"1.6,forty-eight",no,yes,2.0,3.0,Sometimes,no,1.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+868,Female,twenty-one,1.729099;one hundred and thirty-four,yes,yes,3.0,3.0,Sometimes,no,1.3954,no,1.931173,0.878258,Sometimes,Public_Transportation,1
+869,Female,18,1.59;53,no,no,1.0,3.0,Sometimes,no,1.0,no,1.0,2.0,no,Public_Transportation,0
+870,Male,twenty-six,1.824432;one hundred and five,yes,yes,3.0,3.0,Sometimes,no,2.110611,no,1.890907,1.58483,Sometimes,Public_Transportation,1
+871,Female,twenty-one,-10.0;eighty-eight,yes,yes,2.870152,1.001383,Sometimes,no,3.0,no,1.322558,1.0,no,Public_Transportation,1
+872,Male,thirty-eight,1.768235;one hundred and seventeen,yes,yes,2.230742,2.920373,Sometimes,no,1.831187,no,0.756277,0.0,Sometimes,Automobile,1
+873,Female,18,1.647971;sixty-eight,yes,yes,2.0,1.411685,Sometimes,no,1.859089,no,0.0,1.306,no,Public_Transportation,0
+874,Male,24,1.603501;101,yes,yes,2.996186,1.134042,Sometimes,no,1.270166,no,0.073065,1.551934,no,Public_Transportation,1
+875,Female,forty,"1.553026,77",yes,yes,2.0,3.0,Sometimes,no,1.406115,no,0.0,0.0,Sometimes,Automobile,1
+876,Male,twenty-nine,1.681855_90,yes,yes,2.08841,2.644692,Sometimes,no,2.773236,no,1.252472,0.0,Sometimes,Automobile,1
+877,Male,twenty-nine,1.801224;one hundred and eight,yes,yes,2.385502,2.883984,Sometimes,no,2.140544,no,1.144876,1.767468,Sometimes,Automobile,1
+878,Female,nineteen,-3.0_64,yes,yes,3.0,3.0,no,no,3.0,yes,3.0,1.0,no,Public_Transportation,0
+879,Female,37,"1.560215,eighty",yes,yes,2.569075,2.463113,Sometimes,no,1.567366,no,0.359134,0.0,Sometimes,Automobile,1
+880,Female,twenty-two,1.655413_fifty,yes,yes,3.0,3.642802,Frequently,no,1.995177,no,0.118271,0.065515,no,Public_Transportation,0
+881,Female,twenty-five,-4.0;one hundred and two,yes,yes,3.0,3.0,Sometimes,no,1.019684,no,0.026033,1.0,Sometimes,Public_Transportation,1
+882,Female,43,1.592316;77,yes,yes,2.0,3.0,Sometimes,no,2.806922,no,0.0,0.0,Sometimes,Automobile,1
+883,Female,twenty-three,"1.596466,forty-four",no,no,2.594653,1.882158,Frequently,no,1.916812,no,0.417119,0.0,no,Public_Transportation,0
+884,Female,24,1.719365;114,yes,yes,3.0,3.0,Sometimes,no,2.987406,no,0.38926,0.526776,Sometimes,Public_Transportation,1
+885,Female,18,1.692242_ninety,yes,yes,2.642744,3.0,Sometimes,no,1.904054,no,1.645654,0.363549,Sometimes,Public_Transportation,1
+886,Male,twenty-three,1.75_69,no,no,3.0,3.0,no,no,2.0,no,2.0,1.0,Sometimes,Automobile,0
+887,Female,18,1.792378;137,yes,yes,3.0,3.0,Sometimes,no,2.838893,no,1.990317,0.735868,Sometimes,Public_Transportation,1
+888,Female,25,-10.0_one hundred and ten,yes,yes,3.0,3.0,Sometimes,no,1.49583,no,0.109327,0.384129,Sometimes,Public_Transportation,1
+889,Male,twenty-five,1.767186_one hundred and twelve,yes,yes,1.443674,3.0,Sometimes,no,2.002194,no,1.386151,0.001337,Sometimes,Public_Transportation,1
+890,Female,twenty-six,"1.631332,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.55975,no,0.0,0.237307,Sometimes,Public_Transportation,1
+891,Male,twenty-six,-6.0_118,yes,no,2.18354,3.0,Sometimes,no,2.277937,no,0.68183,0.0,Sometimes,Automobile,1
+892,Male,24,1.7;sixty-eight,no,yes,3.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Motorbike,0
+893,Female,seventeen,1.6;53,no,yes,1.0,3.0,Sometimes,no,1.0,no,2.0,2.0,Sometimes,Walking,0
+894,Male,26,-5.0;one hundred and five,yes,yes,3.0,3.0,Sometimes,no,2.224914,no,1.781589,1.59405,Sometimes,Public_Transportation,1
+895,Female,nineteen,1.699464;49,no,yes,1.270448,3.731212,Frequently,no,1.876915,no,2.0,1.0,Sometimes,Public_Transportation,0
+896,Female,twenty-six,1.623707;one hundred and five,yes,yes,3.0,3.0,Sometimes,no,2.553198,no,0.0,0.393838,Sometimes,Public_Transportation,1
+897,Male,19,"1.834715,89",yes,yes,2.342323,3.60885,Sometimes,no,2.878866,no,2.0,0.208323,Sometimes,Public_Transportation,0
+898,Female,21,1.54_fifty-six,no,yes,2.0,1.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+899,Male,twenty-five,1.758398;112,yes,yes,1.108663,3.0,Sometimes,no,2.0,no,1.230219,0.001716,Sometimes,Automobile,1
+900,Female,23,1.66;sixty,yes,no,2.0,3.0,Sometimes,no,2.0,no,3.0,0.0,Sometimes,Public_Transportation,0
+901,Male,25,1.77219;one hundred and fourteen,yes,yes,2.19331,3.0,Sometimes,no,2.089983,no,1.360994,0.857438,Sometimes,Public_Transportation,1
+902,Female,twenty,1.726606;131,yes,yes,3.0,3.0,Sometimes,no,1.759352,no,1.469928,0.950438,Sometimes,Public_Transportation,1
+903,Male,21,1.62;seventy,no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+904,Female,31,1.62;68,no,no,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Automobile,0
+905,Female,forty,"1.567756,79",yes,yes,2.0,3.0,Sometimes,no,2.952506,no,0.0,0.0,no,Automobile,1
+906,Male,28,1.766946;one hundred and thirteen,yes,yes,2.314175,3.0,Sometimes,no,2.151809,no,0.0,1.578517,Sometimes,Automobile,1
+907,Male,20,"-7.0,104",yes,yes,2.653721,1.265463,Sometimes,no,1.368457,no,0.218356,0.768071,no,Public_Transportation,1
+908,Female,twenty-five,1.628855;108,yes,yes,3.0,3.0,Sometimes,no,1.757105,no,0.085119,0.465444,Sometimes,Public_Transportation,1
+909,Female,twenty-one,"1.66,59",no,yes,1.0,3.0,Always,no,2.0,yes,3.0,0.0,no,Automobile,0
+910,Female,sixteen,"1.74402,fifty",no,yes,2.19005,3.420618,Sometimes,no,1.356405,no,1.351996,0.98468,Sometimes,Public_Transportation,0
+911,Male,18,"1.811189,one hundred and eight",yes,yes,2.0,1.250548,Sometimes,no,2.121176,no,1.0,0.741069,no,Public_Transportation,1
+912,Female,eighteen,"-8.0,83",yes,yes,2.0,3.0,Sometimes,no,2.0,yes,1.0,0.0,no,Public_Transportation,1
+913,Female,16,1.61;65,yes,yes,1.0,1.0,Sometimes,no,2.0,no,0.0,0.0,no,Public_Transportation,0
+914,Male,thirty-two,1.754956;120,yes,yes,2.9673,3.0,Sometimes,no,2.530035,no,0.955317,1.339232,Sometimes,Automobile,1
+915,Female,twenty-five,1.684768_104,yes,yes,3.0,3.0,Sometimes,no,1.444379,no,0.224482,0.912187,Sometimes,Public_Transportation,1
+916,Male,28,1.787379;one hundred and twelve,yes,yes,1.878251,3.0,Sometimes,no,2.022933,no,0.0,0.325445,Sometimes,Automobile,1
+917,Male,twenty-three,"1.848553,one hundred and twenty-one",yes,yes,3.0,2.567567,Sometimes,no,2.011023,no,0.916478,0.0,Sometimes,Public_Transportation,1
+918,Female,thirty-seven,1.560648;80,yes,yes,2.846452,1.139317,Sometimes,no,1.459511,no,1.71807,0.0,Sometimes,Automobile,1
+919,Female,sixty-one,"1.65,sixty-six",no,yes,3.0,3.0,Always,no,2.0,no,1.0,1.0,Frequently,Public_Transportation,0
+920,Female,twenty-one,1.611822_sixty-seven,yes,yes,1.874935,3.370362,Sometimes,no,2.558773,no,1.206121,0.271024,Sometimes,Public_Transportation,0
+921,Male,twenty-one,1.8;73,yes,yes,1.0,3.0,Always,no,2.0,no,3.0,1.0,Sometimes,Public_Transportation,0
+922,Female,twenty-six,1.560258_seventy-eight,yes,yes,2.108163,1.231915,Sometimes,no,1.808127,no,0.0,0.0,Sometimes,Automobile,1
+923,Male,twenty-two,1.74;seventy-five,yes,yes,3.0,3.0,Frequently,no,1.0,no,1.0,0.0,no,Automobile,0
+924,Female,25,1.61_sixty-one,no,no,2.0,3.0,Sometimes,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+925,Male,18,"1.76,69",no,no,3.0,3.0,Frequently,no,3.0,no,2.0,2.0,no,Public_Transportation,0
+926,Male,25,"1.823755,105",yes,yes,2.92711,3.0,Sometimes,no,2.151496,no,1.166064,1.509831,Sometimes,Public_Transportation,1
+927,Female,19,1.53777_forty-two,no,yes,3.0,1.0,Frequently,no,1.387531,no,0.0,0.466169,Sometimes,Public_Transportation,0
+928,Male,twenty-five,"-9.0,one hundred and fifteen",yes,yes,2.381164,3.0,Sometimes,no,2.170225,no,1.211048,1.89933,Sometimes,Public_Transportation,1
+929,Male,twenty-eight,"-8.0,98",yes,yes,2.95801,2.834253,Sometimes,no,1.0,no,1.999886,0.0,no,Public_Transportation,1
+930,Male,24,1.609418_one hundred,yes,yes,2.885693,1.685134,Sometimes,no,1.011849,no,0.503105,1.217929,no,Public_Transportation,1
+931,Female,forty-two,1.583943;eighty-one,yes,yes,2.490507,2.974204,Sometimes,no,1.846754,no,0.0,0.0,no,Automobile,1
+932,Female,21,"1.63,sixty",yes,yes,3.0,3.0,Always,yes,2.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+933,Female,twenty-six,1.659557_111,yes,yes,3.0,3.0,Sometimes,no,2.956548,no,0.0,0.010056,Sometimes,Public_Transportation,1
+934,Female,22,1.624367_eighty-two,yes,yes,1.826885,1.0,Sometimes,no,2.0,no,0.0,0.459274,no,Public_Transportation,1
+935,Female,twenty-one,1.641149_eighty-eight,yes,yes,2.607747,1.000414,Sometimes,no,3.0,no,1.269169,1.460564,no,Public_Transportation,1
+936,Female,24,1.6;100,yes,yes,3.0,1.0,Sometimes,no,1.0,no,0.0,2.0,Sometimes,Public_Transportation,1
+937,Female,20,1.812963_one hundred and thirty-eight,yes,yes,3.0,3.0,Sometimes,no,2.641489,no,0.481555,0.735201,Sometimes,Public_Transportation,1
+938,Female,twenty-one,1.67_75,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+939,Male,twenty,1.75633;54,yes,yes,2.0,3.98525,Sometimes,no,2.654078,no,2.113151,2.0,no,Public_Transportation,0
+940,Male,20,1.803245;105,yes,yes,2.0,3.0,Sometimes,no,2.290368,no,0.001086,0.544128,Sometimes,Public_Transportation,1
+941,Female,nineteen,1.530875_forty-two,no,no,2.844607,1.273128,Frequently,no,1.69551,no,0.260079,0.635867,Sometimes,Public_Transportation,0
+942,Male,25,1.79;seventy-two,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+943,Male,thirty,1.783914;one hundred and twenty,yes,yes,2.05687,3.0,Sometimes,no,2.358088,no,0.093418,1.759954,Sometimes,Automobile,1
+944,Female,nineteen,1.603435;45,no,no,3.0,3.0,Frequently,no,2.487919,yes,1.230441,0.0,Sometimes,Public_Transportation,0
+945,Female,19,"1.666194,one hundred and twenty-four",yes,yes,3.0,3.0,Sometimes,no,1.228838,no,0.792553,0.639561,Sometimes,Public_Transportation,1
+946,Male,21,1.79;105,yes,yes,2.0,3.0,Always,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,1
+947,Male,23,"1.757691,ninety-five",yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,2.0,no,Public_Transportation,1
+948,Female,26,"1.583889,one hundred and ten",yes,yes,3.0,3.0,Sometimes,no,2.578292,no,0.0,0.492394,Sometimes,Public_Transportation,1
+949,Male,twenty,-9.0;seventy-nine,yes,no,3.0,1.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+950,Female,twenty-one,"1.729045,one hundred and thirty-one",yes,yes,3.0,3.0,Sometimes,no,1.302193,no,1.742453,0.94232,Sometimes,Public_Transportation,1
+951,Female,eighteen,"1.589829,forty",no,yes,2.0,1.075553,Sometimes,no,1.0,no,0.127425,1.679442,Sometimes,Public_Transportation,0
+952,Male,nineteen,1.88;79,no,no,2.0,3.0,Sometimes,no,3.0,no,3.0,0.0,Sometimes,Automobile,0
+953,Male,twenty,1.781952;one hundred and two,yes,yes,2.0,3.0,Sometimes,no,1.689793,no,1.464204,0.0,no,Public_Transportation,1
+954,Male,nineteen,"1.743702,54",yes,yes,2.0,3.28926,Sometimes,no,2.847264,no,1.680844,2.0,Sometimes,Public_Transportation,0
+955,Female,twenty-three,1.65_90,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.0,1.0,no,Public_Transportation,1
+956,Female,20,"1.5,forty-four",no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,0
+957,Male,seventeen,"1.82525,58",yes,yes,2.580872,3.887906,Sometimes,no,2.0,no,2.0,0.453649,no,Automobile,0
+958,Female,18,1.5;fifty-eight,no,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,no,Public_Transportation,0
+959,Male,sixteen,1.82;71,yes,yes,2.0,3.0,Frequently,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+960,Male,twenty-five,1.89_75,no,no,3.0,3.0,Frequently,no,2.0,yes,3.0,0.0,no,Public_Transportation,0
+961,Male,30,"1.756221,119",yes,yes,2.619987,3.0,Sometimes,no,2.194746,no,1.076926,1.090995,Sometimes,Automobile,1
+962,Male,21,"1.856315,one hundred and eighteen",yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.788585,1.220029,Sometimes,Public_Transportation,1
+963,Male,22,1.769328_105,yes,yes,2.685484,3.0,Sometimes,no,2.649459,no,1.0,0.0,Sometimes,Public_Transportation,1
+964,Male,18,"1.722547,53",yes,yes,2.0,3.131032,Sometimes,no,2.072194,no,1.487987,2.0,Sometimes,Public_Transportation,0
+965,Male,thirty-four,"1.73325,103",yes,yes,2.501224,2.049565,Sometimes,no,1.0,no,1.746583,0.0,no,Automobile,1
+966,Female,twenty,"1.57,sixty",no,yes,3.0,3.0,Sometimes,no,3.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+967,Male,thirty,1.75834_one hundred and twelve,yes,yes,1.868212,3.0,Sometimes,no,2.023328,no,0.0,0.613992,Sometimes,Automobile,1
+968,Female,twenty-one,1.748106;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,1.931163,no,1.562213,0.926565,Sometimes,Public_Transportation,1
+969,Male,20,"-10.0,105",yes,yes,2.0,3.0,Sometimes,no,1.155384,no,0.003938,0.526999,Sometimes,Public_Transportation,1
+970,Female,21,1.722884;ninety-two,yes,yes,1.164062,3.0,Sometimes,no,1.157395,no,0.0,0.320851,Sometimes,Public_Transportation,1
+971,Male,eighteen,1.75;seventy,no,yes,3.0,4.0,Sometimes,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+972,Male,thirty,1.759647_one hundred and twenty,yes,yes,2.766612,3.0,Sometimes,no,2.173417,no,1.089344,1.198439,Sometimes,Automobile,1
+973,Female,twenty-five,1.680218_one hundred and four,yes,yes,3.0,3.0,Sometimes,no,1.423073,no,0.197993,0.763359,Sometimes,Public_Transportation,1
+974,Male,eighteen,"1.79,52",no,no,3.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+975,Female,twenty-five,1.66494_110,yes,yes,3.0,3.0,Sometimes,no,1.604075,no,0.029728,0.200122,Sometimes,Public_Transportation,1
+976,Female,eighteen,"1.63,63",yes,yes,1.0,3.0,Sometimes,no,2.0,no,2.0,2.0,Sometimes,Public_Transportation,0
+977,Male,17,"1.829142,fifty-nine",yes,yes,2.86099,4.0,Sometimes,no,2.0,no,2.0,0.007872,no,Automobile,0
+978,Female,twenty-two,"1.65,65",yes,yes,2.0,3.0,Frequently,no,2.0,yes,1.0,0.0,no,Automobile,0
+979,Female,25,1.644199;105,yes,yes,3.0,3.0,Sometimes,no,2.310076,no,0.07115,0.733085,Sometimes,Public_Transportation,1
+980,Female,18,1.544263;forty-one,no,yes,2.68601,1.0,Sometimes,no,1.310074,no,0.0,1.0647,Sometimes,Public_Transportation,0
+981,Male,twenty-six,1.816197;one hundred and nineteen,yes,yes,2.247037,3.0,Sometimes,no,2.718408,no,0.763595,0.0,Sometimes,Public_Transportation,1
+982,Male,thirty-three,1.701387_107,yes,yes,2.561638,2.87747,Sometimes,no,1.0,no,1.980401,0.0,no,Automobile,1
+983,Male,twenty-two,1.86516;one hundred and twenty-one,yes,yes,2.739,2.740492,Sometimes,no,1.824561,no,1.094839,0.0,Sometimes,Public_Transportation,1
+984,Female,20,1.56;fifty-one,no,yes,2.0,3.0,Frequently,no,2.0,no,3.0,0.0,Sometimes,Public_Transportation,0
+985,Male,twenty-six,"1.780731,one hundred and twelve",yes,yes,2.263245,3.0,Sometimes,no,2.092509,no,0.0,1.836853,Sometimes,Automobile,1
+986,Female,twenty-three,1.61082;eighty-two,yes,yes,2.09663,2.879541,Sometimes,no,2.432967,no,1.887012,0.0,no,Public_Transportation,1
+987,Female,eighteen,1.609495_42,no,yes,2.896562,2.625475,Sometimes,no,2.839558,yes,1.949667,1.253311,no,Public_Transportation,0
+988,Female,twenty-five,"1.678658,one hundred and four",yes,yes,3.0,3.0,Sometimes,no,1.66616,no,0.210351,0.73421,Sometimes,Public_Transportation,1
+989,Male,twenty-one,"1.787264,58",yes,yes,2.530233,3.24934,Sometimes,no,2.387945,no,1.976341,1.672508,no,Automobile,0
+990,Female,21,"-4.0,69",yes,yes,1.0,3.0,Frequently,no,2.0,no,0.0,1.0,no,Public_Transportation,0
+991,Male,nineteen,"1.700164,ninety-nine",yes,yes,2.0,2.119826,Sometimes,no,2.0,no,0.0,1.882539,no,Public_Transportation,1
+992,Male,20,1.807538_eighty-five,yes,yes,2.0,3.0,Sometimes,no,1.968011,no,1.072662,0.776758,Sometimes,Public_Transportation,0
+993,Female,24,"1.667383,112",yes,yes,3.0,3.0,Sometimes,no,2.887909,no,0.312923,0.210997,Sometimes,Public_Transportation,1
+994,Female,22,"1.6,55",no,no,3.0,4.0,Always,no,3.0,no,2.0,0.0,no,Public_Transportation,0
+995,Female,19,"1.530266,42",no,yes,3.0,1.0,Frequently,no,1.954889,no,0.0,0.907868,Sometimes,Public_Transportation,0
+996,Female,twenty-one,1.752944;seventy-seven,yes,yes,2.839048,2.10601,Sometimes,no,1.639202,no,1.117311,0.967919,Sometimes,Public_Transportation,0
+997,Male,25,1.77151_113,yes,yes,1.457758,3.0,Sometimes,no,2.020249,no,1.556709,0.00133,Sometimes,Public_Transportation,1
+998,Female,18,"1.65,84",yes,yes,2.85916,3.0,Sometimes,no,1.0,no,1.020525,0.786066,no,Public_Transportation,1
+999,Female,26,1.632377;111,yes,yes,3.0,3.0,Sometimes,no,2.737091,no,0.0,0.037078,Sometimes,Public_Transportation,1
+1000,Female,18,1.801746_one hundred and forty-one,yes,yes,3.0,3.0,Sometimes,no,2.418488,no,1.99507,0.893514,Sometimes,Public_Transportation,1
+1001,Male,thirty-nine,"1.75,one hundred and nineteen",yes,yes,2.702457,3.0,Sometimes,no,2.005194,no,0.325313,0.419055,Sometimes,Automobile,1
+1002,Male,twenty-two,1.81955_one hundred and twenty,yes,yes,2.636719,2.806341,Sometimes,no,1.967591,no,1.525384,0.315595,Sometimes,Public_Transportation,1
+1003,Male,29,1.770663;112,yes,yes,2.303041,3.0,Sometimes,no,2.065817,no,0.0,0.725222,Sometimes,Automobile,1
+1004,Male,22,"1.755902,one hundred and twenty",yes,yes,2.971574,2.80742,Sometimes,no,1.962646,no,1.583832,0.504816,Sometimes,Public_Transportation,1
+1005,Female,twenty-six,1.622418;110,yes,yes,3.0,3.0,Sometimes,no,2.691584,no,0.0,0.425473,Sometimes,Public_Transportation,1
+1006,Male,forty-one,"1.75,110",yes,no,2.0,1.0,Sometimes,no,1.0,no,1.0,0.0,Frequently,Automobile,1
+1007,Male,twenty-five,1.65731_90,yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.413643,0.920858,Sometimes,Automobile,1
+1008,Female,twenty-one,-3.0_50,no,no,3.0,3.765526,Frequently,no,1.656082,no,0.42777,0.555967,Sometimes,Public_Transportation,0
+1009,Male,30,"-7.0,one hundred and three",yes,yes,2.57649,2.187145,Sometimes,no,1.38107,no,1.928275,0.413663,no,Public_Transportation,1
+1010,Female,twenty-one,"1.66,fifty-seven",yes,yes,2.0,3.0,Frequently,no,1.0,no,1.0,1.0,no,Public_Transportation,0
+1011,Male,27,1.83_71,yes,yes,2.0,3.0,Sometimes,no,2.0,no,3.0,2.0,no,Automobile,0
+1012,Male,nineteen,"1.62,69",no,yes,2.185938,1.0,no,no,2.81353,no,1.0,1.110222,Sometimes,Public_Transportation,0
+1013,Female,21,1.719913_one hundred and thirty-one,yes,yes,3.0,3.0,Sometimes,no,1.651462,no,1.655993,0.939982,Sometimes,Public_Transportation,1
+1014,Male,25,1.766626;one hundred and fourteen,yes,yes,2.075321,3.0,Sometimes,no,2.144838,no,1.501754,0.276319,Sometimes,Public_Transportation,1
+1015,Male,twenty-three,1.777416_ninety-seven,yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,2.0,no,Public_Transportation,1
+1016,Female,thirty-nine,1.580765_62,yes,yes,2.487167,3.0,Sometimes,no,2.396977,no,0.577063,0.435072,Sometimes,Automobile,0
+1017,Female,nineteen,"1.590317,42",no,no,2.959658,3.0,Frequently,no,1.0,no,1.522399,0.0,Sometimes,Public_Transportation,0
+1018,Female,twenty-nine,"1.74,72",yes,no,3.0,3.0,Always,no,2.0,no,0.0,0.0,Sometimes,Automobile,0
+1019,Female,21,1.71818;133,yes,yes,3.0,3.0,Sometimes,no,1.517215,no,1.486289,0.937492,Sometimes,Public_Transportation,1
+1020,Male,twenty-one,1.68;70,yes,yes,3.0,3.0,Sometimes,no,3.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+1021,Female,37,1.5;75,yes,yes,2.0,3.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Motorbike,1
+1022,Male,twenty-five,1.772449;105,yes,yes,3.0,3.0,Sometimes,no,2.045069,no,1.725931,1.619596,Sometimes,Public_Transportation,1
+1023,Female,twenty-three,1.681394_114,yes,yes,3.0,3.0,Sometimes,no,2.435978,no,0.232742,0.692608,Sometimes,Public_Transportation,1
+1024,Female,twenty-five,"-5.0,104",yes,yes,3.0,3.0,Sometimes,no,2.535629,no,0.152713,0.7702,Sometimes,Public_Transportation,1
+1025,Female,twenty-six,1.616975;104,yes,yes,3.0,3.0,Sometimes,no,2.653563,no,0.0,0.55415,Sometimes,Public_Transportation,1
+1026,Female,18,1.745644_133,yes,yes,3.0,3.0,Sometimes,no,2.900857,no,1.508897,0.625371,Sometimes,Public_Transportation,1
+1027,Male,thirty-eight,"1.782067,103",yes,yes,2.845961,1.92822,Sometimes,no,2.642273,no,2.999918,1.0,Frequently,Automobile,1
+1028,Male,nineteen,"-3.0,fifty-six",yes,yes,2.362918,4.0,Sometimes,no,2.358172,no,2.0,0.939819,no,Automobile,0
+1029,Female,twenty-five,"1.629442,one hundred and four",yes,yes,3.0,3.0,Sometimes,no,2.225139,no,0.035928,0.565315,Sometimes,Public_Transportation,1
+1030,Male,21,-1.0;70,no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+1031,Female,nineteen,"1.573987,44",no,no,2.984004,3.0,Frequently,no,1.015249,yes,1.327833,0.0,Sometimes,Public_Transportation,0
+1032,Female,19,"1.520862,42",no,yes,3.0,1.0,Frequently,no,1.848703,no,0.0,0.744555,Sometimes,Public_Transportation,0
+1033,Male,twenty-three,"1.68,sixty-two",no,no,2.0,4.0,Frequently,no,2.0,no,0.0,0.0,Sometimes,Automobile,0
+1034,Female,twenty-one,-7.0_one hundred and thirty-seven,yes,yes,3.0,3.0,Sometimes,no,2.531456,no,1.980738,0.835771,Sometimes,Public_Transportation,1
+1035,Female,23,1.755467;133,yes,yes,3.0,3.0,Sometimes,no,2.843782,no,1.302507,0.773807,Sometimes,Public_Transportation,1
+1036,Female,eighteen,1.735461;one hundred and twenty-six,yes,yes,3.0,3.0,Sometimes,no,2.38639,no,1.544632,0.900067,Sometimes,Public_Transportation,1
+1037,Female,37,1.524293_76,yes,yes,2.0,2.994046,Sometimes,no,1.603549,no,1.335857,0.0,Sometimes,Automobile,1
+1038,Female,twenty,1.752531_133,yes,yes,3.0,3.0,Sometimes,no,2.887659,no,1.480919,0.779641,Sometimes,Public_Transportation,1
+1039,Male,thirty-one,1.762389_118,yes,yes,2.998441,3.0,Sometimes,no,2.462916,no,0.554646,1.99219,Sometimes,Automobile,1
+1040,Female,18,1.550723;sixty,no,yes,2.823179,2.644692,Sometimes,no,1.226764,yes,0.747528,0.008899,Sometimes,Public_Transportation,0
+1041,Female,20,1.700996_126,yes,yes,3.0,3.0,Sometimes,no,1.242832,no,0.530925,0.575969,Sometimes,Public_Transportation,1
+1042,Male,twenty-five,"1.767077,114",yes,yes,2.225731,3.0,Sometimes,no,2.154326,no,1.266866,0.390178,Sometimes,Public_Transportation,1
+1043,Female,twenty-one,"1.761773,133",yes,yes,3.0,3.0,Sometimes,no,2.893062,no,1.408177,0.807457,Sometimes,Public_Transportation,1
+1044,Male,16,1.84_forty-five,yes,yes,3.0,3.0,Always,no,3.0,no,3.0,2.0,Sometimes,Walking,0
+1045,Female,eighteen,"1.633316,45",no,yes,3.0,3.0,Sometimes,no,2.924594,yes,1.352558,0.220087,Sometimes,Public_Transportation,0
+1046,Male,eighteen,"1.72,fifty-five",no,yes,2.0,4.0,Sometimes,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1047,Female,eighteen,"1.55,50",yes,yes,3.0,3.0,Frequently,no,1.0,no,1.0,2.0,no,Public_Transportation,0
+1048,Male,eighteen,"1.844218,one hundred and nine",yes,yes,2.0,1.548407,Sometimes,no,2.191401,no,1.0,1.676944,no,Public_Transportation,1
+1049,Male,thirty,1.670774_101,yes,yes,2.907744,3.990925,Sometimes,no,1.0,no,1.99975,0.0,no,Public_Transportation,1
+1050,Female,twenty-two,1.6084_82,yes,yes,2.699282,1.0,Sometimes,no,2.598632,no,0.292093,2.0,Sometimes,Public_Transportation,1
+1051,Female,24,1.650726;one hundred and thirteen,yes,yes,3.0,3.0,Sometimes,no,2.75137,no,0.324913,0.516764,Sometimes,Public_Transportation,1
+1052,Female,40,1.56;80,yes,yes,2.0,1.0,Sometimes,no,2.0,no,2.0,0.0,no,Public_Transportation,1
+1053,Female,twenty-six,1.641132;111,yes,yes,3.0,3.0,Sometimes,no,2.617401,no,0.0,0.200379,Sometimes,Public_Transportation,1
+1054,Male,twenty-three,1.753716_106,yes,yes,2.740633,3.0,Sometimes,no,2.081005,no,0.650235,0.76906,Sometimes,Public_Transportation,1
+1055,Female,twenty-five,1.596813;one hundred and two,yes,yes,3.0,3.0,Sometimes,no,1.000536,no,0.005939,0.566353,Sometimes,Public_Transportation,1
+1056,Female,twenty-two,"1.61,sixty-three",yes,yes,3.0,3.0,Frequently,no,3.0,no,1.0,0.0,no,Public_Transportation,0
+1057,Female,38,1.55;59,yes,no,3.0,3.0,Sometimes,no,1.0,no,2.0,1.0,Frequently,Automobile,0
+1058,Female,26,"1.622771,one hundred and nine",yes,yes,3.0,3.0,Sometimes,no,2.679137,no,0.0,0.479348,Sometimes,Public_Transportation,1
+1059,Male,twenty-two,1.7_70,yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,1.0,Sometimes,Automobile,0
+1060,Male,25,"1.829529,120",yes,yes,3.0,3.0,Sometimes,no,3.0,no,1.467863,0.343635,Sometimes,Public_Transportation,1
+1061,Male,22,"1.859717,121",yes,yes,2.654076,2.574108,Sometimes,no,1.78471,no,1.170537,0.0,Sometimes,Public_Transportation,1
+1062,Female,twenty-two,"1.699568,fifty-four",yes,yes,3.0,3.0,Frequently,no,2.0,no,0.139808,0.875464,no,Public_Transportation,0
+1063,Female,eighteen,1.807576;one hundred and fifty-two,yes,yes,3.0,3.0,Sometimes,no,2.164718,no,1.999631,0.941336,Sometimes,Public_Transportation,1
+1064,Female,twenty-five,"1.62658,105",yes,yes,3.0,3.0,Sometimes,no,2.347322,no,0.008013,0.503896,Sometimes,Public_Transportation,1
+1065,Female,twenty-six,"1.610225,104",yes,yes,3.0,3.0,Sometimes,no,1.322004,no,0.0,0.539876,Sometimes,Public_Transportation,1
+1066,Male,seventeen,-5.0;57,yes,yes,2.0,4.0,Frequently,no,2.0,no,2.0,1.0,no,Public_Transportation,0
+1067,Male,twenty-five,1.771837_one hundred and fourteen,yes,yes,1.585183,3.0,Sometimes,no,2.101841,no,1.543961,7.3e-05,Sometimes,Public_Transportation,1
+1068,Female,23,"-8.0,63",yes,no,3.0,3.0,Frequently,no,2.0,no,3.0,0.0,Sometimes,Walking,0
+1069,Male,thirty-seven,1.763582_117,yes,yes,2.145114,2.888193,Sometimes,no,2.038128,no,0.852344,0.0,Sometimes,Automobile,1
+1070,Female,23,"1.67,seventy-five",yes,yes,2.0,3.0,Frequently,yes,2.0,no,0.0,2.0,no,Walking,0
+1071,Female,21,"1.736215,one hundred and thirty-two",yes,yes,3.0,3.0,Sometimes,no,1.657541,no,1.672639,0.629285,Sometimes,Public_Transportation,1
+1072,Male,thirty-four,"1.84,eighty-eight",no,yes,3.0,3.0,Sometimes,no,1.0,yes,2.0,0.0,no,Automobile,0
+1073,Male,seventeen,1.782756_56,yes,yes,2.0,4.0,Sometimes,no,2.28525,no,2.0,1.162801,no,Automobile,0
+1074,Male,30,"1.789421,one hundred and nine",yes,yes,2.21498,2.282392,Sometimes,no,1.179942,no,1.771754,0.537659,Sometimes,Automobile,1
+1075,Female,nineteen,1.792833_152,yes,yes,3.0,3.0,Sometimes,no,2.365188,no,1.256115,0.760091,Sometimes,Public_Transportation,1
+1076,Male,19,1.8_eighty-five,yes,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Walking,0
+1077,Male,twenty-one,1.69382;99,yes,yes,2.0,1.672751,Sometimes,no,2.0,no,0.0,1.946173,no,Public_Transportation,1
+1078,Female,nineteen,1.71367;fifty,no,yes,1.005578,4.0,Frequently,no,1.0,no,1.683957,0.704978,Sometimes,Public_Transportation,0
+1079,Male,thirty-seven,"1.76071,118",yes,yes,2.611222,2.992083,Sometimes,no,1.796376,no,0.641954,0.20281,Sometimes,Automobile,1
+1080,Male,eighteen,-8.0;52,yes,yes,3.0,3.0,Frequently,no,2.0,no,0.819682,1.0,no,Public_Transportation,0
+1081,Female,18,"1.670058,eighty-six",yes,yes,2.609123,3.0,Sometimes,no,1.955053,no,1.186013,0.0,no,Public_Transportation,1
+1082,Female,26,-5.0;one hundred and six,yes,yes,3.0,3.0,Sometimes,no,2.686824,no,0.0,0.540812,Sometimes,Public_Transportation,1
+1083,Male,twenty,"1.6,fifty",no,no,2.0,3.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+1084,Male,25,1.874519;one hundred and twenty-one,yes,yes,2.630137,3.0,Sometimes,no,2.960088,no,1.356468,0.0,Sometimes,Public_Transportation,1
+1085,Female,twenty-two,"1.69,65",yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+1086,Male,twenty,1.98_125,yes,yes,2.0,3.0,Always,no,3.0,no,1.0,1.0,Sometimes,Public_Transportation,1
+1087,Female,twenty-six,1.62495_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.704315,no,0.0,0.322666,Sometimes,Public_Transportation,1
+1088,Male,twenty-two,1.75376_55,yes,yes,2.450218,3.995147,Sometimes,no,2.147746,no,2.0,0.58998,Sometimes,Public_Transportation,0
+1089,Male,twenty-one,1.76;78,yes,yes,3.0,1.0,Sometimes,no,2.0,no,3.0,0.0,Sometimes,Walking,0
+1090,Female,nineteen,1.661403;49,no,yes,2.205439,3.0,Sometimes,no,1.530531,no,2.0,1.0,Sometimes,Public_Transportation,0
+1091,Female,twenty,1.736276;130,yes,yes,3.0,3.0,Sometimes,no,1.852692,no,1.46361,0.962336,Sometimes,Public_Transportation,1
+1092,Male,nineteen,1.76;seventy-nine,yes,yes,2.0,3.0,Frequently,no,3.0,no,1.0,2.0,Frequently,Public_Transportation,0
+1093,Female,thirty-three,"1.59,sixty",no,yes,3.0,1.0,Frequently,no,2.0,no,0.0,0.0,no,Public_Transportation,0
+1094,Male,thirty,-4.0;one hundred and twenty,yes,yes,2.519592,3.0,Sometimes,no,2.229145,no,0.350717,1.140348,Sometimes,Automobile,1
+1095,Female,sixteen,1.777929_forty-four,no,yes,2.911877,3.098399,Sometimes,no,2.196405,no,2.328147,1.55011,Sometimes,Public_Transportation,0
+1096,Female,twenty-six,1.65632_111,yes,yes,3.0,3.0,Sometimes,no,2.774014,no,0.0,0.138418,Sometimes,Public_Transportation,1
+1097,Female,twenty,1.709585;75,yes,yes,2.104105,3.0,Sometimes,no,1.871033,no,1.0,0.0,Sometimes,Public_Transportation,0
+1098,Male,33,1.699793;103,yes,yes,2.576449,2.419656,Sometimes,no,1.0,no,1.982379,0.0,no,Public_Transportation,1
+1099,Male,twenty-five,1.79858_one hundred and seventeen,yes,yes,2.037042,3.0,Sometimes,no,2.43699,no,1.016254,0.020044,Sometimes,Public_Transportation,1
+1100,Female,twenty-two,1.640426;87,yes,yes,3.0,1.0,Sometimes,no,3.0,no,1.280924,1.77795,no,Public_Transportation,1
+1101,Female,19,1.716521_one hundred and twenty-seven,yes,yes,3.0,3.0,Sometimes,no,1.313834,no,0.912334,0.707494,Sometimes,Public_Transportation,1
+1102,Female,27,1.6_sixty-one,no,yes,3.0,3.0,Always,no,2.0,no,0.0,0.0,Sometimes,Automobile,0
+1103,Male,nineteen,1.85_115,no,no,2.0,3.0,Sometimes,no,3.0,yes,1.0,2.0,no,Public_Transportation,1
+1104,Male,25,1.827279_one hundred and twenty,yes,yes,3.0,3.0,Sometimes,no,3.0,no,1.110215,0.396352,Sometimes,Public_Transportation,1
+1105,Male,39,"1.792507,101",yes,yes,2.33361,2.113575,Sometimes,no,2.504136,no,2.998981,1.0,Sometimes,Automobile,1
+1106,Male,seventeen,1.74_fifty-six,yes,yes,2.0,3.0,Sometimes,no,2.0,no,2.0,1.0,no,Public_Transportation,0
+1107,Female,twenty-six,"1.627567,107",yes,yes,3.0,3.0,Sometimes,no,2.687378,no,0.0,0.410651,Sometimes,Public_Transportation,1
+1108,Male,forty,1.744974_111,yes,yes,2.294259,2.850948,Sometimes,no,1.87029,no,0.917014,0.0,no,Automobile,1
+1109,Female,22,"1.66913,86",yes,yes,2.290095,2.590283,Sometimes,no,2.506296,no,0.312254,1.0,no,Public_Transportation,1
+1110,Male,22,-8.0_ninety-five,yes,yes,2.0,3.0,Sometimes,no,2.287248,no,2.669179,1.237867,no,Public_Transportation,1
+1111,Female,seventeen,"1.647811,forty-nine",no,yes,3.0,3.566082,Sometimes,no,1.438398,no,2.0,1.0,Sometimes,Public_Transportation,0
+1112,Female,thirty-seven,1.516007;seventy-seven,yes,yes,2.0,2.880794,Sometimes,no,1.61837,no,0.120165,0.0,Sometimes,Automobile,1
+1113,Male,nineteen,1.824449_87,yes,yes,2.793561,3.788602,Sometimes,no,2.429059,no,2.094542,0.393358,Sometimes,Public_Transportation,0
+1114,Male,forty,1.748103;108,yes,yes,2.317459,3.734323,Sometimes,no,1.0,no,1.628637,0.0,no,Automobile,1
+1115,Female,21,"1.712515,51",yes,yes,2.8813,3.087544,Frequently,no,1.24818,no,1.952427,0.427461,no,Public_Transportation,0
+1116,Male,twenty-two,1.751046_95,yes,yes,2.0,3.0,Sometimes,no,2.530301,no,2.89118,1.287117,no,Public_Transportation,1
+1117,Male,19,1.8;70,no,yes,3.0,3.0,Frequently,no,1.0,no,2.0,0.0,no,Public_Transportation,0
+1118,Female,eighteen,1.701378;fifty,no,yes,1.601236,3.433908,Sometimes,no,1.055019,no,0.819269,1.030848,Sometimes,Public_Transportation,0
+1119,Female,sixteen,-2.0_58,no,no,2.0,1.0,Sometimes,no,1.0,no,0.0,1.0,no,Walking,0
+1120,Female,38,"1.5,sixty",yes,yes,2.0,1.0,Always,yes,2.0,no,0.0,0.0,Sometimes,Automobile,0
+1121,Female,22,1.650052_87,yes,yes,2.87599,1.2919,Sometimes,no,2.777712,no,0.432813,1.0,no,Public_Transportation,1
+1122,Male,22,1.746645;ninety-six,yes,yes,2.0,3.0,Sometimes,no,2.714091,no,2.64102,1.224737,no,Public_Transportation,1
+1123,Male,eighteen,"1.824655,fifty-eight",yes,yes,2.14084,4.0,Sometimes,no,2.931438,no,2.0,1.164457,no,Automobile,0
+1124,Male,twenty-nine,"1.82697,one hundred and eight",yes,yes,2.0,2.877583,Sometimes,no,2.358038,no,0.877295,1.817146,Sometimes,Automobile,1
+1125,Female,twenty-five,1.617817;104,yes,yes,3.0,3.0,Sometimes,no,1.71659,no,0.001272,0.545993,Sometimes,Public_Transportation,1
+1126,Female,18,1.58;forty-eight,no,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,no,Public_Transportation,0
+1127,Male,nineteen,1.762073;55,yes,yes,2.0,4.0,Sometimes,no,2.542415,no,2.0,1.807465,no,Automobile,0
+1128,Female,26,1.641098;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.55057,no,0.0,0.20482,Sometimes,Public_Transportation,1
+1129,Female,twenty-one,"1.743841,seventy-eight",yes,yes,2.510583,1.0,Sometimes,no,2.0,no,2.119682,0.0,Sometimes,Public_Transportation,0
+1130,Male,twenty-one,-4.0;seventy-five,yes,yes,2.0,3.0,Sometimes,no,1.825629,no,0.699592,0.142056,Sometimes,Public_Transportation,0
+1131,Female,25,1.623514_109,yes,yes,3.0,3.0,Sometimes,no,2.217348,no,0.001015,0.481031,Sometimes,Public_Transportation,1
+1132,Male,twenty-three,"-8.0,seventy-five",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.345684,1.415536,Sometimes,Public_Transportation,0
+1133,Male,26,"1.673287,90",yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.884935,0.12228,Sometimes,Automobile,1
+1134,Male,25,1.65891;104,yes,yes,2.859097,1.340361,Sometimes,no,1.530508,no,0.174475,1.261705,no,Public_Transportation,1
+1135,Female,nineteen,"-5.0,seventy-nine",yes,yes,2.0,1.893811,Sometimes,no,3.0,no,1.376229,1.801322,no,Public_Transportation,0
+1136,Female,26,"1.626483,one hundred and eleven",yes,yes,3.0,3.0,Sometimes,no,2.61939,no,0.0,0.171034,Sometimes,Public_Transportation,1
+1137,Female,twenty-three,"1.63,forty-five",yes,no,3.0,3.0,Sometimes,no,3.0,yes,2.0,0.0,no,Public_Transportation,0
+1138,Female,thirty,1.645511;sixty-nine,yes,yes,2.000466,3.0,Sometimes,no,1.131448,no,0.061366,0.0,Sometimes,Automobile,0
+1139,Male,twenty-one,1.82;72,yes,yes,1.0,3.0,Frequently,no,3.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+1140,Female,nineteen,"1.61291,82",yes,yes,1.261288,2.930044,Sometimes,no,1.166655,no,0.133398,0.95174,no,Public_Transportation,1
+1141,Male,21,"1.709561,seventy-five",yes,yes,2.0,3.0,Sometimes,no,1.636326,no,1.0,0.0,Sometimes,Public_Transportation,0
+1142,Male,31,"1.751688,119",yes,yes,2.14961,3.0,Sometimes,no,2.133876,no,0.393452,0.345887,Sometimes,Automobile,1
+1143,Male,eighteen,1.7_55,yes,yes,2.0,3.0,Frequently,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+1144,Female,eighteen,1.6;56,yes,yes,2.0,1.0,Always,no,2.0,no,1.0,0.0,Sometimes,Walking,0
+1145,Male,twenty-nine,1.763259;113,yes,yes,2.181057,3.0,Sometimes,no,2.08554,no,0.0,1.439004,Sometimes,Automobile,1
+1146,Female,twenty,"1.816868,153",yes,yes,3.0,3.0,Sometimes,no,2.414739,no,1.917014,0.927982,Sometimes,Public_Transportation,1
+1147,Male,25,"1.783381,115",yes,yes,2.191429,3.0,Sometimes,no,2.102709,no,1.32534,0.380979,Sometimes,Public_Transportation,1
+1148,Male,twenty-one,1.783782_one hundred and five,yes,yes,2.044326,3.0,Sometimes,no,2.35818,no,0.349371,0.0,Sometimes,Public_Transportation,1
+1149,Female,twenty-six,1.624134_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.609188,no,0.0,0.17403,Sometimes,Public_Transportation,1
+1150,Male,twenty,-2.0_fifty-eight,no,yes,2.0,3.0,Sometimes,no,2.0,no,3.0,1.0,Sometimes,Public_Transportation,0
+1151,Male,twenty-five,1.87;66,no,yes,3.0,3.0,Always,no,2.0,no,2.0,0.0,Frequently,Public_Transportation,0
+1152,Male,25,"1.818848,87",no,yes,2.286481,1.713762,Sometimes,no,1.797161,no,1.658698,0.926581,no,Automobile,0
+1153,Male,23,"1.62,fifty-eight",no,no,2.0,3.0,Sometimes,no,1.0,no,1.0,0.0,no,Public_Transportation,0
+1154,Female,twenty-two,1.7_sixty-six,yes,no,3.0,3.0,Always,no,2.0,yes,2.0,1.0,Sometimes,Public_Transportation,0
+1155,Female,18,1.759091_133,yes,yes,3.0,3.0,Sometimes,no,2.862408,no,1.456933,0.742423,Sometimes,Public_Transportation,1
+1156,Female,seventeen,"1.63,65",no,yes,2.0,1.0,Sometimes,no,3.0,no,1.0,1.0,no,Public_Transportation,0
+1157,Male,thirty-nine,1.706741_108,yes,yes,2.487781,3.755976,Sometimes,no,1.0,no,1.860765,0.0,no,Automobile,1
+1158,Female,twenty-two,"1.59994,sixty-five",no,yes,2.99448,3.0,Sometimes,no,1.706568,no,0.784216,0.150969,Sometimes,Public_Transportation,0
+1159,Female,21,"1.65,eighty-eight",yes,yes,2.457547,1.00061,Sometimes,no,3.0,no,1.361533,1.0,no,Public_Transportation,1
+1160,Female,26,"1.629727,111",yes,yes,3.0,3.0,Sometimes,no,2.495851,no,0.0,0.218645,Sometimes,Public_Transportation,1
+1161,Female,25,"1.611462,one hundred and two",yes,yes,3.0,3.0,Sometimes,no,1.023328,no,0.05093,1.0,Sometimes,Public_Transportation,1
+1162,Male,twenty-one,"1.697228,75",yes,yes,2.204914,3.623364,Sometimes,no,1.815293,no,0.989316,0.0,Sometimes,Public_Transportation,0
+1163,Female,26,"-10.0,111",yes,yes,3.0,3.0,Sometimes,no,2.605685,no,0.0,0.199227,Sometimes,Public_Transportation,1
+1164,Female,sixteen,"-3.0,sixty-six",yes,yes,2.206399,1.0,Sometimes,no,2.0,yes,0.94893,1.772463,no,Public_Transportation,0
+1165,Female,twenty-five,"1.643111,109",yes,yes,3.0,3.0,Sometimes,no,1.530992,no,0.01586,0.445495,Sometimes,Public_Transportation,1
+1166,Male,twenty-five,"1.830384,one hundred and five",yes,yes,3.0,3.0,Sometimes,no,2.480277,no,1.796779,1.596562,Sometimes,Public_Transportation,1
+1167,Female,thirty-six,1.532322;sixty-two,yes,yes,2.288604,2.845307,Sometimes,no,2.638164,no,0.0,0.990741,Sometimes,Automobile,0
+1168,Female,25,1.642392_one hundred and four,yes,yes,3.0,3.0,Sometimes,no,1.204055,no,0.094851,0.603736,Sometimes,Public_Transportation,1
+1169,Male,twenty-six,"1.830317,one hundred and seventeen",yes,yes,2.068834,3.0,Sometimes,no,2.543841,no,1.217993,0.038253,Sometimes,Public_Transportation,1
+1170,Male,nineteen,-5.0_eighty-five,yes,yes,2.459976,3.30846,Sometimes,no,2.078011,no,1.779646,0.871772,Sometimes,Public_Transportation,0
+1171,Female,twenty,"1.58,fifty-three",yes,yes,2.0,1.0,Frequently,no,2.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+1172,Male,19,1.74_74,yes,no,3.0,1.0,Sometimes,no,3.0,no,3.0,1.0,Sometimes,Walking,0
+1173,Male,22,"1.803132,106",yes,yes,2.348745,3.0,Sometimes,no,2.096751,no,0.544564,0.67688,Sometimes,Public_Transportation,1
+1174,Female,30,1.633491_sixty-eight,yes,yes,2.052152,3.0,Sometimes,no,1.972074,no,0.228307,0.0,Sometimes,Automobile,0
+1175,Female,21,"1.730182,78",yes,yes,2.293705,1.0,Sometimes,no,2.0,no,2.063943,0.0,Sometimes,Public_Transportation,0
+1176,Female,18,"1.737165,seventy-six",yes,yes,2.838969,3.0,Sometimes,no,2.425927,no,1.0,1.453335,Frequently,Public_Transportation,0
+1177,Male,22,"1.723921,ninety-four",yes,yes,2.0,3.0,Sometimes,no,2.183149,no,1.932386,0.212767,no,Public_Transportation,1
+1178,Female,nineteen,1.682594_127,yes,yes,3.0,3.0,Sometimes,no,1.441289,no,1.425712,0.662277,Sometimes,Public_Transportation,1
+1179,Male,seventeen,"1.811238,fifty-eight",yes,yes,2.483979,3.762778,Sometimes,no,2.0,no,2.0,0.930051,no,Automobile,0
+1180,Male,nineteen,"1.637537,70",yes,yes,2.0,1.030416,Sometimes,no,2.118716,no,0.529259,0.0,no,Public_Transportation,0
+1181,Female,22,"1.65,60",yes,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Automobile,0
+1182,Male,nineteen,1.703098;98,yes,yes,2.0,2.391753,Sometimes,no,2.0,no,0.0,1.119877,no,Public_Transportation,1
+1183,Male,29,1.682916_89,yes,yes,1.851262,3.0,Sometimes,no,2.11267,no,0.388269,0.0,Sometimes,Automobile,1
+1184,Male,nineteen,1.820643_eighty-five,yes,yes,3.0,3.0,Sometimes,no,2.759246,no,1.763277,0.453314,Sometimes,Public_Transportation,0
+1185,Male,eighteen,1.72_fifty-three,yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+1186,Female,twenty-one,1.742364_78,yes,yes,2.780699,1.101404,Sometimes,no,1.579207,no,1.153775,0.0,Sometimes,Public_Transportation,0
+1187,Female,twenty-three,1.596586_80,yes,yes,1.518966,1.0,Sometimes,no,2.0,no,0.0,1.094046,no,Public_Transportation,1
+1188,Male,19,"1.856811,88",yes,yes,2.047069,3.829101,Sometimes,no,1.641022,no,1.554817,0.248218,Sometimes,Public_Transportation,0
+1189,Male,twenty,1.8_sixty-five,no,yes,2.0,3.0,Frequently,no,1.0,no,2.0,0.0,Sometimes,Motorbike,0
+1190,Male,twenty-one,1.849601_122,yes,yes,3.0,2.218285,Sometimes,no,1.340117,no,0.428259,0.0,Sometimes,Public_Transportation,1
+1191,Female,20,"1.549311,forty-one",no,yes,2.927218,1.0,Frequently,no,1.0,no,0.0,0.276592,Sometimes,Public_Transportation,0
+1192,Female,31,1.68_sixty-three,yes,yes,3.0,1.0,Frequently,no,2.0,no,1.0,1.0,Sometimes,Automobile,0
+1193,Female,38,1.517248;seventy-nine,yes,yes,2.0,3.0,Sometimes,no,1.095134,no,0.0,0.0,Sometimes,Automobile,1
+1194,Female,twenty-six,1.641849_one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.632253,no,0.0,0.244205,Sometimes,Public_Transportation,1
+1195,Female,thirty-three,1.56;48,yes,no,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+1196,Male,17,1.8_sixty-eight,yes,no,2.0,3.0,Sometimes,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1197,Male,twenty-seven,"1.908608,128",yes,yes,2.206276,3.0,Sometimes,no,1.813082,no,1.94984,0.0,Sometimes,Public_Transportation,1
+1198,Male,24,1.768834_97,yes,yes,2.0,3.0,Sometimes,no,2.973729,no,2.491642,1.36595,no,Public_Transportation,1
+1199,Female,eighteen,1.669354_126,yes,yes,3.0,3.0,Sometimes,no,1.144539,no,0.922014,0.899673,Sometimes,Public_Transportation,1
+1200,Female,twenty-two,1.715597;fifty,yes,yes,2.449267,3.647154,Frequently,no,1.266018,no,0.866045,0.097234,no,Public_Transportation,0
+1201,Male,twenty-four,"1.607787,100",yes,yes,2.880759,1.487674,Sometimes,no,1.01378,no,1.00109,1.09838,no,Public_Transportation,1
+1202,Female,26,"-8.0,111",yes,yes,3.0,3.0,Sometimes,no,2.621976,no,0.0,0.123861,Sometimes,Public_Transportation,1
+1203,Male,22,1.874061;eighty-nine,yes,yes,2.0,2.870005,Sometimes,no,1.15031,no,0.417724,1.0,Sometimes,Automobile,0
+1204,Female,22,"-9.0,82",yes,yes,1.880534,2.806566,Sometimes,no,2.313245,no,2.146778,0.196084,no,Public_Transportation,1
+1205,Male,thirty,"1.755926,112",yes,yes,2.317734,3.0,Sometimes,no,2.152736,no,0.0,1.108145,no,Automobile,1
+1206,Male,19,-4.0;sixty,yes,yes,2.0,1.0,Sometimes,no,2.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+1207,Male,eighteen,1.791174;108,yes,yes,2.0,1.08687,Sometimes,no,2.279124,no,1.0,1.609773,no,Public_Transportation,1
+1208,Female,twenty-one,1.754813;77,yes,yes,2.915279,1.104642,Sometimes,no,1.530046,no,1.360635,0.0,Sometimes,Public_Transportation,0
+1209,Female,thirty-five,1.647514;seventy-three,yes,no,3.0,2.725012,Sometimes,no,1.62244,no,0.902661,0.0,Sometimes,Automobile,0
+1210,Male,30,1.755333;118,yes,yes,2.938616,3.0,Sometimes,no,2.06039,no,0.371508,1.333559,Sometimes,Automobile,1
+1211,Male,twenty-six,1.819535_one hundred and eighteen,yes,yes,1.975675,3.0,Sometimes,no,2.357969,no,0.704236,0.010721,Sometimes,Public_Transportation,1
+1212,Male,30,"1.761068,118",yes,yes,2.571274,3.0,Sometimes,no,2.224164,no,1.018158,1.152899,Sometimes,Automobile,1
+1213,Female,18,"1.7,fifty",no,no,2.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Walking,0
+1214,Female,twenty-six,1.633195;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.619517,no,0.0,0.140368,Sometimes,Public_Transportation,1
+1215,Female,twenty-one,"1.694952,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,1.338241,no,1.92628,0.886135,Sometimes,Public_Transportation,1
+1216,Male,18,1.820385_108,yes,yes,2.0,2.164839,Sometimes,no,2.094479,no,1.0,0.676557,Sometimes,Public_Transportation,1
+1217,Female,21,1.52_forty-two,no,yes,3.0,1.0,Frequently,no,1.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+1218,Female,thirty-seven,"1.615385,80",yes,yes,2.972426,3.0,Sometimes,no,1.636326,no,0.0,0.0,Sometimes,Automobile,1
+1219,Male,31,1.76;seventy-five,yes,no,3.0,3.0,Always,no,3.0,yes,3.0,0.0,no,Bike,0
+1220,Female,eighteen,-1.0;58,no,yes,3.0,3.0,Sometimes,no,1.0,no,0.0,2.0,no,Automobile,0
+1221,Male,twenty,1.66_sixty,no,yes,2.0,4.0,Frequently,no,3.0,no,0.0,0.0,no,Public_Transportation,0
+1222,Female,twenty-two,1.73;seventy-nine,yes,yes,2.0,1.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+1223,Female,twenty,"1.80734,one hundred and fifty-five",yes,yes,3.0,3.0,Sometimes,no,2.417122,no,0.952725,0.573958,Sometimes,Public_Transportation,1
+1224,Female,twenty-one,"1.747987,one hundred and forty-seven",yes,yes,3.0,3.0,Sometimes,no,2.336349,no,1.4164,0.711724,Sometimes,Public_Transportation,1
+1225,Female,21,1.755476_one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,1.959287,no,1.433151,0.911335,Sometimes,Public_Transportation,1
+1226,Female,twenty-seven,1.7;74,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.722053,0.0,Sometimes,Automobile,0
+1227,Male,18,1.7_60,no,yes,2.0,3.0,Sometimes,no,2.0,no,2.0,1.0,no,Public_Transportation,0
+1228,Male,nineteen,1.859927_87,yes,yes,2.21232,4.0,Sometimes,no,2.374044,no,2.0,0.622638,Sometimes,Public_Transportation,0
+1229,Female,18,"1.7,fifty",no,yes,1.592183,3.535016,Sometimes,no,1.086391,no,0.618913,1.0,Sometimes,Public_Transportation,0
+1230,Male,thirty,"1.699354,100",yes,yes,2.819934,1.91863,Sometimes,no,1.0,no,1.39302,0.553311,no,Public_Transportation,1
+1231,Male,seventeen,"1.723191,97",yes,yes,2.0,3.0,Sometimes,no,2.0,no,0.0,0.931721,no,Public_Transportation,1
+1232,Female,nineteen,1.6_60,no,yes,2.0,3.0,Frequently,no,2.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+1233,Male,twenty-three,"1.774644,105",yes,yes,2.312825,3.0,Sometimes,no,2.073497,no,0.614466,0.579541,Sometimes,Public_Transportation,1
+1234,Male,23,1.735659;93,yes,yes,2.0,3.0,Sometimes,no,1.249307,no,0.973465,1.0,no,Public_Transportation,1
+1235,Female,21,1.751118;one hundred and forty-nine,yes,yes,3.0,3.0,Sometimes,no,2.309409,no,1.68291,0.70558,Sometimes,Public_Transportation,1
+1236,Male,twenty-one,"1.62,seventy",no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+1237,Female,eighteen,"1.62,sixty-eight",no,no,2.0,1.0,Sometimes,no,1.0,no,0.0,2.0,no,Public_Transportation,0
+1238,Female,25,1.638218;104,yes,yes,3.0,3.0,Sometimes,no,2.654636,no,0.069238,0.629578,Sometimes,Public_Transportation,1
+1239,Female,twenty-five,"1.640741,104",yes,yes,3.0,3.0,Sometimes,no,2.653531,no,0.190061,0.692343,Sometimes,Public_Transportation,1
+1240,Male,18,"1.782722,one hundred and eight",yes,yes,2.0,2.655265,Sometimes,no,2.297896,no,1.0,0.552665,no,Public_Transportation,1
+1241,Female,twenty-five,1.668709;104,yes,yes,3.0,3.0,Sometimes,no,1.412049,no,0.143955,0.753077,Sometimes,Public_Transportation,1
+1242,Female,twenty-two,"1.59611,forty-two",no,no,3.0,2.581015,Frequently,no,2.654702,no,0.902095,0.0,no,Public_Transportation,0
+1243,Female,twenty-five,1.642098;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,1.482002,no,0.204108,0.657221,Sometimes,Public_Transportation,1
+1244,Male,26,-4.0;120,yes,yes,2.247795,3.0,Sometimes,no,2.816015,no,0.712726,0.0,Sometimes,Public_Transportation,1
+1245,Female,18,"1.802257,149",yes,yes,3.0,3.0,Sometimes,no,2.181811,no,1.995582,0.939665,Sometimes,Public_Transportation,1
+1246,Female,forty-one,"1.54,80",yes,yes,2.0,3.0,Always,no,1.0,no,0.0,0.0,Sometimes,Automobile,1
+1247,Male,eighteen,"1.699437,fifty-two",yes,yes,2.853513,3.0,Sometimes,no,2.0,no,0.680464,1.258881,Sometimes,Public_Transportation,0
+1248,Female,26,1.641209;one hundred and eleven,yes,yes,3.0,3.0,Sometimes,no,2.621877,no,0.0,0.153669,Sometimes,Public_Transportation,1
+1249,Male,25,1.770124_114,yes,yes,2.159033,3.0,Sometimes,no,2.116399,no,1.331526,0.052942,Sometimes,Public_Transportation,1
+1250,Male,thirty-six,"1.787521,one hundred",yes,yes,2.031185,2.992606,Sometimes,no,2.852254,no,2.00123,0.36037,Frequently,Automobile,1
+1251,Male,twenty-one,-5.0_98,yes,yes,2.0,2.977543,Sometimes,no,2.205977,no,2.698874,2.0,no,Public_Transportation,1
+1252,Female,nineteen,"1.61,fifty-three",yes,yes,2.0,3.0,Always,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1253,Male,twenty-six,"-8.0,eighty-two",yes,yes,1.94313,3.559841,Sometimes,no,2.367996,no,0.23553,0.879977,Sometimes,Public_Transportation,0
+1254,Male,twenty-four,1.7;seventy-five,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Automobile,0
+1255,Male,twenty-one,"1.72,seventy-two",yes,yes,3.0,3.0,Always,no,3.0,yes,3.0,0.0,Sometimes,Automobile,0
+1256,Female,19,1.520997_42,no,yes,3.0,1.0,Frequently,no,1.527036,no,0.0,0.860497,Sometimes,Public_Transportation,0
+1257,Male,twenty-eight,1.81006_eighty-seven,no,yes,3.0,3.0,Sometimes,no,1.205633,no,2.0,0.0,no,Automobile,0
+1258,Female,20,1.782714_154,yes,yes,3.0,3.0,Sometimes,no,2.319559,no,1.97073,0.768375,Sometimes,Public_Transportation,1
+1259,Male,22,"1.732694,ninety-eight",yes,yes,2.0,2.993623,Sometimes,no,2.326635,no,2.236586,1.529423,no,Public_Transportation,1
+1260,Male,22,1.75;70,no,no,2.0,3.0,Sometimes,no,3.0,no,1.0,1.0,no,Public_Transportation,0
+1261,Male,twenty-three,1.65_sixty-six,no,no,3.0,3.0,Sometimes,no,2.0,no,3.0,0.0,no,Public_Transportation,0
+1262,Female,twenty-two,"1.661415,120",yes,yes,3.0,3.0,Sometimes,no,1.91039,no,0.217455,0.77582,Sometimes,Public_Transportation,1
+1263,Female,twenty-one,1.7199_one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.41752,no,1.556155,0.873936,Sometimes,Public_Transportation,1
+1264,Female,eighteen,"1.71,seventy-five",yes,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,no,Public_Transportation,0
+1265,Female,35,1.529834;62,no,yes,2.0,2.105616,Sometimes,no,1.456581,no,0.0,0.9974,Sometimes,Automobile,0
+1266,Male,nineteen,1.806947_85,yes,yes,2.0,3.0,Sometimes,no,2.292073,no,1.067817,0.19668,Sometimes,Public_Transportation,0
+1267,Female,twenty-one,1.73581;one hundred and thirty-five,yes,yes,3.0,3.0,Sometimes,no,2.611654,no,1.618512,0.868788,Sometimes,Public_Transportation,1
+1268,Female,twenty-five,"1.683502,104",yes,yes,3.0,3.0,Sometimes,no,1.525127,no,0.220825,0.896105,Sometimes,Public_Transportation,1
+1269,Female,43,1.582523_81,yes,yes,2.76632,1.317884,Sometimes,no,1.889341,no,0.990642,0.0,no,Automobile,1
+1270,Female,26,-4.0_one hundred and nine,yes,yes,3.0,3.0,Sometimes,no,2.688229,no,0.0,0.451377,Sometimes,Public_Transportation,1
+1271,Male,twenty-five,1.772045_one hundred and fourteen,yes,yes,1.624366,3.0,Sometimes,no,2.081719,no,1.538922,0.356868,Sometimes,Public_Transportation,1
+1272,Female,twenty,1.721476_131,yes,yes,3.0,3.0,Sometimes,no,1.837184,no,1.525165,0.926443,Sometimes,Public_Transportation,1
+1273,Female,47,"1.643786,eighty-one",yes,yes,2.037585,1.418985,Sometimes,no,1.827351,no,0.0,0.0,no,Automobile,1
+1274,Male,28,-6.0;129,yes,yes,2.206119,3.0,Sometimes,no,1.483856,no,1.113169,0.0,Sometimes,Public_Transportation,1
+1275,Female,26,1.62788;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,2.588107,no,0.0,0.465607,Sometimes,Public_Transportation,1
+1276,Female,thirty-eight,1.557808_seventy-nine,yes,yes,2.0,3.0,Sometimes,no,1.274774,no,0.0,0.0,Sometimes,Automobile,1
+1277,Male,29,"1.787933,112",yes,yes,2.008245,3.0,Sometimes,no,2.040137,no,0.0,0.474216,Sometimes,Automobile,1
+1278,Male,seventeen,1.706996_99,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.73209,0.048617,no,Public_Transportation,1
+1279,Male,twenty,1.836669_one hundred and five,yes,yes,2.0,3.0,Sometimes,no,2.793505,no,2.21939,0.202902,no,Public_Transportation,1
+1280,Female,18,1.723328;50,no,yes,1.052699,3.998618,Frequently,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1281,Male,20,1.611434;one hundred and three,yes,yes,2.983042,1.109956,Sometimes,no,1.430444,no,0.0,1.690901,no,Public_Transportation,1
+1282,Female,sixteen,1.603842_65,yes,yes,2.543563,1.0,Sometimes,no,2.0,yes,0.694281,1.056911,Sometimes,Public_Transportation,0
+1283,Female,nineteen,"1.556611,39",no,yes,1.889199,2.217651,Sometimes,no,2.013605,no,2.075293,1.683261,Sometimes,Public_Transportation,0
+1284,Female,forty,1.542122_80,yes,yes,2.0,1.105617,Sometimes,no,1.372811,no,1.629432,0.0,Sometimes,Automobile,1
+1285,Male,21,"1.75,72",yes,yes,1.0,3.0,Frequently,no,3.0,no,2.0,0.0,Sometimes,Public_Transportation,0
+1286,Female,19,"1.56,fifty",no,yes,2.0,1.0,Sometimes,no,1.0,no,0.0,2.0,no,Public_Transportation,0
+1287,Male,thirty,"1.680489,102",yes,yes,2.938687,2.138375,Sometimes,no,1.251715,no,1.181811,0.778375,no,Public_Transportation,1
+1288,Male,29,1.918859_129,yes,yes,2.041376,3.0,Sometimes,no,1.120213,no,1.05545,0.0,Sometimes,Public_Transportation,1
+1289,Male,nineteen,1.78_81,yes,no,1.0,3.0,Sometimes,no,2.0,no,3.0,0.0,no,Bike,0
+1290,Male,thirty,-9.0;one hundred and twenty,yes,yes,2.499108,3.0,Sometimes,no,2.040952,no,0.838739,0.489854,Sometimes,Automobile,1
+1291,Male,twenty-five,1.787802_one hundred and fifteen,yes,yes,1.588114,3.0,Sometimes,no,2.115967,no,1.541072,0.0,no,Automobile,1
+1292,Female,24,1.56_sixty,yes,yes,1.0,3.0,Always,no,2.0,no,0.0,2.0,Sometimes,Public_Transportation,0
+1293,Male,twenty-seven,"1.679515,102",yes,yes,2.667229,1.09749,Sometimes,no,1.225958,no,0.206954,1.003011,no,Public_Transportation,1
+1294,Female,21,"1.588046,forty-four",no,no,3.0,1.69608,Frequently,no,2.550307,no,1.098862,0.0,no,Public_Transportation,0
+1295,Female,eighteen,"1.745602,133",yes,yes,3.0,3.0,Sometimes,no,2.923792,no,1.536555,0.62535,Sometimes,Public_Transportation,1
+1296,Female,21,"1.63,66",yes,yes,3.0,1.0,Sometimes,yes,3.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+1297,Female,18,1.622241;68,yes,yes,2.0,1.010319,Sometimes,no,1.319437,no,0.0,1.626456,no,Public_Transportation,0
+1298,Male,thirty-three,1.696412_103,yes,yes,2.679664,2.415522,Sometimes,no,1.0,no,1.987296,0.0,no,Public_Transportation,1
+1299,Female,twenty-six,1.640606;111,yes,yes,3.0,3.0,Sometimes,no,2.709428,no,0.0,0.228486,Sometimes,Public_Transportation,1
+1300,Male,18,1.7_50,no,yes,1.0,3.0,Frequently,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1301,Female,forty,"1.549748,80",yes,yes,2.0,1.099151,Sometimes,no,1.687611,no,1.874662,0.0,Sometimes,Automobile,1
+1302,Male,twenty-one,1.773664_one hundred and sixteen,yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.399183,1.0,Sometimes,Public_Transportation,1
+1303,Male,21,1.610209_sixty-eight,no,yes,1.910176,2.938135,no,no,2.943097,no,0.997202,0.207922,Sometimes,Public_Transportation,0
+1304,Female,21,1.61;54,yes,yes,3.0,3.0,Sometimes,no,3.0,no,0.0,1.0,Sometimes,Walking,0
+1305,Male,30,"1.825449,one hundred and twenty-four",yes,yes,2.01695,3.0,Sometimes,no,1.83412,no,0.797209,0.185499,Sometimes,Public_Transportation,1
+1306,Male,27,-5.0_one hundred and nineteen,yes,yes,2.744994,3.0,Sometimes,no,2.478838,no,0.684487,0.677909,Sometimes,Public_Transportation,1
+1307,Male,39,"1.781032,96",yes,yes,2.252698,2.475228,Sometimes,no,2.923856,no,2.165429,0.616045,Frequently,Automobile,1
+1308,Female,17,"1.7,fifty-six",yes,yes,1.0,3.0,Sometimes,no,1.0,no,1.0,1.0,no,Automobile,0
+1309,Male,sixteen,"1.67,50",yes,yes,2.0,1.0,Frequently,no,3.0,no,1.0,0.0,no,Public_Transportation,0
+1310,Female,nineteen,"-6.0,49",no,no,2.880792,3.281391,Sometimes,no,1.960131,no,1.513029,1.0,Sometimes,Public_Transportation,0
+1311,Male,37,1.704877;107,yes,yes,2.549782,3.985442,Sometimes,no,1.0,no,1.976582,0.0,no,Public_Transportation,1
+1312,Female,21,1.615145;68,yes,yes,1.729824,3.612941,no,no,2.043703,no,0.562118,0.426643,Sometimes,Public_Transportation,0
+1313,Male,25,1.813678;85,no,yes,1.450218,3.985442,Sometimes,no,2.147746,no,0.046836,1.0,no,Automobile,0
+1314,Male,26,1.837117;105,yes,yes,3.0,3.0,Sometimes,no,2.509147,no,2.0,1.564796,Sometimes,Public_Transportation,1
+1315,Male,twenty-two,1.6_66,no,yes,3.0,3.0,Sometimes,no,2.0,no,3.0,0.0,no,Bike,0
+1316,Female,23,1.571812_78,yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.402614,0.0,no,Public_Transportation,1
+1317,Male,twenty-one,"1.664752,94",yes,yes,2.0,2.976098,Sometimes,no,2.0,no,0.0,1.39322,no,Public_Transportation,1
+1318,Male,19,"-1.0,sixty-five",yes,no,2.0,3.0,Sometimes,no,3.0,no,2.0,1.0,Sometimes,Bike,0
+1319,Male,19,"1.855543,eighty-eight",yes,yes,2.0,3.0,Sometimes,no,1.015677,no,0.0,0.37465,Sometimes,Public_Transportation,0
+1320,Male,30,"1.653876,102",yes,yes,2.919526,2.142328,Sometimes,no,1.175714,no,0.958555,0.636289,no,Public_Transportation,1
+1321,Female,22,"1.655742,eighty-two",yes,yes,2.73691,1.478334,Sometimes,no,2.677409,no,0.065264,0.40699,Sometimes,Public_Transportation,1
+1322,Female,22,"1.598393,forty-four",no,no,2.886157,2.326233,Frequently,no,2.306821,no,1.42237,0.0,no,Public_Transportation,0
+1323,Male,thirty-one,1.773521;one hundred and twenty,yes,yes,2.777165,3.0,Sometimes,no,2.106861,no,0.925941,0.2916,Sometimes,Automobile,1
+1324,Female,eighteen,1.706343;ninety-three,yes,yes,1.70825,3.0,Sometimes,no,1.0,no,0.899864,1.0,Sometimes,Public_Transportation,1
+1325,Male,eighteen,1.777108_fifty-seven,yes,yes,2.0,3.092116,Sometimes,no,2.426465,no,2.0,1.839862,no,Automobile,0
+1326,Female,21,1.809871;one hundred and fifty-two,yes,yes,3.0,3.0,Sometimes,no,2.351207,no,0.246831,0.91336,Sometimes,Public_Transportation,1
+1327,Male,twenty-three,1.775815;ninety-seven,yes,yes,2.0,3.0,Sometimes,no,3.0,no,3.0,2.0,no,Public_Transportation,1
+1328,Female,43,1.569234;81,yes,yes,2.909853,1.0,Sometimes,no,2.0,no,1.308852,0.0,no,Automobile,1
+1329,Female,forty,1.570811;sixty-two,yes,yes,2.253371,3.0,Sometimes,no,2.756916,no,1.016042,0.213437,Sometimes,Automobile,0
+1330,Female,twenty-one,1.746516_144,yes,yes,3.0,3.0,Sometimes,no,2.36651,no,1.247505,0.723366,Sometimes,Public_Transportation,1
+1331,Male,twenty-three,"-2.0,116",yes,yes,1.994679,3.0,Sometimes,no,2.0,no,0.966617,0.739006,Sometimes,Public_Transportation,1
+1332,Female,25,"1.669701,one hundred and four",yes,yes,3.0,3.0,Sometimes,no,1.570188,no,0.210351,0.881848,Sometimes,Public_Transportation,1
+1333,Male,19,"1.76033,fifty-five",yes,yes,2.120185,4.0,Sometimes,no,2.582165,no,2.0,1.510609,no,Automobile,0
+1334,Female,20,1.747714;one hundred and twenty-eight,yes,yes,3.0,3.0,Sometimes,no,2.232601,no,0.554323,0.836151,Sometimes,Public_Transportation,1
+1335,Female,19,1.527133_forty-two,no,no,2.725282,1.259803,Frequently,no,1.0,no,1.37467,0.0,Sometimes,Public_Transportation,0
+1336,Female,eighteen,"1.586895,41",no,yes,2.0,1.07976,Sometimes,no,1.0,no,0.194745,1.547086,Sometimes,Public_Transportation,0
+1337,Female,24,1.71146;113,yes,yes,3.0,3.0,Sometimes,no,2.796894,no,0.382189,0.16779,Sometimes,Public_Transportation,1
+1338,Female,twenty-one,1.755643_one hundred and thirty-seven,yes,yes,3.0,3.0,Sometimes,no,2.184707,no,1.978631,0.838957,Sometimes,Public_Transportation,1
+1339,Female,31,1.65015;seventy-three,yes,yes,2.372494,2.849848,Sometimes,no,1.028538,no,0.675983,0.303025,Sometimes,Automobile,0
+1340,Male,eighteen,1.70165;fifty,yes,yes,1.757466,3.0,Sometimes,no,1.153559,no,0.833976,1.616045,Sometimes,Public_Transportation,0
+1341,Female,twenty-three,"-1.0,eighty",yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.389717,0.0,no,Public_Transportation,1
+1342,Male,thirty-one,-3.0;one hundred and five,yes,yes,2.39728,2.036794,Sometimes,no,2.659419,no,1.062011,1.771135,Sometimes,Automobile,1
+1343,Female,twenty-six,"1.610636,105",yes,yes,3.0,3.0,Sometimes,no,2.180566,no,0.0,0.519905,Sometimes,Public_Transportation,1
+1344,Male,thirty-four,-1.0;120,yes,no,2.962415,3.0,Sometimes,no,2.172649,no,1.097905,0.0,Sometimes,Automobile,1
+1345,Female,nineteen,"1.566524,61",no,yes,2.908757,2.696051,Sometimes,no,1.622827,yes,0.539952,0.001096,Sometimes,Public_Transportation,0
+1346,Female,19,1.540375;42,no,no,2.938031,2.705445,Frequently,no,1.333807,yes,1.877369,0.370973,Sometimes,Public_Transportation,0
+1347,Female,16,"-7.0,forty-five",no,yes,2.910733,3.12544,Sometimes,no,2.204263,no,2.407906,1.403037,Sometimes,Public_Transportation,0
+1348,Female,21,"1.748533,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,2.833566,no,1.413239,0.862724,Sometimes,Public_Transportation,1
+1349,Female,16,1.57;forty-nine,no,yes,2.0,4.0,Always,no,2.0,no,0.0,1.0,Sometimes,Public_Transportation,0
+1350,Male,thirty-one,"1.767485,120",yes,yes,2.57691,3.0,Sometimes,no,2.080187,no,1.04268,0.376683,Sometimes,Automobile,1
+1351,Female,22,"1.605662,82",yes,yes,1.557287,1.0,Sometimes,no,2.371015,no,0.288032,2.0,Sometimes,Public_Transportation,1
+1352,Female,23,1.608469;eighty-two,yes,yes,2.150054,2.988539,Sometimes,no,2.768325,no,2.08515,0.0,no,Public_Transportation,1
+1353,Male,twenty-four,1.852664;121,yes,yes,2.906269,2.894142,Sometimes,no,2.435489,no,1.266739,0.36216,Sometimes,Public_Transportation,1
+1354,Male,seventeen,1.8;58,no,yes,2.0,3.0,Frequently,no,2.0,no,2.0,1.0,no,Walking,0
+1355,Male,nineteen,1.67;sixty-eight,no,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+1356,Female,thirty-nine,1.65_50,no,yes,3.0,4.0,Frequently,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+1357,Male,17,"1.7,98",yes,no,2.0,3.0,Sometimes,no,2.0,no,0.0,1.0,Sometimes,Automobile,1
+1358,Male,twenty-two,1.869098;sixty-one,yes,yes,3.0,3.263201,Sometimes,no,2.233274,no,1.557737,0.000355,Sometimes,Automobile,0
+1359,Male,eighteen,"1.778447,eighty",yes,yes,1.570089,3.0,Sometimes,no,2.0,no,2.707882,0.0,no,Public_Transportation,0
+1360,Female,twenty-six,1.633945;111,yes,yes,3.0,3.0,Sometimes,no,2.682804,no,0.0,0.15171,Sometimes,Public_Transportation,1
+1361,Female,twenty-eight,"1.580858,seventy-nine",yes,yes,2.0,1.0,Sometimes,no,2.0,no,0.005405,0.0,no,Public_Transportation,1
+1362,Male,eighteen,1.787733;one hundred and eight,yes,yes,2.0,2.37985,Sometimes,no,2.616138,no,1.0,0.652485,no,Public_Transportation,1
+1363,Male,19,1.814182_85,yes,yes,2.923916,3.335876,Sometimes,no,2.372444,no,1.305633,0.311436,Sometimes,Public_Transportation,0
+1364,Male,18,1.84_sixty,yes,yes,3.0,4.0,Sometimes,no,2.0,yes,2.0,0.0,Sometimes,Automobile,0
+1365,Male,thirty-one,1.823545;one hundred and twenty-six,yes,yes,2.938801,3.0,Sometimes,yes,1.478994,no,0.946763,1.360463,Sometimes,Public_Transportation,1
+1366,Female,37,1.508908_sixty-three,yes,yes,2.048582,1.047197,Sometimes,no,2.0,no,0.15136,0.22596,Sometimes,Automobile,0
+1367,Male,twenty,1.76;fifty-five,yes,yes,2.0,4.0,Sometimes,no,3.0,no,2.0,2.0,no,Public_Transportation,0
+1368,Male,twenty-two,1.65;89,yes,yes,2.103335,2.964024,Sometimes,no,3.0,no,0.632947,1.0,no,Public_Transportation,1
+1369,Male,26,1.844751;105,yes,yes,3.0,3.0,Sometimes,no,2.925029,no,2.0,1.758865,Sometimes,Public_Transportation,1
+1370,Female,twenty-three,"1.6,45",no,no,2.591439,3.0,Frequently,no,2.074048,no,1.679935,0.0,no,Public_Transportation,0
+1371,Female,twenty,1.721057;one hundred and thirty-two,yes,yes,3.0,3.0,Sometimes,no,1.678791,no,1.68249,0.818871,Sometimes,Public_Transportation,1
+1372,Female,eighteen,-5.0;50,no,yes,1.0,3.240578,Sometimes,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1373,Male,twenty-three,"-7.0,58",yes,yes,3.0,3.0,Sometimes,no,2.027984,no,1.661556,0.114716,Sometimes,Automobile,0
+1374,Male,nineteen,1.7;fifty,no,yes,1.0,4.0,Frequently,no,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1375,Female,19,"1.739354,49",no,yes,3.0,3.754599,Sometimes,no,1.692112,no,2.0,1.0,Sometimes,Public_Transportation,0
+1376,Male,twenty-one,1.8;sixty-two,yes,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,0.0,no,Public_Transportation,0
+1377,Female,twenty,1.667852;49,yes,yes,2.977018,3.193671,Frequently,no,2.482933,no,2.0,1.0,no,Public_Transportation,0
+1378,Female,22,1.5_forty-nine,yes,no,2.0,1.0,Sometimes,no,2.0,no,3.0,0.0,no,Walking,0
+1379,Male,nineteen,1.838266;89,yes,yes,2.153639,3.715148,Sometimes,no,2.703337,no,2.0,0.226097,Sometimes,Public_Transportation,0
+1380,Male,nineteen,1.69;sixty-five,no,yes,2.0,3.0,Frequently,no,1.0,no,1.0,1.0,Sometimes,Public_Transportation,0
+1381,Male,twenty-six,1.7_seventy,yes,no,3.0,1.0,Frequently,no,2.0,no,2.0,0.0,Frequently,Public_Transportation,0
+1382,Male,19,"1.8,87",yes,yes,2.0,4.0,Sometimes,no,2.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1383,Female,18,"1.807406,one hundred and forty-one",yes,yes,3.0,3.0,Sometimes,no,2.472903,no,1.998047,0.840911,Sometimes,Public_Transportation,1
+1384,Female,twenty-five,1.618348;104,yes,yes,3.0,3.0,Sometimes,no,2.45126,no,0.043689,0.670402,Sometimes,Public_Transportation,1
+1385,Female,twenty-five,1.654875_104,yes,yes,3.0,3.0,Sometimes,no,2.612758,no,0.24629,0.802136,Sometimes,Public_Transportation,1
+1386,Female,19,1.603923_forty-five,no,no,3.0,3.0,Frequently,no,1.28246,yes,1.60195,0.0,Sometimes,Public_Transportation,0
+1387,Female,18,1.564568_41,no,yes,2.658112,1.0,Sometimes,no,1.298165,no,0.0,1.639326,Sometimes,Public_Transportation,0
+1388,Female,twenty-six,1.649178_111,yes,yes,3.0,3.0,Sometimes,no,2.884077,no,0.0,0.096576,Sometimes,Public_Transportation,1
+1389,Female,34,1.675612;73,yes,yes,3.0,2.400943,Sometimes,no,1.509734,no,0.167125,0.0,Sometimes,Automobile,0
+1390,Female,twenty-nine,1.674568_seventy-one,yes,yes,2.0,3.0,Sometimes,no,1.701835,no,1.682271,0.0,Sometimes,Automobile,0
+1391,Male,21,1.807029_one hundred and five,yes,yes,2.055209,3.0,Sometimes,no,2.885852,no,0.903369,0.14451,Sometimes,Public_Transportation,1
+1392,Female,twenty-five,1.614484;one hundred and four,yes,yes,3.0,3.0,Sometimes,no,1.237557,no,0.083675,0.543761,Sometimes,Public_Transportation,1
+1393,Male,twenty-five,"1.76414,113",yes,yes,1.168856,3.0,Sometimes,no,2.013205,no,1.246223,0.00159,Sometimes,Public_Transportation,1
+1394,Female,18,1.808765_one hundred and forty,yes,yes,3.0,3.0,Sometimes,no,2.830247,no,1.783138,0.789064,Sometimes,Public_Transportation,1
+1395,Male,twenty-nine,"1.77,83",no,yes,1.0,4.0,Frequently,no,3.0,no,0.0,1.0,no,Motorbike,0
+1396,Male,thirty,1.801368_one hundred and twenty-one,yes,yes,2.328469,3.0,Sometimes,no,2.001208,no,0.800487,0.176678,Sometimes,Automobile,1
+1397,Female,34,1.68;seventy-five,no,yes,3.0,1.0,Sometimes,no,1.0,no,0.0,0.0,Sometimes,Automobile,0
+1398,Female,21,"1.767479,fifty-six",yes,yes,2.371338,3.998766,Frequently,no,2.263466,no,2.0,0.844004,no,Public_Transportation,0
+1399,Female,22,1.62826;eighty-two,yes,yes,2.274491,1.0,Sometimes,no,2.2695,no,0.946461,1.73107,Sometimes,Public_Transportation,1
+1400,Female,seventeen,"1.58,50",no,yes,1.0,4.0,Frequently,no,2.0,no,1.0,2.0,Sometimes,Public_Transportation,0
+1401,Female,twenty-five,1.627818;one hundred and five,yes,yes,3.0,3.0,Sometimes,no,1.48075,no,0.098043,0.663492,Sometimes,Public_Transportation,1
+1402,Male,22,1.64037;seventy,no,yes,2.0,1.0,no,no,2.069184,no,0.729898,0.0,Sometimes,Public_Transportation,0
+1403,Male,21,"1.65,88",yes,yes,2.4277,1.001633,Sometimes,no,3.0,no,1.172641,1.0,no,Public_Transportation,1
+1404,Male,eighteen,1.74;sixty-four,no,no,3.0,3.0,Sometimes,no,2.0,yes,0.0,1.0,no,Public_Transportation,0
+1405,Female,twenty-one,1.6_66,yes,yes,2.213135,3.0,Sometimes,no,2.046766,no,2.172546,0.0,Sometimes,Public_Transportation,0
+1406,Female,twenty-three,"1.744319,one hundred and thirty-three",yes,yes,3.0,3.0,Sometimes,no,2.839069,no,1.231031,0.792496,Sometimes,Public_Transportation,1
+1407,Female,twenty-one,-8.0_one hundred and thirty-seven,yes,yes,3.0,3.0,Sometimes,no,2.832659,no,1.505775,0.923005,Sometimes,Public_Transportation,1
+1408,Male,nineteen,"1.942725,121",yes,yes,2.0,3.0,Sometimes,no,3.0,no,1.0,1.014808,Sometimes,Public_Transportation,1
+1409,Male,30,1.754796;one hundred and eighteen,yes,yes,2.907542,3.0,Sometimes,no,2.284494,no,0.647632,1.668318,Sometimes,Automobile,1
+1410,Female,eighteen,"-6.0,137",yes,yes,3.0,3.0,Sometimes,no,2.861533,no,1.70464,0.655571,Sometimes,Public_Transportation,1
+1411,Male,twenty-nine,1.758189_one hundred and eight,yes,yes,3.0,3.0,Sometimes,no,1.271178,no,1.944728,0.0,Sometimes,Automobile,1
+1412,Male,thirty-five,1.78_one hundred,yes,yes,2.069267,1.476204,Sometimes,no,3.0,no,2.05252,0.092736,Frequently,Automobile,1
+1413,Female,18,"1.644682,sixty-eight",yes,yes,2.0,1.131695,Sometimes,no,1.344539,no,0.0,1.59257,no,Public_Transportation,0
+1414,Female,25,1.626179_110,yes,yes,3.0,3.0,Sometimes,no,1.967707,no,0.01437,0.434073,Sometimes,Public_Transportation,1
+1415,Male,twenty-one,"1.930416,118",yes,yes,2.0,3.0,Sometimes,no,3.0,no,0.732186,1.0,Sometimes,Public_Transportation,1
+1416,Male,thirty-seven,1.754217_117,yes,yes,2.535154,2.915921,Sometimes,no,1.8924,no,0.693732,0.06741,Sometimes,Automobile,1
+1417,Male,20,"1.759933,55",yes,yes,2.627031,3.832911,Sometimes,no,2.993448,no,2.0,1.425903,no,Public_Transportation,0
+1418,Female,sixteen,"1.551288,fifty-four",no,yes,1.75375,1.296156,Sometimes,no,2.0,yes,0.110174,1.944675,Sometimes,Public_Transportation,0
+1419,Male,twenty-four,"1.829757,one hundred and twenty",yes,yes,2.644094,3.0,Sometimes,no,2.740525,no,2.0,0.500936,Sometimes,Public_Transportation,1
+1420,Female,twenty-two,1.627908;eighty-two,yes,yes,1.918251,1.355752,Sometimes,no,1.998108,no,0.0,1.382906,Sometimes,Public_Transportation,1
+1421,Female,twenty-three,1.644161_eighty-four,yes,yes,2.177243,3.0,Sometimes,no,2.715572,no,2.230109,0.070897,no,Public_Transportation,1
+1422,Female,thirty-eight,"-3.0,sixty-two",yes,yes,2.002796,3.0,Sometimes,no,2.526775,no,0.271174,0.806069,Sometimes,Automobile,0
+1423,Female,22,1.618686_eighty-one,yes,yes,2.396265,1.073421,Sometimes,no,1.979833,no,0.022598,0.061282,no,Public_Transportation,1
+1424,Female,18,"1.7,fifty",no,yes,1.031149,3.0,Sometimes,no,1.963628,no,0.028202,1.0,Sometimes,Public_Transportation,0
+1425,Female,twenty,1.62;52,no,yes,3.0,3.0,Frequently,no,1.0,no,3.0,1.0,no,Automobile,0
+1426,Male,23,1.74_ninety-three,no,yes,2.0,3.0,Frequently,yes,1.0,no,1.0,1.0,Frequently,Automobile,1
+1427,Male,twenty-one,1.819867_106,yes,yes,2.0,3.0,Sometimes,no,2.715252,no,0.0,0.621605,no,Public_Transportation,1
+1428,Female,sixteen,"1.6,fifty-seven",no,yes,3.0,3.0,Sometimes,no,1.0,no,3.0,0.0,no,Public_Transportation,0
+1429,Female,23,1.63;83,yes,no,3.0,1.0,Sometimes,yes,3.0,no,1.0,2.0,Sometimes,Public_Transportation,1
+1430,Male,23,"1.707968,seventy-five",yes,yes,2.5621,3.105007,Sometimes,no,1.172427,no,0.184917,0.923082,Sometimes,Public_Transportation,0
+1431,Female,twenty-one,"1.747479,one hundred and thirty-six",yes,yes,3.0,3.0,Sometimes,no,1.607531,no,1.963379,0.858392,Sometimes,Public_Transportation,1
+1432,Male,twenty,1.798354_one hundred and three,yes,yes,2.0,3.0,Sometimes,no,2.401315,no,2.891986,0.0,no,Public_Transportation,1
+1433,Male,22,1.84_eighty-four,yes,yes,3.0,3.0,Frequently,no,2.0,yes,3.0,0.0,Sometimes,Public_Transportation,0
+1434,Male,thirty-one,1.672959;90,yes,yes,2.949242,1.782109,Sometimes,no,2.210997,no,1.992719,0.0,Sometimes,Automobile,1
+1435,Male,17,1.757958;fifty-two,no,yes,2.21498,2.64155,Sometimes,no,2.121251,no,0.998391,0.85882,Sometimes,Public_Transportation,0
+1436,Female,seventeen,1.708406_50,no,yes,1.642241,3.45259,Sometimes,no,1.099231,no,0.418875,1.0,Sometimes,Public_Transportation,0
+1437,Male,37,1.75_118,yes,yes,2.133964,3.0,Sometimes,no,2.008361,no,0.202029,0.200516,Sometimes,Automobile,1
+1438,Male,20,"1.8,85",yes,no,2.0,3.0,Sometimes,no,3.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1439,Male,17,"1.7,fifty-five",no,yes,3.0,3.0,Always,no,2.0,no,3.0,1.0,Sometimes,Public_Transportation,0
+1440,Male,22,1.74_seventy-five,yes,yes,3.0,3.0,Frequently,no,1.0,no,1.0,0.0,no,Automobile,0
+1441,Female,twenty,"1.805803,one hundred and fifty-three",yes,yes,3.0,3.0,Sometimes,no,2.387991,no,0.850715,0.656491,Sometimes,Public_Transportation,1
+1442,Male,twenty-three,-9.0_eighty-seven,yes,yes,2.0,1.097312,Sometimes,no,1.328835,no,1.264257,1.0,Sometimes,Automobile,0
+1443,Male,32,1.697421;one hundred and three,yes,yes,2.600217,2.175153,Sometimes,no,1.0,no,1.985536,0.0,no,Public_Transportation,1
+1444,Female,21,"1.843419,165",yes,yes,3.0,3.0,Sometimes,no,2.406541,no,0.10032,0.479221,Sometimes,Public_Transportation,1
+1445,Male,24,1.78_64,yes,yes,3.0,3.0,Sometimes,no,2.0,no,1.0,1.0,Frequently,Public_Transportation,0
+1446,Female,thirty-nine,"1.739293,eighty",no,yes,2.416044,3.196043,Sometimes,no,1.352649,no,0.148628,1.08266,Sometimes,Automobile,0
+1447,Male,twenty-five,-4.0;one hundred and thirteen,yes,yes,1.412566,3.0,Sometimes,no,2.002495,no,1.592795,0.001867,Sometimes,Public_Transportation,1
+1448,Female,eighteen,1.573816;39,no,yes,1.21498,1.717608,Sometimes,no,1.179942,no,0.684739,2.0,Sometimes,Public_Transportation,0
+1449,Female,18,-1.0_fifty,no,yes,1.0816,3.520555,Frequently,no,1.016968,no,0.651412,1.0,Sometimes,Public_Transportation,0
+1450,Male,twenty-one,1.741393;98,yes,yes,2.0,2.978103,Sometimes,no,2.668261,no,2.462269,1.402414,no,Public_Transportation,1
+1451,Male,twenty-four,1.755967;112,yes,yes,1.369529,3.0,Sometimes,no,2.0,no,1.596576,0.0026,Sometimes,Public_Transportation,1
+1452,Female,nineteen,1.602082;forty-five,no,no,3.0,3.0,Frequently,no,2.875583,yes,1.258504,0.0,Sometimes,Public_Transportation,0
+1453,Female,18,1.67;66,no,yes,3.0,3.0,Sometimes,no,2.0,no,0.0,0.0,Sometimes,Public_Transportation,0
+1454,Male,26,1.91;eighty-four,yes,yes,3.0,3.0,Frequently,yes,2.0,no,2.0,2.0,Frequently,Public_Transportation,0
+1455,Male,twenty-nine,1.913252;one hundred and twenty-nine,yes,yes,2.02472,3.0,Sometimes,no,1.800335,no,1.196368,0.0,Sometimes,Public_Transportation,1
+1456,Male,twenty-nine,"-2.0,one hundred and twenty-nine",yes,yes,2.08868,3.0,Sometimes,no,1.520215,no,1.857351,0.0,Sometimes,Public_Transportation,1
+1457,Female,eighteen,1.7456;one hundred and thirty-three,yes,yes,3.0,3.0,Sometimes,no,2.984323,no,1.586525,0.62535,Sometimes,Public_Transportation,1
+1458,Male,32,"1.75,120",yes,no,3.0,3.0,Sometimes,no,3.0,no,0.0,2.0,no,Automobile,1
+1459,Male,twenty-four,1.769933;one hundred and seventeen,yes,yes,1.475906,2.999346,Sometimes,no,2.01943,no,1.046878,0.460866,Sometimes,Public_Transportation,1
+1460,Male,forty,1.760175;one hundred and seventeen,yes,yes,2.032883,2.976211,Sometimes,no,1.726109,no,0.477855,0.0,Sometimes,Automobile,1
+1461,Male,17,1.819557;fifty-eight,yes,yes,2.5596,4.0,Sometimes,no,2.0,no,2.0,0.331483,no,Automobile,0
+1462,Female,sixteen,1.608914;65,yes,yes,1.321028,1.0,Sometimes,no,2.0,yes,0.371452,0.965604,no,Public_Transportation,0
+1463,Male,twenty-two,1.75_seventy-four,yes,no,2.0,3.0,Sometimes,no,2.0,no,1.0,2.0,Sometimes,Bike,0
+1464,Female,twenty-one,1.713133;133,yes,yes,3.0,3.0,Sometimes,no,1.411365,no,1.564618,0.910683,Sometimes,Public_Transportation,1
+1465,Female,twenty-one,1.724268;133,yes,yes,3.0,3.0,Sometimes,no,1.650612,no,1.537639,0.912457,Sometimes,Public_Transportation,1
+1466,Female,18,1.732096;50,no,yes,1.053534,3.378859,Sometimes,no,1.0,no,1.853425,0.861809,Sometimes,Public_Transportation,0
+1467,Female,twenty-two,1.6;82,yes,yes,1.362441,2.57038,Sometimes,no,2.166228,no,2.232851,1.281141,no,Public_Transportation,1
+1468,Female,33,"-8.0,74",yes,no,3.0,1.146052,Sometimes,no,1.074048,no,0.679935,0.0,Sometimes,Automobile,0
+1469,Female,20,1.68;sixty-eight,no,yes,3.0,1.0,Sometimes,no,1.0,no,1.0,0.0,no,Public_Transportation,0
+1470,Male,twenty-six,-9.0_eighty-three,no,yes,1.27785,3.999591,Sometimes,no,2.495944,no,0.00342,1.0,no,Automobile,0
+1471,Female,twenty,1.54;thirty-nine,yes,yes,1.0,3.0,Sometimes,no,2.0,no,3.0,2.0,Sometimes,Public_Transportation,0
+1472,Female,19,1.555431;44,no,no,2.724285,3.0,Frequently,no,1.0,yes,1.070331,0.0,Sometimes,Public_Transportation,0
+1473,Female,nineteen,1.54_forty-two,no,yes,3.0,1.0,Sometimes,no,2.0,no,0.0,1.0,no,Public_Transportation,0
+1474,Male,thirty,-6.0;one hundred and twenty-five,yes,yes,2.050619,3.0,Sometimes,yes,1.515183,no,0.849811,0.261901,Sometimes,Public_Transportation,1
+1475,Female,nineteen,1.585886_forty-two,no,no,2.910345,3.0,Frequently,no,1.0,yes,1.461005,0.0,Sometimes,Public_Transportation,0
+1476,Female,thirty-three,"-9.0,sixty-two",yes,yes,2.0,3.0,Sometimes,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+1477,Female,21,1.749118;133,yes,yes,3.0,3.0,Sometimes,no,2.827773,no,1.412357,0.901071,Sometimes,Public_Transportation,1
+1478,Male,24,1.75596_one hundred and twelve,yes,yes,1.397468,3.0,Sometimes,no,2.01897,no,0.665439,0.062167,Sometimes,Automobile,1
+1479,Female,twenty-one,1.54_47,yes,no,3.0,3.0,Always,no,1.0,no,2.0,0.0,no,Public_Transportation,0
+1480,Female,22,1.664622;114,yes,yes,3.0,3.0,Sometimes,no,2.408442,no,0.194056,0.803141,Sometimes,Public_Transportation,1
+1481,Male,17,1.7_seventy,yes,yes,3.0,3.0,Sometimes,no,2.0,no,0.0,2.0,Sometimes,Walking,0
+1482,Female,sixteen,1.55;forty-five,no,yes,2.0,3.0,Frequently,no,2.0,no,1.0,1.0,no,Public_Transportation,0
+1483,Male,twenty-one,1.790172;105,yes,yes,2.259679,3.0,Sometimes,no,1.026143,no,0.268801,0.077818,Sometimes,Public_Transportation,1
+1484,Female,21,"1.729719,one hundred and thirty-one",yes,yes,3.0,3.0,Sometimes,no,1.422483,no,1.708971,0.673009,Sometimes,Public_Transportation,1
+1485,Male,twenty,-4.0;72,yes,no,3.0,3.0,Sometimes,yes,1.0,no,2.0,1.0,Sometimes,Public_Transportation,0
+1486,Female,eighteen,1.703259_91,yes,yes,1.899793,3.0,Sometimes,no,1.439962,no,0.9529,0.838847,Sometimes,Public_Transportation,1
+1487,Female,twenty-one,1.730636;131,yes,yes,3.0,3.0,Sometimes,no,1.419136,no,1.700889,0.930888,Sometimes,Public_Transportation,1
+1488,Male,twenty,"1.84,one hundred and four",yes,no,2.0,3.0,Sometimes,no,3.0,no,3.0,0.0,no,Motorbike,1
+1489,Female,21,"1.52,fifty-six",yes,no,3.0,3.0,Sometimes,yes,3.0,yes,3.0,0.0,Sometimes,Public_Transportation,0
+1490,Male,twenty-two,1.88_ninety,yes,yes,2.0,3.0,Always,no,1.0,no,0.0,1.0,Sometimes,Automobile,0
+1491,Male,40,1.735851_one hundred and nine,yes,yes,2.305349,3.169089,Sometimes,no,1.02161,no,0.908981,0.0,no,Automobile,1
+1492,Male,28,1.685462;99,yes,yes,2.774562,2.301129,Sometimes,no,1.0,no,1.621733,0.138314,no,Public_Transportation,1
+1493,Male,twenty-one,1.62_70,no,yes,2.0,1.0,no,no,3.0,no,1.0,0.0,Sometimes,Public_Transportation,0
+1494,Female,twenty-five,1.62414_102,yes,yes,3.0,3.0,Sometimes,no,1.067716,no,0.030541,1.0,Sometimes,Public_Transportation,1
+1495,Male,25,1.77274_114,yes,yes,2.175276,3.0,Sometimes,no,2.128176,no,1.306476,0.079334,Sometimes,Public_Transportation,1
+1496,Female,19,1.670635;49,no,no,2.88626,3.559841,Frequently,no,1.632004,no,2.0,1.0,Sometimes,Public_Transportation,0
+1497,Female,thirty-one,1.666023;seventy-two,yes,yes,2.0,3.0,Sometimes,no,1.0,no,0.0,1.301385,Sometimes,Automobile,0
+1498,Male,19,1.82_seventy-five,yes,no,2.0,3.0,Frequently,no,2.0,no,1.0,0.0,no,Public_Transportation,0
+1499,Male,18,"1.7,90",no,yes,3.0,3.0,Sometimes,no,2.0,no,2.0,0.0,Sometimes,Public_Transportation,1
