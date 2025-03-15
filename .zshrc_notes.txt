@@ -1,0 +1,53 @@
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/opt/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/opt/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/opt/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/opt/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+# Disable auto activation of base environment after Conda initialization
+conda config --set auto_activate_base false
+
+# Custom prompt to show Conda or Python virtual environment and shortened path
+function _custom_prompt {
+    # Check the current Conda environment name
+    local conda_env=""
+    if [[ -n "$CONDA_DEFAULT_ENV" ]]; then
+        conda_env="$CONDA_DEFAULT_ENV"
+    fi
+
+    # Check the current Python virtual environment name
+    local python_env=""
+    if [[ -n "$VIRTUAL_ENV" ]]; then
+        python_env=$(basename "$VIRTUAL_ENV")
+    fi
+
+    # Get the current directory (use '~' for home directory)
+    local current_dir
+    if [[ "$PWD" == "$HOME" ]]; then
+        current_dir="~"
+    else
+        current_dir=$(basename "$PWD")
+    fi
+
+    # Construct the prompt
+    if [[ -n "$python_env" ]]; then
+        PS1="($python_env) $current_dir % "
+    elif [[ -n "$conda_env" ]]; then
+        PS1="($conda_env) $current_dir % "
+    else
+        PS1="$current_dir % "
+    fi
+}
+
+# Enable the custom prompt
+PROMPT_COMMAND=_custom_prompt
